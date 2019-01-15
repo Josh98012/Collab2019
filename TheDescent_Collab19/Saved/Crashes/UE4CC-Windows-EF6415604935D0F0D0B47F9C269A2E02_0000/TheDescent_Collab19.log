@@ -1,0 +1,594 @@
+﻿Log file open, 01/08/19 16:02:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.343258
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.288s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.08-16.02.16:212][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.08-16.02.16:212][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.08-16.02.16:229][  0]LogHAL: Display: Platform has ~ 16 GB [17092038656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.08-16.02.16:229][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.08-16.02.16:229][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.08-16.02.16:230][  0]LogInit: Computer: D102-09
+[2019.01.08-16.02.16:230][  0]LogInit: User: s016190h
+[2019.01.08-16.02.16:230][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.08-16.02.16:230][  0]LogInit: High frequency timer resolution =3.410077 MHz
+[2019.01.08-16.02.16:230][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.08-16.02.16:230][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.08-16.02.16:230][  0]LogMemory: Process Physical Memory: 101.58 MB used, 101.58 MB peak
+[2019.01.08-16.02.16:230][  0]LogMemory: Process Virtual Memory: 89.37 MB used, 89.37 MB peak
+[2019.01.08-16.02.16:230][  0]LogMemory: Physical Memory: 5096.49 MB used,  11203.75 MB free, 16300.24 MB total
+[2019.01.08-16.02.16:230][  0]LogMemory: Virtual Memory: 4638.84 MB used,  11203.75 MB free, 134217728.00 MB total
+[2019.01.08-16.02.16:263][  0]LogInit: Using OS detected language (en-US).
+[2019.01.08-16.02.16:263][  0]LogInit: Using OS detected locale (en-GB).
+[2019.01.08-16.02.16:265][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.08-16.02.16:672][  0]LogStreaming: Display: Took  0.408s to InitEngineTextLocalization.
+[2019.01.08-16.02.16:672][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.08-16.02.16:726][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.08-16.02.16:726][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.08-16.02.17:078][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.08-16.02.17:078][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.08-16.02.17:210][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.08-16.02.17:210][  0]LogD3D11RHI:       4043/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.08-16.02.17:212][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.08-16.02.17:212][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.08-16.02.17:212][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.08-16.02.17:222][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.08-16.02.17:222][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.08-16.02.17:222][  0]LogWindows: EnumDisplayDevices:
+[2019.01.08-16.02.17:222][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.08-16.02.17:222][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.08-16.02.17:223][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.08-16.02.17:223][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.08-16.02.17:224][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.08-16.02.17:224][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.08-16.02.17:224][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.01.08-16.02.17:224][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.01.08-16.02.17:224][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.01.08-16.02.17:275][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.08-16.02.17:293][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.08-16.02.17:297][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/12116/).
+[2019.01.08-16.02.17:297][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s016190h/AppData/Local/Temp/UnrealShaderWorkingDir/762B82CB459AEBAE5DFB88AD2686B89E/'.
+[2019.01.08-16.02.17:665][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.08-16.02.17:682][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.08-16.02.17:699][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.08-16.02.17:716][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.08-16.02.17:733][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.08-16.02.17:750][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.08-16.02.17:767][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.08-16.02.17:784][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.08-16.02.17:793][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:892][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-16.02.17:896][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.08-16.02.17:998][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.08-16.02.17:998][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.08-16.02.18:036][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.08-16.02.18:036][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.08-16.02.18:052][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.08-16.02.18:067][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.08-16.02.18:082][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.08-16.02.18:101][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.08-16.02.18:116][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.08-16.02.18:116][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.08-16.02.18:230][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.08-16.02.18:230][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.08-16.02.18:231][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.08-16.02.19:494][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.08-16.02.19:589][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/s016190h/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.08-16.02.19:590][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s016190h/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.08-16.02.19:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.08-16.02.19:590][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.08-16.02.19:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.08-16.02.19:590][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.08-16.02.19:603][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.08-16.02.19:616][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s016190h/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.08-16.02.19:616][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.08-16.02.19:616][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.08-16.02.19:636][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.08-16.02.19:638][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.08-16.02.19:639][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.08-16.02.19:729][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2019.01.08-16.02.20:228][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.08-16.02.20:401][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.08-16.02.20:407][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.08-16.02.20:408][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.08-16.02.20:408][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.08-16.02.20:408][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.08-16.02.20:433][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.01.08-16.02.21:148][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.159023 seconds
+[2019.01.08-16.02.21:155][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.08-16.02.21:155][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.01.08-16.02.21:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.08-16.02.22:443][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.08-16.02.22:459][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.08-16.02.22:655][  0]SourceControl: Source control is disabled
+[2019.01.08-16.02.22:655][  0]SourceControl: Source control is disabled
+[2019.01.08-16.02.22:658][  0]SourceControl: Source control is disabled
+[2019.01.08-16.02.22:660][  0]SourceControl: Source control is disabled
+[2019.01.08-16.02.22:907][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.08-16.02.22:996][  0]LogOcInput: OculusInput pre-init called
+[2019.01.08-16.02.23:075][  0]LogEngine: Initializing Engine...
+[2019.01.08-16.02.23:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.08-16.02.23:077][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.08-16.02.23:077][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.08-16.02.23:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.08-16.02.23:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.08-16.02.23:351][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.08-16.02.23:372][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.08-16.02.23:386][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.02.23:404][  0]LogInit: FAudioDevice initialized.
+[2019.01.08-16.02.23:404][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.08-16.02.23:499][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/s016190h/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.08-16.02.23:515][  0]LogInit: Texture streaming: Enabled
+[2019.01.08-16.02.23:549][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.08-16.02.23:570][  0]LogInit: Transaction tracking system initialized
+[2019.01.08-16.02.23:611][  0]BlueprintLog: New page: Editor Load
+[2019.01.08-16.02.23:750][  0]LocalizationService: Localization service is disabled
+[2019.01.08-16.02.24:166][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.08-16.02.24:166][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.08-16.02.24:166][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.08-16.02.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.08-16.02.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.08-16.02.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.08-16.02.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.08-16.02.24:374][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/' took 0.04s
+[2019.01.08-16.02.24:374][  0]SourceControl: Source control is disabled
+[2019.01.08-16.02.24:374][  0]Cmd: MAP LOAD FILE="../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-16.02.24:375][  0]LightingResults: New page: Lighting Build
+[2019.01.08-16.02.24:381][  0]MapCheck: New page: Map Check
+[2019.01.08-16.02.24:381][  0]LightingResults: New page: Lighting Build
+[2019.01.08-16.02.25:245][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.08-16.02.25:255][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-16.02.25:293][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-16.02.25:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 223.867ms to complete.
+[2019.01.08-16.02.25:517][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.143
+[2019.01.08-16.02.25:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.02.25:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.02.25:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.02.25:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.02.25:687][  0]LogCollectionManager: Loaded 0 collections in 0.004887 seconds
+[2019.01.08-16.02.25:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.01.08-16.02.25:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/Developers/s016190h/Collections/' took 0.01s
+[2019.01.08-16.02.25:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.01.08-16.02.25:739][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.08-16.02.25:749][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2572 classes and 603 folders.
+[2019.01.08-16.02.25:759][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.08-16.02.25:861][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.08-16.02.25:868][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.08-16.02.25:972][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.08-16.02.25:975][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.08-16.02.25:982][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.08-16.02.26:096][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.01.08-16.02.26:277][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.08-16.02.26:277][  0]LogLoad: (Engine Initialization) Total time: 13.68 seconds
+[2019.01.08-16.02.26:277][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.08-16.02.26:324][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.08-16.02.26:401][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.08-16.02.26:469][  2]LogAssetRegistry: Asset discovery search completed in 6.7632 seconds
+[2019.01.08-16.02.26:472][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.08-16.02.26:472][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2019.01.08-16.03.14:806][146]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.03.21:894][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.10.16:312][609]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.08-16.10.16:318][609]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/Character/JerrysCharacter.JerrysCharacter
+[2019.01.08-16.10.16:885][609]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2019.01.08-16.10.18:269][609]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.08-16.10.18:524][610]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.08-16.14.55:862][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.08-16.14.56:162][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.14.56:466][780]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/FirstPersonExampleMapD03E40EC44E6569FF14AFF915928D3BA.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.01.08-16.14.58:105][780]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/FirstPersonExampleMap_BuiltData5CCBDF3A42F09B130C776AAE40153C3B.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.01.08-16.17.29:252][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.17.37:909][371]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Users/Francis/UI/Main_Menu.Main_Menu
+[2019.01.08-16.20.37:598][184]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/FirstPersonExampleMap8E71C01C4F291881F15F19B074612D5D.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.01.08-16.20.38:668][184]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/FirstPersonExampleMap_BuiltDataF0B74E944FD52E5A311E0E9486900075.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.01.08-16.25.06:144][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.25.06:723][128]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest
+[2019.01.08-16.26.12:289][ 44]LogSlate: Window 'Main_Menu' being destroyed
+[2019.01.08-16.27.05:667][332]LogRenderer: Reallocating scene render targets to support 1320x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.08-16.27.08:494][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.27.28:211][527]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_1 via property FP_Gun, but TRASH_SkeletalMeshComponent_1 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_5:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.28:212][527]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.28:282][527]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.29:469][658]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_1 via property FP_Gun, but TRASH_SkeletalMeshComponent_1 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_5:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.29:470][658]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.29:550][658]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.32:804][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.27.35:515][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.27.45:524][542]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_1 via property FP_Gun, but TRASH_SkeletalMeshComponent_1 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_5:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.45:525][542]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.45:586][542]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.49:948][ 63]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_1 via property FP_Gun, but TRASH_SkeletalMeshComponent_1 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_5:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.49:949][ 63]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.49:989][ 63]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.53:509][442]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.53:518][443]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.53:529][444]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.53:539][445]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.53:554][446]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	JerrysCharacterTest_C /Engine/Transient.World_4:PersistentLevel.JerrysCharacterTest_C_0
+	Function /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest_C:UserConstructionScript:0017
+[2019.01.08-16.27.55:067][627]LogEditorTransaction: Undo Modify Component(s)
+[2019.01.08-16.27.56:780][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.28.04:012][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.28.08:784][229]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Francis/Weapons/Taser.Taser
+[2019.01.08-16.28.48:544][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.29.01:823][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.29.01:898][247]BlueprintLog: New page: Compile Taser
+[2019.01.08-16.29.03:216][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.29.35:180][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.29.37:333][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.08-16.29.39:992][417]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Francis/Weapons/Base_Weapon.Base_Weapon
+[2019.01.08-16.29.42:224][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.29.45:137][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.29.46:580][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.29.48:835][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.29.53:095][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.30.00:991][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.30.01:074][717]BlueprintLog: New page: Compile Base_Weapon
+[2019.01.08-16.30.01:277][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.30.01:286][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.30.08:849][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.30.16:071][434]LogEditorTransaction: Undo Move Node
+[2019.01.08-16.30.16:100][434]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.30.16:501][471]LogEditorTransaction: Undo Break Pin Links
+[2019.01.08-16.30.16:520][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.30.16:902][514]LogEditorTransaction: Undo Move Node
+[2019.01.08-16.30.16:926][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.30.47:509][264]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.055
+[2019.01.08-16.30.47:512][264]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Users/Francis/UI/JerrysCharacterTest] ([1] browsable assets)...
+[2019.01.08-16.30.47:512][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Francis/UI/JerrysCharacterTest]
+[2019.01.08-16.30.47:647][264]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/JerrysCharacterTest_Auto1E0E817C742CA01C29887358F3C7E006A.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Francis/UI/JerrysCharacterTest_Auto1.uasset'
+[2019.01.08-16.30.47:651][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Users/Francis/Weapons/Taser] ([1] browsable assets)...
+[2019.01.08-16.30.47:673][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Users/Francis/Weapons/Taser.Taser]
+[2019.01.08-16.30.47:673][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Francis/Weapons/Taser]
+[2019.01.08-16.30.47:758][264]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/Taser_Auto1FE3B68374EF6B54AC752E6BDD479688D.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Francis/Weapons/Taser_Auto1.uasset'
+[2019.01.08-16.30.47:763][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Users/Francis/Weapons/Base_Weapon] ([1] browsable assets)...
+[2019.01.08-16.30.47:779][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Users/Francis/Weapons/Base_Weapon.Base_Weapon]
+[2019.01.08-16.30.47:779][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Francis/Weapons/Base_Weapon]
+[2019.01.08-16.30.47:838][264]LogSavePackage: Moving '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/Base_Weapon_Auto14579019E40B6D8156C933785411892CC.tmp' to '../../../../../../Users/s016190h/Desktop/JS Stuff/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Francis/Weapons/Base_Weapon_Auto1.uasset'
+[2019.01.08-16.30.47:841][264]LogFileHelpers: Auto-saving content packages took 0.331
+[2019.01.08-16.31.34:053][486]BlueprintLog: New page: Compile Base_Weapon
+[2019.01.08-16.31.34:327][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.31.34:344][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.31.50:121][915]LogLinker: Can't find file '/Game/Weapons/Base_Weapon'
+[2019.01.08-16.31.50:122][915]LogLinker: Can't find file '/Game/Weapons/Base_Weapon'
+[2019.01.08-16.31.56:679][687]BlueprintLog: New page: Compile Base_Weapon
+[2019.01.08-16.31.56:701][687]LogBlueprint: Warning: [Compiler Base_Weapon] Could not find a variable named "Ammo to Deduct" in 'Base_Weapon_C'.
+Make sure 'Base_Weapon_C' has been compiled for  Get Ammo to Deduct
+[2019.01.08-16.31.56:704][687]LogBlueprint: Error: [Compiler Base_Weapon] The property associated with  Ammo To Deduct  could not be found in '/Game/Users/Francis/Weapons/Base_Weapon.Base_Weapon_C'
+[2019.01.08-16.31.56:893][687]LogBlueprint: Warning: [Compiler Base_Weapon] [1784.30] Compile of Base_Weapon failed. 1 Fatal Issue(s) 1 Warning(s) [in 214 ms] (/Game/Users/Francis/Weapons/Base_Weapon.Base_Weapon)
+[2019.01.08-16.32.00:238][ 70]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_34.BillboardComponent_0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.03:902][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.05:186][639]LogSlate: Took 0.000786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.08-16.32.05:906][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_40.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.10:485][231]BlueprintLog: New page: Compile Base_Weapon
+[2019.01.08-16.32.10:707][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.10:717][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.11:744][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.11:749][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_52.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.15:015][722]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.15:021][722]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.20:123][310]BlueprintLog: New page: Compile Base_Weapon
+[2019.01.08-16.32.20:322][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.20:332][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_64.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.32:235][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.32.34:321][944]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest
+[2019.01.08-16.32.37:860][195]BlueprintLog: New page: Compile JerrysCharacterTest
+[2019.01.08-16.32.37:931][195]LogBlueprint: Error: [Compiler JerrysCharacterTest] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.08-16.32.38:207][195]LogBlueprint: Warning: [Compiler JerrysCharacterTest] [1825.61] Compile of JerrysCharacterTest failed. 1 Fatal Issue(s) 0 Warning(s) [in 347 ms] (/Game/Users/Francis/UI/JerrysCharacterTest.JerrysCharacterTest)
+[2019.01.08-16.32.49:844][310]BlueprintLog: New page: Compile JerrysCharacterTest
+[2019.01.08-16.32.50:095][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_70.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.50:097][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.50:126][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_76.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.32.50:127][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_Weapon_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.33.04:256][809]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.33.06:022][961]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.33.07:996][125]BlueprintLog: New page: Compile JerrysCharacterTest
+[2019.01.08-16.34.38:461][560]BlueprintLog: New page: Compile JerrysCharacterTest
+[2019.01.08-16.34.44:820][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Francis/Weapons/Base_SemiAuto.Base_SemiAuto
+[2019.01.08-16.34.46:372][341]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Francis/Weapons/Base_SemiAuto.Base_SemiAuto
+[2019.01.08-16.34.48:438][519]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.34.48:440][519]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.34.50:413][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.34.50:415][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.34.51:645][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.34.51:647][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.04:800][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.04:802][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.12:354][298]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.12:356][298]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.18:630][ 36]BlueprintLog: New page: Compile Base_SemiAuto
+[2019.01.08-16.35.18:897][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_40.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.18:898][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.18:905][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.18:907][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_Base_SemiAuto_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.01.08-16.35.20:824][261]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.08-16.35.20:856][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.20:856][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-16.35.20:869][261]PIE: New page: PIE session: FirstPersonExampleMap (8 Jan 2019 16:35:20)
+[2019.01.08-16.35.20:869][261]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.08-16.35.20:889][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019391s)
+[2019.01.08-16.35.20:889][261]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.08-16.35.20:890][261]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.01.08-16.35.20:890][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020524s)
+[2019.01.08-16.35.20:940][261]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.35.20:955][261]LogInit: FAudioDevice initialized.
+[2019.01.08-16.35.20:966][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.35.21:039][261]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.08-16.35.21:041][261]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.08-16.35.21
+[2019.01.08-16.35.21:042][261]LogWorld: Bringing up level for play took: 0.002564
+[2019.01.08-16.35.21:057][261]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.08-16.35.21:092][261]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2019.01.08-16.35.21:100][261]LogBlueprintUserMessages: [FastAICharacter_2] 100.0
+[2019.01.08-16.35.21:107][261]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.532
+[2019.01.08-16.35.21:108][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.21:161][261]LogRenderer: Reallocating scene render targets to support 1320x756 Format 10 NumSamples 1 (Frame:1).
+[2019.01.08-16.35.28:235][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.28:235][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.35.28:257][ 89]LogSlate: Window 'TheDescent_Collab19 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.08-16.35.28:287][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.08-16.35.28:287][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.28:350][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.08-16.35.34:277][784]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.35.37:737][135]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.08-16.35.37:771][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.37:771][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-16.35.37:772][135]PIE: New page: PIE session: FirstPersonExampleMap (8 Jan 2019 16:35:37)
+[2019.01.08-16.35.37:772][135]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.08-16.35.37:790][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018228s)
+[2019.01.08-16.35.37:791][135]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.08-16.35.37:791][135]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2019.01.08-16.35.37:791][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019334s)
+[2019.01.08-16.35.37:833][135]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.35.37:846][135]LogInit: FAudioDevice initialized.
+[2019.01.08-16.35.37:856][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.35.37:902][135]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.08-16.35.37:907][135]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.08-16.35.37
+[2019.01.08-16.35.37:908][135]LogWorld: Bringing up level for play took: 0.005355
+[2019.01.08-16.35.37:921][135]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.08-16.35.37:927][135]LogBlueprintUserMessages: [FastAICharacter_2] 100.0
+[2019.01.08-16.35.37:932][135]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.642
+[2019.01.08-16.35.37:933][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.46:692][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.46:693][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.35.46:715][161]LogSlate: Window 'TheDescent_Collab19 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.08-16.35.46:749][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.08-16.35.46:749][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.08-16.35.46:808][162]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.08-16.35.50:851][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.35.54:641][ 50]LogEditorTransaction: Undo Modify Component(s)
+[2019.01.08-16.35.55:841][ 50]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.199 s
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: 
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: 
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: Stack: 
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffeb2271f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffeaf60c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffeaf7b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffec63f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe9564c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe95901fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe9576535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe95e2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe9629b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe95bc81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe69305b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffea8724df UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffea8b437e UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffe9bf5178 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffea8370ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffea8b606c UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007fffea8a9846 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff825f7ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff825f70270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.08-16.35.55:841][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff825f7f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff825f6c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff83afc6d41 USER32.dll!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff83afc6713 USER32.dll!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff825f80646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff764ec54e5 UE4Editor.exe!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff764ed5b3c UE4Editor.exe!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff764ed5bba UE4Editor.exe!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff764ee3dac UE4Editor.exe!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff764ee5aaa UE4Editor.exe!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff83b2e3034 KERNEL32.DLL!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: [Callstack] 0x00007ff83ba13691 ntdll.dll!UnknownFunction []
+[2019.01.08-16.35.55:842][ 50]LogOutputDevice: Error: 
+[2019.01.08-16.35.55:845][ 50]LogStats:                SubmitErrorReport -  0.000 s
