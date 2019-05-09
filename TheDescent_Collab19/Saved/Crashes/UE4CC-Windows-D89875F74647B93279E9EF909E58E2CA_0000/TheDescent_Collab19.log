@@ -1,0 +1,1660 @@
+﻿Log file open, 05/09/19 13:28:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.967500
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.404s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.016s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.09-12.28.32:695][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.09-12.28.32:696][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.09-12.28.32:735][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.09-12.28.32:752][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.09-12.28.32:757][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.09-12.28.32:808][  0]LogInit: Computer: LAPTOP-CR9AOUGS
+[2019.05.09-12.28.32:808][  0]LogInit: User: josh9
+[2019.05.09-12.28.32:808][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.09-12.28.32:808][  0]LogInit: High frequency timer resolution =2.250002 MHz
+[2019.05.09-12.28.32:808][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.05.09-12.28.32:808][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.09-12.28.32:808][  0]LogMemory: Process Physical Memory: 102.12 MB used, 102.12 MB peak
+[2019.05.09-12.28.32:808][  0]LogMemory: Process Virtual Memory: 98.21 MB used, 98.21 MB peak
+[2019.05.09-12.28.32:808][  0]LogMemory: Physical Memory: 4006.88 MB used,  4027.42 MB free, 8034.30 MB total
+[2019.05.09-12.28.32:808][  0]LogMemory: Virtual Memory: 4652.29 MB used,  4027.42 MB free, 134217728.00 MB total
+[2019.05.09-12.28.33:589][  0]LogInit: Using OS detected language (en-GB).
+[2019.05.09-12.28.33:589][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.09-12.28.33:673][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.05.09-12.28.34:334][  0]LogStreaming: Display: Took  0.747s to InitEngineTextLocalization.
+[2019.05.09-12.28.34:365][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.09-12.28.35:095][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.09-12.28.35:095][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.09-12.28.36:954][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.09-12.28.36:954][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.09-12.28.37:398][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.09-12.28.37:398][  0]LogD3D11RHI:       4019/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.09-12.28.37:673][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.09-12.28.37:673][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.09-12.28.37:821][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.09-12.28.37:821][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.09-12.28.37:821][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.09-12.28.37:863][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.09-12.28.37:863][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.09-12.28.37:877][  0]LogWindows: EnumDisplayDevices:
+[2019.05.09-12.28.37:877][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.05.09-12.28.37:877][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.09-12.28.37:877][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.09-12.28.37:878][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.05.09-12.28.37:878][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.05.09-12.28.37:878][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.09-12.28.37:878][  0]LogD3D11RHI:   Driver Version: 399.31 (internal:24.21.13.9931, unified:399.31)
+[2019.05.09-12.28.37:878][  0]LogD3D11RHI:      Driver Date: 9-12-2018
+[2019.05.09-12.28.37:878][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.05.09-12.28.38:014][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.09-12.28.38:307][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2019.05.09-12.28.38:391][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/14448/).
+[2019.05.09-12.28.38:391][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/josh9/AppData/Local/Temp/UnrealShaderWorkingDir/3C2B78B044C54C98D7610581781768B2/'.
+[2019.05.09-12.28.41:768][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.09-12.28.41:795][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.09-12.28.41:809][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.09-12.28.41:822][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.09-12.28.41:872][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.09-12.28.41:917][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.09-12.28.41:943][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.09-12.28.41:971][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.09-12.28.41:979][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:074][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-12.28.42:127][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.09-12.28.42:234][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.09-12.28.42:234][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.09-12.28.42:270][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.09-12.28.42:270][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.09-12.28.42:293][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.09-12.28.42:306][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.09-12.28.42:319][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.09-12.28.42:348][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.09-12.28.42:358][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.09-12.28.42:358][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.09-12.28.43:409][  0]LogXGEController: Cleaning working directory: C:/Users/josh9/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.09-12.28.43:409][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.09-12.28.43:409][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.09-12.28.43:417][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.09-12.28.45:994][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.09-12.28.47:052][  0]LogDerivedDataCache: Loaded boot cache 1.06s 105MB C:/Users/josh9/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.09-12.28.47:052][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/josh9/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.09-12.28.47:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.09-12.28.47:052][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.09-12.28.47:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.09-12.28.47:052][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.09-12.28.47:124][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.09-12.28.47:136][  0]LogDerivedDataCache: Using Local data cache path C:/Users/josh9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.09-12.28.47:136][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.09-12.28.47:136][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.09-12.28.47:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.09-12.28.47:275][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.09-12.28.47:363][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.09-12.28.48:566][  0]LogAssetRegistry: FAssetRegistry took 0.0404 seconds to start up
+[2019.05.09-12.28.54:876][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.09-12.28.57:485][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.09-12.28.57:894][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.09-12.28.57:895][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.09-12.28.57:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.09-12.28.57:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.09-12.28.58:843][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.09-12.29.06:005][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.190974 seconds
+[2019.05.09-12.29.06:134][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.09-12.29.06:134][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.09-12.29.06:134][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.09-12.29.50:339][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.09-12.29.50:388][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.09-12.29.54:252][  0]SourceControl: Source control is disabled
+[2019.05.09-12.29.54:254][  0]SourceControl: Source control is disabled
+[2019.05.09-12.29.54:633][  0]SourceControl: Source control is disabled
+[2019.05.09-12.29.54:652][  0]SourceControl: Source control is disabled
+[2019.05.09-12.29.58:448][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.09-12.29.59:617][  0]LogOcInput: OculusInput pre-init called
+[2019.05.09-12.30.01:160][  0]LogEngine: Initializing Engine...
+[2019.05.09-12.30.01:326][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.09-12.30.01:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.09-12.30.01:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.09-12.30.01:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.09-12.30.01:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.09-12.30.02:266][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.09-12.30.04:553][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.09-12.30.05:574][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.30.08:375][  0]LogInit: FAudioDevice initialized.
+[2019.05.09-12.30.08:455][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.09-12.30.09:249][  0]LogDerivedDataCache: Saved boot cache 0.77s 105MB C:/Users/josh9/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.09-12.30.09:259][  0]LogInit: Texture streaming: Enabled
+[2019.05.09-12.30.10:467][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.09-12.30.11:679][  0]LogInit: Transaction tracking system initialized
+[2019.05.09-12.30.13:434][  0]BlueprintLog: New page: Editor Load
+[2019.05.09-12.30.18:335][  0]LocalizationService: Localization service is disabled
+[2019.05.09-12.30.25:194][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.07s
+[2019.05.09-12.30.25:194][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.09-12.30.25:327][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.09-12.30.25:348][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.09-12.30.25:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.09-12.30.25:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.09-12.30.25:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.09-12.30.25:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.09-12.30.32:123][  0]SourceControl: Source control is disabled
+[2019.05.09-12.30.32:176][  0]Cmd: MAP LOAD FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.09-12.30.32:223][  0]LightingResults: New page: Lighting Build
+[2019.05.09-12.30.32:973][  0]MapCheck: New page: Map Check
+[2019.05.09-12.30.32:973][  0]LightingResults: New page: Lighting Build
+[2019.05.09-12.30.50:296][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.09-12.30.53:852][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.05.09-12.30.54:563][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.09-12.30.54:723][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 160.365ms to complete.
+[2019.05.09-12.30.54:778][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 22.642
+[2019.05.09-12.30.58:333][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.30.58:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.30.58:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.30.58:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.30.58:543][  0]LogCollectionManager: Loaded 0 collections in 0.001918 seconds
+[2019.05.09-12.30.58:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.09-12.30.58:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/josh9/Collections/' took 0.01s
+[2019.05.09-12.30.58:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.09-12.30.58:886][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.09-12.30.58:900][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2572 classes and 603 folders.
+[2019.05.09-12.30.59:018][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.09-12.31.01:330][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.09-12.31.01:446][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.09-12.31.04:086][  0]LogSlate: Took 0.011998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.09-12.31.04:192][  0]LogSlate: Took 0.062460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.09-12.31.04:471][  0]LogSlate: Took 0.009006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.09-12.31.05:529][  0]LogRenderer: Reallocating scene render targets to support 1216x600 Format 10 NumSamples 1 (Frame:1).
+[2019.05.09-12.31.08:283][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.09-12.31.08:283][  0]LogLoad: (Engine Initialization) Total time: 186.24 seconds
+[2019.05.09-12.31.08:283][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.09-12.31.08:535][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.09-12.31.09:641][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.09-12.31.11:281][  2]LogSlate: Took 0.013616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.09-12.31.11:343][  3]LogAssetRegistry: Asset discovery search completed in 142.8018 seconds
+[2019.05.09-12.31.11:396][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.09-12.31.11:397][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000461 seconds (updated 0 objects)
+[2019.05.09-12.31.11:598][  3]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.09-12.31.43:534][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.31.49:806][987]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.31.49:983][987]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.09-12.31.50:108][987]Cmd: MAP LOAD FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.09-12.31.50:109][987]LightingResults: New page: Lighting Build
+[2019.05.09-12.31.50:109][987]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.09-12.31.50:207][987]MapCheck: New page: Map Check
+[2019.05.09-12.31.50:207][987]LightingResults: New page: Lighting Build
+[2019.05.09-12.31.50:557][987]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.09-12.31.50:662][987]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.09-12.31.50:838][987]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 175.876ms to complete.
+[2019.05.09-12.31.50:843][987]LogFileHelpers: Loading map 'LevelOne' took 0.760
+[2019.05.09-12.32.01:861][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.32.09:175][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.32.49:672][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.33.01:720][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.33.01:817][289]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.33.01:945][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.33.02:119][289]PIE: New page: PIE session: LevelOne (9 May 2019 14:33:02)
+[2019.05.09-12.33.02:119][289]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.33.02:194][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073922s)
+[2019.05.09-12.33.02:194][289]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.33.02:204][289]LogPlayLevel: PIE: World Init took: (0.010171s)
+[2019.05.09-12.33.02:215][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.095609s)
+[2019.05.09-12.33.02:287][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.33.02:303][289]LogInit: FAudioDevice initialized.
+[2019.05.09-12.33.02:374][289]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.33.02:544][289]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.33.02
+[2019.05.09-12.33.02:714][289]LogWorld: Bringing up level for play took: 0.194173
+[2019.05.09-12.33.02:765][289]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.33.02:827][289]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.05.09-12.33.02:986][289]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.33.03:204][289]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.948
+[2019.05.09-12.33.14:335][571]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.33.16:152][789]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.33.55:036][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.33.55:236][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.33.55:295][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.33.55:390][429]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.09-12.34.12:508][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.34.12:832][506]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.SlowAI
+[2019.05.09-12.34.13:799][506]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.05.09-12.34.15:447][506]LogSlate: Took 0.009782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.09-12.34.15:849][507]LogSlate: Took 0.015728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.09-12.34.30:691][882]BlueprintLog: New page: Compile SlowAI
+[2019.05.09-12.34.31:531][882]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SlowAIEFB4D02745126FC8749E929FF40FB75D.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.uasset'
+[2019.05.09-12.34.32:237][925]LogRenderer: Reallocating scene render targets to support 1216x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.09-12.34.34:213][112]LogSlate: Window 'SlowAI' being destroyed
+[2019.05.09-12.34.35:459][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.34.35:488][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.34.35:489][260]PIE: New page: PIE session: LevelOne (9 May 2019 14:34:35)
+[2019.05.09-12.34.35:489][260]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.34.35:500][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010788s)
+[2019.05.09-12.34.35:500][260]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.34.35:500][260]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.05.09-12.34.35:500][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.011489s)
+[2019.05.09-12.34.35:556][260]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.34.35:571][260]LogInit: FAudioDevice initialized.
+[2019.05.09-12.34.35:601][260]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.34.35:607][260]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.34.35
+[2019.05.09-12.34.35:607][260]LogWorld: Bringing up level for play took: 0.004856
+[2019.05.09-12.34.35:620][260]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.34.35:622][260]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.34.35:639][260]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.617
+[2019.05.09-12.34.46:471][550]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.34.47:130][629]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.35.35:902][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.35.35:941][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.35.35:971][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.35.35:992][467]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.09-12.35.36:635][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.35.43:200][313]BlueprintLog: New page: Compile SlowAI
+[2019.05.09-12.35.43:520][313]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SlowAIBB680037462CFEDB5C680699D1E39862.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.uasset'
+[2019.05.09-12.35.44:635][441]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.35.44:661][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.35.44:661][441]PIE: New page: PIE session: LevelOne (9 May 2019 14:35:44)
+[2019.05.09-12.35.44:661][441]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.35.44:672][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011068s)
+[2019.05.09-12.35.44:672][441]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.35.44:673][441]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2019.05.09-12.35.44:673][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.011802s)
+[2019.05.09-12.35.44:701][441]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.35.44:717][441]LogInit: FAudioDevice initialized.
+[2019.05.09-12.35.44:746][441]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.35.44:751][441]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.35.44
+[2019.05.09-12.35.44:751][441]LogWorld: Bringing up level for play took: 0.004556
+[2019.05.09-12.35.44:764][441]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.35.44:766][441]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.35.44:768][441]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.512
+[2019.05.09-12.35.57:787][  0]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.35.59:370][190]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.35.59:448][191]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  95.0
+[2019.05.09-12.35.59:813][233]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.36.02:072][489]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.36.15:850][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.36.15:895][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.36.15:926][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.36.15:948][835]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.09-12.36.22:825][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x66)
+[2019.05.09-12.36.29:491][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x38)
+[2019.05.09-12.36.29:967][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x66)
+[2019.05.09-12.36.46:274][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.36.47:824][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.36.48:753][ 38]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.09-12.36.57:880][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x66)
+[2019.05.09-12.37.10:373][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.37.31:186][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.37.31:261][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.37.31:282][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.37.31:282][938]PIE: New page: PIE session: LevelOne (9 May 2019 14:37:31)
+[2019.05.09-12.37.31:282][938]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.37.31:295][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013042s)
+[2019.05.09-12.37.31:296][938]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.37.31:296][938]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.05.09-12.37.31:296][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.013800s)
+[2019.05.09-12.37.31:324][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.37.31:340][938]LogInit: FAudioDevice initialized.
+[2019.05.09-12.37.31:370][938]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.37.31:375][938]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.37.31
+[2019.05.09-12.37.31:376][938]LogWorld: Bringing up level for play took: 0.004879
+[2019.05.09-12.37.31:387][938]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.37.31:390][938]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.37.31:392][938]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.863
+[2019.05.09-12.37.41:278][123]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  95.0
+[2019.05.09-12.38.12:491][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.38.12:534][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.38.12:562][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.38.12:599][812]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.09-12.38.15:855][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x34)
+[2019.05.09-12.38.23:544][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.38.24:495][214]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.09-12.38.51:858][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.38.51:949][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.38.51:969][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.38.51:969][224]PIE: New page: PIE session: LevelOne (9 May 2019 14:38:51)
+[2019.05.09-12.38.51:970][224]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.38.51:983][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012932s)
+[2019.05.09-12.38.51:983][224]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.38.51:983][224]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.05.09-12.38.51:983][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.013680s)
+[2019.05.09-12.38.52:010][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.38.52:024][224]LogInit: FAudioDevice initialized.
+[2019.05.09-12.38.52:058][224]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.38.52:063][224]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.38.52
+[2019.05.09-12.38.52:064][224]LogWorld: Bringing up level for play took: 0.005286
+[2019.05.09-12.38.52:077][224]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.38.52:079][224]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.38.52:081][224]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.174
+[2019.05.09-12.38.59:922][164]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  95.0
+[2019.05.09-12.39.35:863][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.39.35:905][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.39.35:937][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.39.35:964][414]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.09-12.41.11:736][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.41.16:960][264]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.09-12.41.18:667][445]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheDescentCollab19
+[2019.05.09-12.41.18:667][445]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.09-12.41.18:667][445]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2019.05.09-12.41.18:667][445]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.09-12.41.18:667][445]LogTemp: BranchPath = LAPTOP-CR9AOUGS/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-CR9AOUGS/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.05.09-12.41.18:976][482]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\josh9\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.09-12.41.37:974][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.41.38:399][723]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.41.38:420][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.41.38:420][723]PIE: New page: PIE session: LevelOne (9 May 2019 14:41:38)
+[2019.05.09-12.41.38:420][723]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.41.38:682][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.261898s)
+[2019.05.09-12.41.38:682][723]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.41.38:682][723]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.05.09-12.41.38:683][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.262731s)
+[2019.05.09-12.41.38:725][723]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.41.38:741][723]LogInit: FAudioDevice initialized.
+[2019.05.09-12.41.38:770][723]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.41.38:775][723]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.41.38
+[2019.05.09-12.41.38:776][723]LogWorld: Bringing up level for play took: 0.005095
+[2019.05.09-12.41.38:788][723]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.41.38:791][723]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.41.38:793][723]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.537
+[2019.05.09-12.41.41:396][ 35]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  95.0
+[2019.05.09-12.42.08:136][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.42.08:178][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.42.08:202][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.42.08:234][877]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.09-12.42.10:290][ 63]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.42.13:492][321]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.42.25:882][398]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.42.32:100][970]Cmd: DELETE
+[2019.05.09-12.42.32:100][970]Cmd: ACTOR DELETE
+[2019.05.09-12.42.32:387][970]LogEditorActor: Deleted Actor: Brush
+[2019.05.09-12.42.32:626][970]LogEditorActor: Deleted 1 Actors (0.338 secs)
+[2019.05.09-12.42.32:633][970]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ConcreteWall_2x74)
+[2019.05.09-12.42.32:837][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.42.34:998][149]Cmd: DELETE
+[2019.05.09-12.42.34:998][149]Cmd: ACTOR DELETE
+[2019.05.09-12.42.35:006][149]LogEditorActor: Deleted Actor: Brush
+[2019.05.09-12.42.35:147][149]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2019.05.09-12.42.35:667][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x66)
+[2019.05.09-12.42.44:305][ 42]Cmd: DELETE
+[2019.05.09-12.42.44:305][ 42]Cmd: ACTOR DELETE
+[2019.05.09-12.42.44:322][ 42]LogEditorActor: Deleted Actor: Brush
+[2019.05.09-12.42.44:685][ 42]LogEditorActor: Deleted 1 Actors (0.381 secs)
+[2019.05.09-12.42.45:083][ 80]Cmd: DELETE
+[2019.05.09-12.42.45:083][ 80]Cmd: ACTOR DELETE
+[2019.05.09-12.42.45:089][ 80]LogEditorActor: Deleted Actor: Brush
+[2019.05.09-12.42.45:205][ 80]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2019.05.09-12.42.45:595][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x34)
+[2019.05.09-12.42.51:181][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.03:904][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.06:360][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.11:330][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.20:059][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.31:541][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.35:954][ 19]BlueprintLog: New page: Compile SlowAI
+[2019.05.09-12.43.36:319][ 19]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SlowAIE6A3171F4136247666453980A4DCA55E.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.uasset'
+[2019.05.09-12.43.38:191][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.43.38:282][236]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.43.38:308][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.43.38:308][236]PIE: New page: PIE session: LevelOne (9 May 2019 14:43:38)
+[2019.05.09-12.43.38:308][236]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.43.38:319][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011213s)
+[2019.05.09-12.43.38:320][236]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.43.38:320][236]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.05.09-12.43.38:320][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.011936s)
+[2019.05.09-12.43.38:348][236]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.43.38:362][236]LogInit: FAudioDevice initialized.
+[2019.05.09-12.43.38:393][236]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.43.38:398][236]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.43.38
+[2019.05.09-12.43.38:399][236]LogWorld: Bringing up level for play took: 0.004707
+[2019.05.09-12.43.38:412][236]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.43.38:414][236]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.43.38:416][236]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.16
+[2019.05.09-12.43.52:285][899]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.43.53:427][ 36]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.44.04:726][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.44.04:763][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.44.04:793][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.44.04:830][385]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.09-12.44.06:741][610]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.44.10:216][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.44.10:858][ 76]Cmd: MODE GRID=0
+[2019.05.09-12.44.16:322][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.44.24:798][687]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ConcreteWall_2x38)
+[2019.05.09-12.44.24:847][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.44.27:524][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.44.27:607][  3]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.44.27:628][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.44.27:628][  3]PIE: New page: PIE session: LevelOne (9 May 2019 14:44:27)
+[2019.05.09-12.44.27:628][  3]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.44.27:639][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010717s)
+[2019.05.09-12.44.27:639][  3]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.44.27:639][  3]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.05.09-12.44.27:639][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.011391s)
+[2019.05.09-12.44.27:669][  3]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.44.27:683][  3]LogInit: FAudioDevice initialized.
+[2019.05.09-12.44.27:714][  3]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.44.27:720][  3]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.44.27
+[2019.05.09-12.44.27:721][  3]LogWorld: Bringing up level for play took: 0.004801
+[2019.05.09-12.44.27:733][  3]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.44.27:734][  3]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.44.27:736][  3]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.519
+[2019.05.09-12.44.39:994][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.44.40:032][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.44.40:062][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.44.40:099][472]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.09-12.44.41:363][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.44.50:736][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.44.50:757][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.44.50:758][739]PIE: New page: PIE session: LevelOne (9 May 2019 14:44:50)
+[2019.05.09-12.44.50:758][739]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.44.50:767][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010656s)
+[2019.05.09-12.44.50:768][739]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.44.50:768][739]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.05.09-12.44.50:768][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.011374s)
+[2019.05.09-12.44.50:795][739]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.44.50:809][739]LogInit: FAudioDevice initialized.
+[2019.05.09-12.44.50:841][739]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.44.50:846][739]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.44.50
+[2019.05.09-12.44.50:847][739]LogWorld: Bringing up level for play took: 0.004835
+[2019.05.09-12.44.50:859][739]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.44.50:862][739]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.44.50:864][739]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.608
+[2019.05.09-12.45.20:678][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.45.20:719][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.45.20:745][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.45.20:782][313]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.09-12.45.24:523][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.45.30:486][462]BlueprintLog: New page: Compile SlowAI
+[2019.05.09-12.45.30:794][462]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SlowAI0A64F6834C21CB221398A2B67A3391FB.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.uasset'
+[2019.05.09-12.45.31:877][586]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.45.31:902][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.45.31:902][586]PIE: New page: PIE session: LevelOne (9 May 2019 14:45:31)
+[2019.05.09-12.45.31:902][586]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.45.31:914][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011064s)
+[2019.05.09-12.45.31:914][586]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.45.31:914][586]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.05.09-12.45.31:914][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.011816s)
+[2019.05.09-12.45.31:941][586]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.45.31:956][586]LogInit: FAudioDevice initialized.
+[2019.05.09-12.45.31:983][586]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.45.31:988][586]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.09-13.45.31
+[2019.05.09-12.45.31:988][586]LogWorld: Bringing up level for play took: 0.004656
+[2019.05.09-12.45.32:000][586]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.45.32:002][586]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.45.32:004][586]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.251
+[2019.05.09-12.45.44:386][ 71]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.45.45:303][181]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.46.04:305][461]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-12.46.05:213][570]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-12.46.07:115][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.46.07:158][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.46.07:189][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.46.07:217][800]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.09-12.46.09:411][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.46.23:251][624]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne25C68292446259705D1FE7B8479A80C3.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap'
+[2019.05.09-12.46.23:338][624]LogFileHelpers: Saving map 'LevelOne' took 0.616
+[2019.05.09-12.46.26:595][960]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.46.26:598][960]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Josh/TestLevels/TestLevel.TestLevel
+[2019.05.09-12.46.26:625][960]Cmd: MAP LOAD FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/TestLevels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.09-12.46.26:626][960]LightingResults: New page: Lighting Build
+[2019.05.09-12.46.26:626][960]LoadErrors: New page: Loading map: TestLevel.umap
+[2019.05.09-12.46.26:645][960]MapCheck: New page: Map Check
+[2019.05.09-12.46.26:645][960]LightingResults: New page: Lighting Build
+[2019.05.09-12.46.26:730][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.09-12.46.26:790][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.09-12.46.26:972][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 182.46ms to complete.
+[2019.05.09-12.46.26:973][960]LogFileHelpers: Loading map 'TestLevel' took 0.349
+[2019.05.09-12.46.30:533][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.46.36:806][ 26]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.46.37:304][ 85]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.46.40:286][403]Cmd: DELETE
+[2019.05.09-12.46.40:286][403]Cmd: ACTOR DELETE
+[2019.05.09-12.46.40:288][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.46.40:313][403]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.05.09-12.46.40:855][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.46.40:930][477]Cmd: MODE GRID=1
+[2019.05.09-12.46.44:225][836]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.46.44:889][915]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.46.52:729][758]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x2)
+[2019.05.09-12.46.53:030][784]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x1)
+[2019.05.09-12.47.14:566][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x3)
+[2019.05.09-12.47.14:857][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x2)
+[2019.05.09-12.47.15:104][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x1)
+[2019.05.09-12.47.16:825][468]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x2)
+[2019.05.09-12.47.17:152][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x3)
+[2019.05.09-12.47.28:974][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.05.09-12.47.31:993][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x12)
+[2019.05.09-12.47.37:215][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x11)
+[2019.05.09-12.47.40:964][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x10)
+[2019.05.09-12.47.43:978][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x9)
+[2019.05.09-12.47.49:283][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x8)
+[2019.05.09-12.47.53:008][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x7)
+[2019.05.09-12.47.56:673][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x3)
+[2019.05.09-12.47.59:740][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x2)
+[2019.05.09-12.48.03:523][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x1)
+[2019.05.09-12.48.06:354][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x6)
+[2019.05.09-12.48.09:119][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x5)
+[2019.05.09-12.48.11:749][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x4)
+[2019.05.09-12.48.19:786][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.48.31:964][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.48.40:031][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.48.41:147][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.48.41:147][224]PIE: New page: SIE session: TestLevel (9 May 2019 14:48:41)
+[2019.05.09-12.48.41:147][224]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.48.41:149][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002313s)
+[2019.05.09-12.48.41:150][224]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.48.41:150][224]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.05.09-12.48.41:150][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.003028s)
+[2019.05.09-12.48.41:179][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.48.41:195][224]LogInit: FAudioDevice initialized.
+[2019.05.09-12.48.41:195][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.48.41:225][224]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.09-12.48.41:227][224]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.48.41
+[2019.05.09-12.48.41:251][224]LogWorld: Bringing up level for play took: 0.025000
+[2019.05.09-12.48.41:264][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.09-12.48.41:304][224]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel 1.048
+[2019.05.09-12.48.41:556][224]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:557][224]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:582][225]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:582][225]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:589][226]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.41:589][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.41:632][226]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:632][226]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:644][227]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:644][227]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:660][228]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:660][228]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:677][229]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:677][229]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:694][230]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:694][230]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:711][231]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.41:711][231]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.09-12.48.41:727][232]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.09-12.48.42:002][249]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.42:002][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.42:568][283]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.42:568][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.42:985][308]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.42:985][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.43:452][336]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.43:452][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.44:002][369]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.44:002][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.44:499][398]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.44:499][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.44:499][398]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:0343
+[2019.05.09-12.48.44:499][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.45:049][431]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.45:049][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.45:049][431]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:0343
+[2019.05.09-12.48.45:049][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.45:583][463]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.45:583][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.45:583][463]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:0343
+[2019.05.09-12.48.45:583][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.46:032][490]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.46:032][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.46:449][515]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.46:449][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.47:016][549]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.47:016][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.47:482][577]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.47:482][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.47:983][607]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	AIVision_C /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.SlowAIController_C_0.BTComponent.AIVision_C_0
+	Function /Game/Users/Josh/AI/Logic/AIVision.AIVision_C:ExecuteUbergraph_AIVision:01A0
+[2019.05.09-12.48.47:983][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.48:482][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.48:899][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.49:366][690]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.49:799][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.50:400][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.50:832][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.51:433][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.51:983][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.51:983][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.52:433][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.52:433][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.52:882][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.52:883][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.53:350][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.53:350][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.48.53:816][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.54:266][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.54:766][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.55:199][ 40]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.55:649][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.56:116][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.56:667][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.57:150][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.57:583][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.58:083][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.58:616][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.59:150][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.48.59:633][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.00:083][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.00:083][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.00:500][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.00:500][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.01:100][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.01:517][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.02:000][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.02:434][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.02:951][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.03:484][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.03:983][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.04:551][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.04:551][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.05:050][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.05:050][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.05:617][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.05:617][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.06:167][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.06:167][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.06:734][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.06:734][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.07:251][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.07:251][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.07:800][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.07:801][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.08:350][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.08:350][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.08:917][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.08:917][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.09:367][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.09:367][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.09:967][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.09:967][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.10:501][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.10:501][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.10:950][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.10:950][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.11:467][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.11:467][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.12:034][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.12:034][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.12:451][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.12:451][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.13:001][108]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.13:534][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.14:068][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.14:650][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.15:217][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.15:634][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.16:184][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.16:650][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.17:184][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.17:601][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.18:100][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.18:551][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.18:984][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.19:484][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.20:000][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.20:001][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.20:501][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.20:501][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.21:018][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.21:018][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.21:434][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.21:434][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.22:018][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.22:018][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.22:618][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.23:051][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.23:617][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.24:151][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.24:634][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.25:218][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.25:818][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.26:367][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.26:868][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.27:285][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.27:734][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.28:201][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.28:702][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  Branch
+[2019.05.09-12.49.28:702][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  AIVision Function:  Execute Ubergraph AIVision Graph:  EventGraph Node:  LineTraceByChannel
+[2019.05.09-12.49.28:985][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.49.29:020][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.49.29:048][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.49.29:097][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.09-12.49.35:598][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.49.36:603][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.49.36:603][519]PIE: New page: PIE session: TestLevel (9 May 2019 14:49:36)
+[2019.05.09-12.49.36:603][519]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.49.36:606][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002569s)
+[2019.05.09-12.49.36:606][519]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.49.36:606][519]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2019.05.09-12.49.36:606][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.003199s)
+[2019.05.09-12.49.36:635][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.49.36:650][519]LogInit: FAudioDevice initialized.
+[2019.05.09-12.49.36:679][519]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.09-12.49.36:680][519]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.49.36
+[2019.05.09-12.49.36:681][519]LogWorld: Bringing up level for play took: 0.001434
+[2019.05.09-12.49.36:788][519]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel 0.532
+[2019.05.09-12.49.39:634][681]Set new viewmode: Wireframe
+[2019.05.09-12.49.40:831][751]Set new viewmode: Unlit
+[2019.05.09-12.49.41:215][774]Set new viewmode: Unlit
+[2019.05.09-12.49.41:682][802]Set new viewmode: Unlit
+[2019.05.09-12.49.42:464][849]Set new viewmode: Wireframe
+[2019.05.09-12.49.43:182][892]Set new viewmode: Wireframe
+[2019.05.09-12.49.43:614][918]Set new viewmode: Wireframe
+[2019.05.09-12.49.44:631][979]Set new viewmode: Wireframe
+[2019.05.09-12.49.44:882][994]Set new viewmode: Wireframe
+[2019.05.09-12.49.45:115][  8]Set new viewmode: Unlit
+[2019.05.09-12.49.46:982][120]Set new viewmode: Lit
+[2019.05.09-12.49.47:948][178]Set new viewmode: Unlit
+[2019.05.09-12.49.48:665][221]Set new viewmode: Lit
+[2019.05.09-12.49.50:048][304]Set new viewmode: Unlit
+[2019.05.09-12.49.50:498][331]Set new viewmode: Wireframe
+[2019.05.09-12.49.51:248][376]Set new viewmode: Lit
+[2019.05.09-12.49.51:615][398]Set new viewmode: Wireframe
+[2019.05.09-12.49.53:544][513]Set new viewmode: Wireframe
+[2019.05.09-12.49.54:412][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.49.54:447][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.49.54:477][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.49.54:525][568]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.09-12.49.56:744][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.49.56:812][705]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.49.56:832][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.49.56:833][705]PIE: New page: PIE session: TestLevel (9 May 2019 14:49:56)
+[2019.05.09-12.49.56:833][705]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.49.56:835][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002310s)
+[2019.05.09-12.49.56:835][705]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.49.56:836][705]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.05.09-12.49.56:836][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.002920s)
+[2019.05.09-12.49.56:862][705]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.49.56:876][705]LogInit: FAudioDevice initialized.
+[2019.05.09-12.49.56:910][705]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.09-12.49.56:912][705]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.49.56
+[2019.05.09-12.49.56:912][705]LogWorld: Bringing up level for play took: 0.001435
+[2019.05.09-12.49.56:928][705]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel 0.672
+[2019.05.09-12.50.11:362][570]LogCharacterMovement: JerrysCharacter1_C_0 is stuck and failed to move! Velocity: X=0.01 Y=-600.00 Z=0.00 Location: X=-845.00 Y=-218.75 Z=98.15 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:ConcreteWall_2x14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.05.09-12.50.12:578][643]LogCharacterMovement: JerrysCharacter1_C_0 is stuck and failed to move! Velocity: X=0.17 Y=34.13 Z=0.00 Location: X=-845.00 Y=-248.62 Z=98.15 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:ConcreteWall_2x14 Component:StaticMeshComponent0 BoneName:None (7 other events since notify)
+[2019.05.09-12.50.18:013][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.50.18:048][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.50.18:076][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.50.18:128][972]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.09-12.50.24:132][332]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.50.29:893][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.50.29:976][677]Cmd: MODE GRID=0
+[2019.05.09-12.50.34:845][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x5)
+[2019.05.09-12.50.37:062][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.50.40:419][294]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.09-12.50.40:444][294]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.05.09-12.50.45:301][586]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.50.45:696][606]Cmd: DELETE
+[2019.05.09-12.50.45:696][606]Cmd: ACTOR DELETE
+[2019.05.09-12.50.45:698][606]LogEditorActor: Deleted Actor: SlowAI_C
+[2019.05.09-12.50.45:727][606]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.05.09-12.50.46:533][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.50.58:021][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.06:128][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.13:710][265]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-12.51.14:404][302]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-12.51.15:208][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.16:773][439]Cmd: MODE GRID=1
+[2019.05.09-12.51.20:005][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.20:088][635]BlueprintLog: New page: Compile SlowAI
+[2019.05.09-12.51.20:478][635]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SlowAI58335CEE45944D9826E9D5AB9516BE45.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.uasset'
+[2019.05.09-12.51.22:537][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.25:761][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.25:843][952]BlueprintLog: New page: Compile SlowAI
+[2019.05.09-12.51.26:219][952]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SlowAI06757B4249A727923CE25A80C4F07FD0.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SlowAI/SlowAI_V1`/SlowAI.uasset'
+[2019.05.09-12.51.29:512][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.35:415][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.51.35:481][503]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.51.35:508][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.51.35:508][503]PIE: New page: PIE session: TestLevel (9 May 2019 14:51:35)
+[2019.05.09-12.51.35:508][503]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.51.35:510][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002307s)
+[2019.05.09-12.51.35:511][503]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.51.35:511][503]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2019.05.09-12.51.35:511][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.002965s)
+[2019.05.09-12.51.35:540][503]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.51.35:555][503]LogInit: FAudioDevice initialized.
+[2019.05.09-12.51.35:585][503]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.09-12.51.35:587][503]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.51.35
+[2019.05.09-12.51.35:587][503]LogWorld: Bringing up level for play took: 0.001421
+[2019.05.09-12.51.35:602][503]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel -0.653
+[2019.05.09-12.52.08:315][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.52.08:351][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.52.08:381][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.52.08:417][467]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.09-12.52.09:484][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.52.13:594][756]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.52.13:614][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.52.13:615][756]PIE: New page: PIE session: TestLevel (9 May 2019 14:52:13)
+[2019.05.09-12.52.13:615][756]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.52.13:617][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2019.05.09-12.52.13:618][756]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.52.13:618][756]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2019.05.09-12.52.13:618][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.002980s)
+[2019.05.09-12.52.13:645][756]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.52.13:660][756]LogInit: FAudioDevice initialized.
+[2019.05.09-12.52.13:694][756]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.52.13:696][756]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.52.13
+[2019.05.09-12.52.13:696][756]LogWorld: Bringing up level for play took: 0.001634
+[2019.05.09-12.52.13:708][756]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.52.13:713][756]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel -0.543
+[2019.05.09-12.52.22:605][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Users/JAKUB/Blueprints/UI/startGameWidget.startGameWidget_C:ExecuteUbergraph_startGameWidget'!
+[2019.05.09-12.52.22:605][288]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	startGameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.startGameWidget_C_0
+	Function /Game/Users/JAKUB/Blueprints/UI/startGameWidget.startGameWidget_C:ExecuteUbergraph_startGameWidget:019A
+[2019.05.09-12.52.22:605][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  startGameWidget Function:  Execute Ubergraph Start Game Widget Graph:  EventGraph Node:  Open Door
+[2019.05.09-12.52.30:273][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.52.30:310][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.52.30:340][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.52.30:381][750]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.05.09-12.52.36:170][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.52.40:592][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x20)
+[2019.05.09-12.52.41:283][402]Cmd: DELETE
+[2019.05.09-12.52.41:283][402]Cmd: ACTOR DELETE
+[2019.05.09-12.52.41:285][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.52.41:311][402]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.05.09-12.52.41:559][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.05.09-12.52.41:616][419]Cmd: DELETE
+[2019.05.09-12.52.41:616][419]Cmd: ACTOR DELETE
+[2019.05.09-12.52.41:618][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.52.41:641][419]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.05.09-12.52.42:849][492]Cmd: TRANSACTION UNDO
+[2019.05.09-12.52.42:849][492]LogEditorTransaction: Undo Delete Actors
+[2019.05.09-12.52.47:158][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.52.47:207][752]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.52.47:228][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.52.47:228][752]PIE: New page: PIE session: TestLevel (9 May 2019 14:52:47)
+[2019.05.09-12.52.47:228][752]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.52.47:230][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002204s)
+[2019.05.09-12.52.47:231][752]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.52.47:231][752]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.05.09-12.52.47:231][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.002817s)
+[2019.05.09-12.52.47:256][752]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.52.47:271][752]LogInit: FAudioDevice initialized.
+[2019.05.09-12.52.47:301][752]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.52.47:303][752]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.52.47
+[2019.05.09-12.52.47:303][752]LogWorld: Bringing up level for play took: 0.001599
+[2019.05.09-12.52.47:315][752]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.52.47:319][752]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel 1.064
+[2019.05.09-12.52.48:316][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.52.48:352][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.52.48:375][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.52.48:421][814]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.09-12.52.51:644][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.52.51:727][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.52.51:747][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.52.51:747][ 12]PIE: New page: PIE session: TestLevel (9 May 2019 14:52:51)
+[2019.05.09-12.52.51:747][ 12]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.52.51:750][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002233s)
+[2019.05.09-12.52.51:750][ 12]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.52.51:750][ 12]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.05.09-12.52.51:750][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.002828s)
+[2019.05.09-12.52.51:774][ 12]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.52.51:790][ 12]LogInit: FAudioDevice initialized.
+[2019.05.09-12.52.51:822][ 12]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.52.51:824][ 12]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.52.51
+[2019.05.09-12.52.51:824][ 12]LogWorld: Bringing up level for play took: 0.001439
+[2019.05.09-12.52.51:836][ 12]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.52.51:840][ 12]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel -0.416
+[2019.05.09-12.53.06:717][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Users/JAKUB/Blueprints/UI/startGameWidget.startGameWidget_C:ExecuteUbergraph_startGameWidget'!
+[2019.05.09-12.53.06:717][904]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	startGameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.startGameWidget_C_0
+	Function /Game/Users/JAKUB/Blueprints/UI/startGameWidget.startGameWidget_C:ExecuteUbergraph_startGameWidget:019A
+[2019.05.09-12.53.06:717][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  startGameWidget Function:  Execute Ubergraph Start Game Widget Graph:  EventGraph Node:  Open Door
+[2019.05.09-12.53.19:484][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.53.19:522][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.53.19:552][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.53.19:592][672]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.09-12.53.23:134][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x2)
+[2019.05.09-12.53.23:925][930]Cmd: DELETE
+[2019.05.09-12.53.23:925][930]Cmd: ACTOR DELETE
+[2019.05.09-12.53.23:927][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.53.23:957][930]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.09-12.53.24:749][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.53.24:903][987]LogActorFactory: Actor Factory created DoorFrame_2x1
+[2019.05.09-12.53.25:620][ 30]LogActorFactory: Actor Factory created DoorFrame_2x1
+[2019.05.09-12.53.44:520][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.53.44:883][180]LogActorFactory: Actor Factory created ConcreteWall_CurveIn
+[2019.05.09-12.53.45:395][211]LogActorFactory: Actor Factory created ConcreteWall_CurveIn
+[2019.05.09-12.53.45:918][242]Cmd: DELETE
+[2019.05.09-12.53.45:918][242]Cmd: ACTOR DELETE
+[2019.05.09-12.53.45:921][242]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.53.45:948][242]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.05.09-12.53.47:106][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.53.48:092][371]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.53.48:578][400]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.53.57:343][923]Cmd: DELETE
+[2019.05.09-12.53.57:343][923]Cmd: ACTOR DELETE
+[2019.05.09-12.53.57:345][923]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.53.57:367][923]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.05.09-12.53.58:091][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.54.02:479][228]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.54.03:298][277]LogActorFactory: Actor Factory created ConcreteWall_2x1
+[2019.05.09-12.54.18:660][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoorFrame_2x2)
+[2019.05.09-12.54.20:830][322]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (DoorFrame_2x1)
+[2019.05.09-12.54.30:557][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x21)
+[2019.05.09-12.54.31:330][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x19)
+[2019.05.09-12.54.31:867][978]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x7)
+[2019.05.09-12.54.32:341][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x8)
+[2019.05.09-12.54.33:095][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x5)
+[2019.05.09-12.54.36:564][255]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x12)
+[2019.05.09-12.54.37:136][288]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x11)
+[2019.05.09-12.54.38:011][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x10)
+[2019.05.09-12.54.44:670][735]Cmd: TRANSACTION UNDO
+[2019.05.09-12.54.44:670][735]LogEditorTransaction: Undo Move Actors
+[2019.05.09-12.54.44:678][735]LogActorComponent: ~FComponentReregisterContext: (/Game/Users/Josh/TestLevels/TestLevel.TestLevel:PersistentLevel.ConcreteWall_2x5.StaticMeshComponent0) Component already registered.
+[2019.05.09-12.54.45:682][794]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x6)
+[2019.05.09-12.55.03:231][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x31)
+[2019.05.09-12.55.03:618][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x30)
+[2019.05.09-12.55.04:043][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ConcreteWall_2x29)
+[2019.05.09-12.55.08:398][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x31)
+[2019.05.09-12.55.15:972][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.05.09-12.55.18:325][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x30)
+[2019.05.09-12.55.22:207][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x29)
+[2019.05.09-12.55.25:527][159]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.09-12.55.26:432][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x28)
+[2019.05.09-12.55.29:799][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x28)
+[2019.05.09-12.55.30:191][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x27)
+[2019.05.09-12.55.35:636][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x26)
+[2019.05.09-12.55.38:352][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x25)
+[2019.05.09-12.55.43:673][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x33)
+[2019.05.09-12.55.48:709][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x32)
+[2019.05.09-12.56.01:399][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.56.02:016][326]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.56.02:036][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.56.02:037][326]PIE: New page: PIE session: TestLevel (9 May 2019 14:56:02)
+[2019.05.09-12.56.02:037][326]LogPlayLevel: Creating play world package: /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel
+[2019.05.09-12.56.02:040][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003028s)
+[2019.05.09-12.56.02:040][326]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.09-12.56.02:040][326]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2019.05.09-12.56.02:040][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/TestLevels/TestLevel.TestLevel to /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel (0.003737s)
+[2019.05.09-12.56.02:069][326]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.56.02:085][326]LogInit: FAudioDevice initialized.
+[2019.05.09-12.56.02:115][326]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.56.02:117][326]LogWorld: Bringing World /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.05.09-13.56.02
+[2019.05.09-12.56.02:118][326]LogWorld: Bringing up level for play took: 0.001881
+[2019.05.09-12.56.02:129][326]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.56.02:134][326]PIE: Play in editor start time for /Game/Users/Josh/TestLevels/UEDPIE_0_TestLevel -0.122
+[2019.05.09-12.56.11:014][858]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Users/JAKUB/Blueprints/UI/startGameWidget.startGameWidget_C:ExecuteUbergraph_startGameWidget'!
+[2019.05.09-12.56.11:014][858]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	startGameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.startGameWidget_C_0
+	Function /Game/Users/JAKUB/Blueprints/UI/startGameWidget.startGameWidget_C:ExecuteUbergraph_startGameWidget:019A
+[2019.05.09-12.56.11:014][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  startGameWidget Function:  Execute Ubergraph Start Game Widget Graph:  EventGraph Node:  Open Door
+[2019.05.09-12.56.52:117][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.56.52:154][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.56.52:186][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.56.52:226][325]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.09-12.56.54:052][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.56.55:060][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-12.56.55:532][493]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TestLevel3B60E2F14A773A88CCE3BA80D0E4BAE1.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/TestLevels/TestLevel.umap'
+[2019.05.09-12.56.55:575][493]LogFileHelpers: Saving map 'TestLevel' took 0.506
+[2019.05.09-12.57.02:237][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.04:818][ 41]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.57.04:830][ 41]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.09-12.57.04:855][ 41]Cmd: MAP LOAD FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.09-12.57.04:855][ 41]LightingResults: New page: Lighting Build
+[2019.05.09-12.57.04:855][ 41]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.09-12.57.04:856][ 41]MapCheck: New page: Map Check
+[2019.05.09-12.57.04:856][ 41]LightingResults: New page: Lighting Build
+[2019.05.09-12.57.05:057][ 41]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.09-12.57.05:118][ 41]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.09-12.57.05:300][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 182.588ms to complete.
+[2019.05.09-12.57.05:301][ 41]LogFileHelpers: Loading map 'LevelOne' took 0.448
+[2019.05.09-12.57.10:494][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.13:534][523]Cmd: DELETE
+[2019.05.09-12.57.13:534][523]Cmd: ACTOR DELETE
+[2019.05.09-12.57.13:538][523]LogEditorActor: Deleted Actor: Brush
+[2019.05.09-12.57.13:651][523]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2019.05.09-12.57.14:563][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.18:520][804]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.05.09-12.57.18:577][804]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.05.09-12.57.18:627][804]LogActorFactory: Actor Factory created Floor_400x400
+[2019.05.09-12.57.18:978][823]LogActorFactory: Actor Factory created Floor_400x400
+[2019.05.09-12.57.21:397][966]Cmd: DELETE
+[2019.05.09-12.57.21:397][966]Cmd: ACTOR DELETE
+[2019.05.09-12.57.21:402][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.57.21:429][966]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.09-12.57.22:036][  3]Cmd: TRANSACTION UNDO
+[2019.05.09-12.57.22:036][  3]LogEditorTransaction: Undo Delete Actors
+[2019.05.09-12.57.22:399][ 23]Cmd: TRANSACTION UNDO
+[2019.05.09-12.57.22:399][ 23]LogEditorTransaction: Undo Create Actors
+[2019.05.09-12.57.22:791][ 41]Cmd: TRANSACTION UNDO
+[2019.05.09-12.57.22:791][ 41]LogEditorTransaction: Undo Delete Actors
+[2019.05.09-12.57.25:642][206]Cmd: DELETE
+[2019.05.09-12.57.25:642][206]Cmd: ACTOR DELETE
+[2019.05.09-12.57.25:648][206]LogEditorActor: Deleted Actor: Brush
+[2019.05.09-12.57.25:777][206]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2019.05.09-12.57.26:061][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.26:153][228]LogActorFactory: Actor Factory created Floor_400x400
+[2019.05.09-12.57.26:315][238]LogActorFactory: Actor Factory created Floor_400x400
+[2019.05.09-12.57.27:697][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.36:290][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.05.09-12.57.36:900][863]Cmd: DELETE
+[2019.05.09-12.57.36:900][863]Cmd: ACTOR DELETE
+[2019.05.09-12.57.36:904][863]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-12.57.36:930][863]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.05.09-12.57.37:496][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.37:581][902]LogActorFactory: Actor Factory created TemplateFloor
+[2019.05.09-12.57.37:783][914]LogActorFactory: Actor Factory created TemplateFloor
+[2019.05.09-12.57.39:198][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.49:074][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.57.55:139][951]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-12.58.01:138][304]Cmd: DELETE
+[2019.05.09-12.58.01:138][304]Cmd: ACTOR DELETE
+[2019.05.09-12.58.01:143][304]LogEditorActor: Deleted Actor: SlowAI_C
+[2019.05.09-12.58.01:171][304]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.09-12.58.02:622][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.58.22:499][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.58.22:582][577]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.58.22:606][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.58.22:606][577]PIE: New page: PIE session: LevelOne (9 May 2019 14:58:22)
+[2019.05.09-12.58.22:606][577]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.58.22:616][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009823s)
+[2019.05.09-12.58.22:617][577]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.58.22:617][577]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.05.09-12.58.22:617][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010618s)
+[2019.05.09-12.58.22:649][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.58.22:664][577]LogInit: FAudioDevice initialized.
+[2019.05.09-12.58.22:690][577]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.58.22:696][577]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-13.58.22
+[2019.05.09-12.58.22:697][577]LogWorld: Bringing up level for play took: 0.005520
+[2019.05.09-12.58.22:710][577]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.58.22:712][577]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.58.22:714][577]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.458
+[2019.05.09-12.59.06:015][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.59.06:053][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-12.59.06:081][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-12.59.06:122][173]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.09-12.59.09:422][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.15:497][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.18:814][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.29:932][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.35:363][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.41:008][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.50:565][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-12.59.50:631][831]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-12.59.50:652][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-12.59.50:652][831]PIE: New page: PIE session: LevelOne (9 May 2019 14:59:50)
+[2019.05.09-12.59.50:652][831]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-12.59.50:662][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009627s)
+[2019.05.09-12.59.50:663][831]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-12.59.50:663][831]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.05.09-12.59.50:663][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010373s)
+[2019.05.09-12.59.50:691][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-12.59.50:706][831]LogInit: FAudioDevice initialized.
+[2019.05.09-12.59.50:738][831]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-12.59.50:743][831]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-13.59.50
+[2019.05.09-12.59.50:744][831]LogWorld: Bringing up level for play took: 0.004858
+[2019.05.09-12.59.50:755][831]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-12.59.50:758][831]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-12.59.50:758][831]LogBlueprintUserMessages: [SpawnPoints_2] Not crossed trigger
+[2019.05.09-12.59.50:760][831]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.504
+[2019.05.09-13.00.01:699][479]LogBlueprintUserMessages: [FastAI_V2_C_0] 100.0
+[2019.05.09-13.00.01:723][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1113.102 Y=9764.554 Z=83.000] for [FastAI_V2_C]
+[2019.05.09-13.00.01:724][479]LogBlueprintUserMessages: [FastAI_V2_C_2] 100.0
+[2019.05.09-13.00.01:725][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1113.102 Y=9764.554 Z=83.000] for [FastAI_V2_C]
+[2019.05.09-13.00.01:725][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1113.102 Y=9764.554 Z=83.000] for [FastAI_V2_C]
+[2019.05.09-13.00.01:726][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1113.102 Y=9764.554 Z=83.000] for [FastAI_V2_C]
+[2019.05.09-13.00.29:004][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.00.29:042][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.00.29:072][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.00.29:110][118]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.09-13.00.31:677][272]LogEditorViewport: Clicking on Actor (LMB): SpawnPoints_C (SpawnPoints)
+[2019.05.09-13.00.38:665][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.00.38:754][695]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/AI/SpawnManagers/SpawnPoints.SpawnPoints
+[2019.05.09-13.00.48:388][238]BlueprintLog: New page: Compile SpawnPoints
+[2019.05.09-13.00.48:651][238]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SpawnPointsADD3E6D04B137DD0532FC38DB3FE8E2C.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/SpawnManagers/SpawnPoints.uasset'
+[2019.05.09-13.00.54:572][588]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-13.00.54:597][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-13.00.54:597][588]PIE: New page: PIE session: LevelOne (9 May 2019 15:00:54)
+[2019.05.09-13.00.54:597][588]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-13.00.54:607][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009436s)
+[2019.05.09-13.00.54:607][588]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-13.00.54:607][588]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.05.09-13.00.54:608][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010214s)
+[2019.05.09-13.00.54:639][588]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-13.00.54:653][588]LogInit: FAudioDevice initialized.
+[2019.05.09-13.00.54:683][588]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-13.00.54:688][588]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-14.00.54
+[2019.05.09-13.00.54:689][588]LogWorld: Bringing up level for play took: 0.004789
+[2019.05.09-13.00.54:700][588]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-13.00.54:703][588]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-13.00.54:703][588]LogBlueprintUserMessages: [SpawnPoints_2] Not crossed trigger
+[2019.05.09-13.00.54:705][588]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.45
+[2019.05.09-13.01.05:723][249]LogBlueprintUserMessages: [FastAI_V2_C_0] 100.0
+[2019.05.09-13.01.05:724][249]LogBlueprintUserMessages: [FastAI_V2_C_1] 100.0
+[2019.05.09-13.01.05:725][249]LogBlueprintUserMessages: [FastAI_V2_C_2] 100.0
+[2019.05.09-13.01.05:726][249]LogBlueprintUserMessages: [FastAI_V2_C_3] 100.0
+[2019.05.09-13.01.05:727][249]LogBlueprintUserMessages: [FastAI_V2_C_4] 100.0
+[2019.05.09-13.01.05:728][249]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1098.879 Y=9689.470 Z=83.000] for [FastAI_V2_C]
+[2019.05.09-13.01.12:438][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.01.12:478][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.01.12:509][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.01.12:547][653]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.09-13.01.14:197][752]LogEditorViewport: Clicking on Actor (LMB): SpawnPoints_C (SpawnPoints)
+[2019.05.09-13.01.16:502][889]Cmd: DELETE
+[2019.05.09-13.01.16:502][889]Cmd: ACTOR DELETE
+[2019.05.09-13.01.16:506][889]LogEditorActor: Deleted Actor: SpawnPoints_C
+[2019.05.09-13.01.16:534][889]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.09-13.01.17:168][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.01.51:470][984]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-13.01.51:959][  9]Cmd: DELETE
+[2019.05.09-13.01.51:959][  9]Cmd: ACTOR DELETE
+[2019.05.09-13.01.51:964][  9]LogEditorActor: Deleted Actor: SlowAI_C
+[2019.05.09-13.01.51:988][  9]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.05.09-13.01.52:813][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.01.59:044][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.01.59:126][429]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-13.01.59:153][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-13.01.59:153][429]PIE: New page: PIE session: LevelOne (9 May 2019 15:01:59)
+[2019.05.09-13.01.59:153][429]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-13.01.59:163][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009599s)
+[2019.05.09-13.01.59:164][429]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-13.01.59:164][429]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2019.05.09-13.01.59:164][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010343s)
+[2019.05.09-13.01.59:195][429]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-13.01.59:210][429]LogInit: FAudioDevice initialized.
+[2019.05.09-13.01.59:242][429]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-13.01.59:247][429]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-14.01.59
+[2019.05.09-13.01.59:247][429]LogWorld: Bringing up level for play took: 0.004580
+[2019.05.09-13.01.59:259][429]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-13.01.59:262][429]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-13.01.59:262][429]LogBlueprintUserMessages: [FastAI_V2_2] 100.0
+[2019.05.09-13.01.59:264][429]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 1.008
+[2019.05.09-13.02.09:896][ 67]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-13.02.11:663][173]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-13.02.12:381][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.02.12:414][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.02.12:444][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.02.12:482][218]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.09-13.08.20:703][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.09.41:072][ 66]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne_Auto12A771E00438A190DE8795EBB3C09FD1B.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Niall/Levels/LevelOne_Auto1.umap'
+[2019.05.09-13.09.41:107][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Users/Niall/Levels/LevelOne' took 0.286
+[2019.05.09-13.09.41:107][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.286
+[2019.05.09-13.11.39:580][649]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.09-13.11.55:871][613]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAi_BT3D263B9D4FC394349E6AF9A651AAE8A9.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAi_BT.uasset'
+[2019.05.09-13.13.04:655][698]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/NEW_AI/FastAI_V2.FastAI_V2
+[2019.05.09-13.13.25:262][818]BlueprintLog: New page: Compile FastAI_V2
+[2019.05.09-13.13.25:480][818]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_V2A8189DF24FE4AF3936D765B0BB401C3D.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_V2.uasset'
+[2019.05.09-13.13.27:818][956]BlueprintLog: New page: Compile FastAI_V2
+[2019.05.09-13.13.28:063][956]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_V232213C404B07A4D7F59482AB744F96A3.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_V2.uasset'
+[2019.05.09-13.13.36:386][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-13.13.36:391][448]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.13.39:314][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.13.39:396][625]BlueprintLog: New page: Compile FastAI_V2
+[2019.05.09-13.13.39:664][625]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_V2AF22C2FC47D49712B7BE82B262EB2AFF.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_V2.uasset'
+[2019.05.09-13.13.45:156][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.13.49:763][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/NEW_AI/NewAI" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset" SILENT=true
+[2019.05.09-13.13.49:783][219]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI5D225E6D4C23A160D29B2091F660A8CF.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset'
+[2019.05.09-13.13.49:798][219]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/NewAI.SKEL_NewAI_C' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_V2.PackageMetaData'
+[2019.05.09-13.13.49:798][219]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/NewAI.NewAI_C' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_V2.PackageMetaData'
+[2019.05.09-13.13.49:823][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/NEW_AI/NewAI" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset" SILENT=true
+[2019.05.09-13.13.49:880][219]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAIF87E742D4A571F2CB578F483D97210ED.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset'
+[2019.05.09-13.14.16:650][802]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2019.05.09-13.14.16:650][802]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2019.05.09-13.14.16:650][802]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2019.05.09-13.14.18:950][937]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.14.27:582][450]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_ControllerNew81BB0A674379910404A7719E88EA38DB.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_ControllerNew.uasset'
+[2019.05.09-13.14.27:588][450]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/FastAI_ControllerNew.FastAI_ControllerNew:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_Controller.PackageMetaData'
+[2019.05.09-13.14.27:588][450]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/FastAI_ControllerNew.SKEL_FastAI_ControllerNew_C' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_Controller.PackageMetaData'
+[2019.05.09-13.14.27:588][450]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/FastAI_ControllerNew.FastAI_ControllerNew_C' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_Controller.PackageMetaData'
+[2019.05.09-13.14.27:588][450]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/FastAI_ControllerNew.FastAI_ControllerNew:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_Controller.PackageMetaData'
+[2019.05.09-13.14.27:588][450]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/FastAI_ControllerNew.FastAI_ControllerNew:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Users/Josh/NEW_AI/FastAI_Controller.PackageMetaData'
+[2019.05.09-13.14.27:668][450]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_ControllerNew64D55E994CC91ED52C3910A312FABA41.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_ControllerNew.uasset'
+[2019.05.09-13.14.30:509][605]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.14.34:095][819]BlueprintLog: New page: Compile NewAI
+[2019.05.09-13.14.34:292][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/NEW_AI/NewAI" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset" SILENT=true
+[2019.05.09-13.14.34:354][819]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI17B5C6F84C5DAAD65F4F2498841B83C7.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset'
+[2019.05.09-13.14.43:733][358]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.09-13.14.44:539][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.09-13.14.46:309][503]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/NEW_AI/FastAI_ControllerNew.FastAI_ControllerNew
+[2019.05.09-13.14.59:245][233]BlueprintLog: New page: Compile FastAI_ControllerNew
+[2019.05.09-13.14.59:506][233]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_ControllerNew5C565C904ED97D17031222AB51C5EEDB.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_ControllerNew.uasset'
+[2019.05.09-13.15.00:091][264]LogSlate: Window 'FastAI_ControllerNew' being destroyed
+[2019.05.09-13.15.03:734][480]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_BTNewEE25D2B14000F922A1DA8D82BC4B1E32.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_BTNew.uasset'
+[2019.05.09-13.15.03:977][480]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_ControllerNew9698E784477687274ED2F689C0F1A2C9.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_ControllerNew.uasset'
+[2019.05.09-13.15.07:232][669]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AI_BlackboardNew9304FBFB47E94FF33076EF8AEAB8365F.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/AI_BlackboardNew.uasset'
+[2019.05.09-13.15.09:547][796]BlueprintLog: New page: Compile FastAI_ControllerNew
+[2019.05.09-13.15.21:432][500]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Users/Josh/NEW_AI/FastAI_BTNew.FastAI_BTNew
+[2019.05.09-13.15.36:712][397]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_BTNew240F50B841C818593681F8A6085D3ABD.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_BTNew.uasset'
+[2019.05.09-13.16.36:965][ 12]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/Users/Josh/NEW_AI/AI_BlackboardNew.AI_BlackboardNew
+[2019.05.09-13.16.39:745][175]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.17.01:191][455]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AI_BlackboardNew71DF9007432D34FC44129098DD0127E7.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/AI_BlackboardNew.uasset'
+[2019.05.09-13.17.17:374][401]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Users/Josh/NEW_AI/New_AIStates.New_AIStates
+[2019.05.09-13.17.37:726][607]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/New_AIStates8F1D33A04F0498467E083193DAC4E921.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/New_AIStates.uasset'
+[2019.05.09-13.17.51:074][402]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AI_BlackboardNew5A1E124E45C3B347AEE6648421C7AE59.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/AI_BlackboardNew.uasset'
+[2019.05.09-13.17.57:738][793]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-13.17.57:806][793]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.09-13.17.57:808][793]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.05.09-13.17.57:839][793]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (1 blueprints)
+[2019.05.09-13.17.57:839][793]PIE: New page: PIE session: LevelOne (9 May 2019 15:17:57)
+[2019.05.09-13.17.57:839][793]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-13.17.57:849][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009778s)
+[2019.05.09-13.17.57:850][793]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-13.17.57:850][793]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2019.05.09-13.17.57:850][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010539s)
+[2019.05.09-13.17.57:876][793]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-13.17.57:892][793]LogInit: FAudioDevice initialized.
+[2019.05.09-13.17.57:921][793]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-13.17.57:926][793]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-14.17.57
+[2019.05.09-13.17.57:926][793]LogWorld: Bringing up level for play took: 0.004770
+[2019.05.09-13.17.57:939][793]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-13.17.57:941][793]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.09-13.17.57:942][793]LogBlueprintUserMessages: [FastAI_V2_2] 100.0
+[2019.05.09-13.17.57:943][793]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.313
+[2019.05.09-13.17.58:256][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.17.58:294][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.17.58:322][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.17.58:352][812]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.05.09-13.21.01:355][781]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/AI/ClickerAI/AdvancedMoveTo.AdvancedMoveTo
+[2019.05.09-13.21.18:000][756]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.21.22:020][996]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.21.22:020][996]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/NEW_AI/BTService_BlueprintBase_New.BTService_BlueprintBase_New
+[2019.05.09-13.21.22:308][996]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Users/Josh/NEW_AI/BTService_BlueprintBase_New.
+[2019.05.09-13.21.32:339][594]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision913178244B8147C88C7B24AF791CE873.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.21.32:344][594]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/NewAI_Vision.SKEL_NewAI_Vision_C' ref from Metadata '/Game/Users/Josh/NEW_AI/BTService_BlueprintBase_New.PackageMetaData'
+[2019.05.09-13.21.32:344][594]LogMetaData: Removing '/Game/Users/Josh/NEW_AI/NewAI_Vision.NewAI_Vision_C' ref from Metadata '/Game/Users/Josh/NEW_AI/BTService_BlueprintBase_New.PackageMetaData'
+[2019.05.09-13.21.32:451][594]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_VisionAE18B3084056750F539F1EAF45CD4040.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.21.32:680][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Users/Josh/NEW_AI/NewAI_Vision.
+[2019.05.09-13.27.15:008][ 87]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.27.15:115][ 87]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_VisionC26ABCF54E88A172E48F25AD5E9DC039.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.29.04:932][661]LogSlate: Took 0.036688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.09-13.29.16:641][361]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.29.16:791][361]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_VisionE257BCFB462B0C2AD19D94A8805A80CE.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.29.52:255][484]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_BTNewA0DDE9A24334E86575B3CF92AA137675.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_BTNew.uasset'
+[2019.05.09-13.30.10:168][558]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.30.10:398][558]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision8C2519E14B0C0B16BA36278FE8D12195.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.31.07:790][975]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.31.08:021][975]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision8A3DC3954E492666ED2CFDA978EBE227.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.32.15:122][984]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.32.15:360][984]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision5F578B6A42305179062128AD0B2A2F65.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.32.33:120][ 45]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.32.33:352][ 45]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision3DDBDA4E4F79C2CBB9BADFB0E731A73C.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.34.39:872][631]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.34.40:111][631]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision423F67E84AF662C637AEDE9881D7A3FA.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.35.27:208][426]BlueprintLog: New page: Compile NewAI_Vision
+[2019.05.09-13.35.27:454][426]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_VisionC8AC9B914F7DCB2E5E4085ABB111A8FA.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.35.27:811][442]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision5C7FA09641C0925F6AB32DB9760378B4.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.35.34:170][823]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.09-13.35.36:637][969]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.09-13.35.38:881][101]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.09-13.35.44:689][443]LogEditorViewport: Clicking on Actor (LMB): FastAI_V2_C (FastAI_V2)
+[2019.05.09-13.35.45:494][487]Cmd: DELETE
+[2019.05.09-13.35.45:494][487]Cmd: ACTOR DELETE
+[2019.05.09-13.35.45:499][487]LogEditorActor: Deleted Actor: FastAI_V2_C
+[2019.05.09-13.35.45:532][487]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.05.09-13.35.46:051][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.35.47:289][592]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/NEW_AI/NewAI.NewAI
+[2019.05.09-13.35.59:430][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.35.59:837][315]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.36.06:554][716]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.36.06:611][716]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Josh/Animations/NewAnimations/WalkingZombieAnimation_NEW.WalkingZombieAnimation_NEW
+[2019.05.09-13.36.06:624][716]LogAnimationCompression: Recompressing (AnimSequence /Game/Users/Josh/Animations/NewAnimations/WalkingZombieAnimation_NEW.WalkingZombieAnimation_NEW) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.09-13.36.06:627][716]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Josh/Animations/NewAnimations/OneArmZombieRunAnimation.OneArmZombieRunAnimation
+[2019.05.09-13.36.06:627][716]LogAnimationCompression: Recompressing (AnimSequence /Game/Users/Josh/Animations/NewAnimations/OneArmZombieRunAnimation.OneArmZombieRunAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.09-13.36.08:825][847]BlueprintLog: New page: Compile NewAI
+[2019.05.09-13.36.09:051][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/NEW_AI/NewAI" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset" SILENT=true
+[2019.05.09-13.36.09:113][847]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI6E58C7F24EF2EDEA368448997B40F3F0.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset'
+[2019.05.09-13.36.09:465][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/NEW_AI/NewAI" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset" SILENT=true
+[2019.05.09-13.36.09:517][866]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAIEEDD92824839A1F1F1B98AA7D4A3746B.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset'
+[2019.05.09-13.36.21:664][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.36.26:338][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.36.29:183][ 37]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI_Vision75DA8F814F8613974D80499C12AC7D5E.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI_Vision.uasset'
+[2019.05.09-13.36.49:299][240]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/FastAI_BTNew12711EE24AF7E478D12945A9296C49F5.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/FastAI_BTNew.uasset'
+[2019.05.09-13.36.52:849][453]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-13.36.52:891][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-13.36.52:891][453]PIE: New page: PIE session: LevelOne (9 May 2019 15:36:52)
+[2019.05.09-13.36.52:891][453]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-13.36.52:900][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009504s)
+[2019.05.09-13.36.52:901][453]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-13.36.52:901][453]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.05.09-13.36.52:901][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010292s)
+[2019.05.09-13.36.52:979][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-13.36.52:995][453]LogInit: FAudioDevice initialized.
+[2019.05.09-13.36.53:025][453]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-13.36.53:030][453]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-14.36.53
+[2019.05.09-13.36.53:030][453]LogWorld: Bringing up level for play took: 0.004674
+[2019.05.09-13.36.53:042][453]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-13.36.53:047][453]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.791
+[2019.05.09-13.37.06:184][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.37.06:223][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.37.06:249][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.37.06:289][242]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.05.09-13.37.12:544][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.37.14:675][742]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-13.37.14:680][742]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-13.37.35:254][973]BlueprintLog: New page: Compile NewAI
+[2019.05.09-13.37.35:483][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/NEW_AI/NewAI" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset" SILENT=true
+[2019.05.09-13.37.35:543][973]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewAI907016104836A02EC65E15A8EA24DAD9.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/NEW_AI/NewAI.uasset'
+[2019.05.09-13.37.36:702][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-13.37.36:734][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-13.37.36:734][ 42]PIE: New page: PIE session: LevelOne (9 May 2019 15:37:36)
+[2019.05.09-13.37.36:734][ 42]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-13.37.36:744][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009517s)
+[2019.05.09-13.37.36:744][ 42]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-13.37.36:744][ 42]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.05.09-13.37.36:744][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010177s)
+[2019.05.09-13.37.36:774][ 42]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-13.37.36:789][ 42]LogInit: FAudioDevice initialized.
+[2019.05.09-13.37.36:821][ 42]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-13.37.36:826][ 42]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-14.37.36
+[2019.05.09-13.37.36:827][ 42]LogWorld: Bringing up level for play took: 0.004799
+[2019.05.09-13.37.36:839][ 42]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-13.37.36:843][ 42]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.588
+[2019.05.09-13.37.37:860][103]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-13.37.38:110][118]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-13.38.36:537][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.38.36:576][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.38.36:603][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.38.36:644][624]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.05.09-13.38.40:293][842]LogEditorViewport: Clicking on Actor (LMB): NewAI_C (NewAI)
+[2019.05.09-13.38.41:095][885]Cmd: DELETE
+[2019.05.09-13.38.41:095][885]Cmd: ACTOR DELETE
+[2019.05.09-13.38.41:099][885]LogEditorActor: Deleted Actor: NewAI_C
+[2019.05.09-13.38.41:127][885]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.09-13.38.42:495][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.38.49:302][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.38.49:352][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-13.38.49:384][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-13.38.49:384][374]PIE: New page: PIE session: LevelOne (9 May 2019 15:38:49)
+[2019.05.09-13.38.49:384][374]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-13.38.49:393][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009525s)
+[2019.05.09-13.38.49:394][374]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-13.38.49:394][374]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.05.09-13.38.49:394][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.010302s)
+[2019.05.09-13.38.49:426][374]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-13.38.49:440][374]LogInit: FAudioDevice initialized.
+[2019.05.09-13.38.49:468][374]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-13.38.49:473][374]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-14.38.49
+[2019.05.09-13.38.49:474][374]LogWorld: Bringing up level for play took: 0.004930
+[2019.05.09-13.38.49:485][374]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-13.38.49:488][374]LogBlueprintUserMessages: [FastAI_V2_5] 100.0
+[2019.05.09-13.38.49:490][374]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.766
+[2019.05.09-13.38.59:627][982]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-13.38.59:843][995]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-13.39.04:132][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.39.04:166][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.39.04:197][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.39.04:236][254]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.05.09-13.39.06:037][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.44.25:971][656]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.09-13.44.51:746][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.NewAI_C_0.CollisionCylinder) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.09-13.44.51:755][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.NewAI_C_3.CollisionCylinder) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.09-13.44.58:875][656]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.992 s
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: 
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2510]
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: 
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: Stack: 
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec62a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec5fe0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec5ffb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffeae560be4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffeadca1068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffeadf52970 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffeadf4cd7f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec8229c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec80194c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec80b1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec8097c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffec808b25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffee586d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffee5860270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffee586f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007ffee585c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007fff05f46d41 USER32.dll!UnknownFunction []
+[2019.05.09-13.44.58:875][656]LogOutputDevice: Error: [Callstack] 0x00007fff05f46713 USER32.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffee58705a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec80bf2b2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec80477c7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffeadff1156 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffeae5544f0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffea055dc8f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffea0568382 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffea05635fa UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffea05c0103 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffea056461f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec8229c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec80194c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec80b1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec8097c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffec808b25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffee586d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffee5860270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffee586f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffee585c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007fff05f46d41 USER32.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007fff05f46713 USER32.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ffee5870646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ff7a74654e5 UE4Editor.exe!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ff7a7475b3c UE4Editor.exe!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ff7a7475bba UE4Editor.exe!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ff7a7483dac UE4Editor.exe!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007ff7a7485aaa UE4Editor.exe!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007fff06664034 KERNEL32.DLL!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: [Callstack] 0x00007fff08023691 ntdll.dll!UnknownFunction []
+[2019.05.09-13.44.58:876][656]LogOutputDevice: Error: 
+[2019.05.09-13.44.58:932][656]LogStats:                SubmitErrorReport -  0.045 s
