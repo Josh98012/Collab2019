@@ -1,0 +1,1429 @@
+﻿Log file open, 05/09/19 16:00:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.670555
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.401s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.09-15.00.27:673][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.09-15.00.27:673][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.09-15.00.27:692][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.09-15.00.27:692][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.09-15.00.27:692][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.09-15.00.27:692][  0]LogInit: Computer: LAPTOP-CR9AOUGS
+[2019.05.09-15.00.27:692][  0]LogInit: User: josh9
+[2019.05.09-15.00.27:692][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.09-15.00.27:692][  0]LogInit: High frequency timer resolution =2.250002 MHz
+[2019.05.09-15.00.27:692][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.05.09-15.00.27:692][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.09-15.00.27:692][  0]LogMemory: Process Physical Memory: 102.81 MB used, 102.81 MB peak
+[2019.05.09-15.00.27:692][  0]LogMemory: Process Virtual Memory: 97.50 MB used, 97.50 MB peak
+[2019.05.09-15.00.27:692][  0]LogMemory: Physical Memory: 3749.07 MB used,  4285.23 MB free, 8034.30 MB total
+[2019.05.09-15.00.27:692][  0]LogMemory: Virtual Memory: 4651.66 MB used,  4285.23 MB free, 134217728.00 MB total
+[2019.05.09-15.00.28:082][  0]LogInit: Using OS detected language (en-GB).
+[2019.05.09-15.00.28:082][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.09-15.00.28:137][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.05.09-15.00.28:765][  0]LogStreaming: Display: Took  0.684s to InitEngineTextLocalization.
+[2019.05.09-15.00.28:765][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.09-15.00.29:071][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.09-15.00.29:071][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.09-15.00.30:696][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.09-15.00.30:696][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.09-15.00.31:007][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.09-15.00.31:007][  0]LogD3D11RHI:       4019/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.09-15.00.31:230][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.09-15.00.31:230][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.09-15.00.31:252][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.09-15.00.31:252][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.09-15.00.31:252][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.09-15.00.31:275][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.09-15.00.31:275][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.09-15.00.31:275][  0]LogWindows: EnumDisplayDevices:
+[2019.05.09-15.00.31:275][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.05.09-15.00.31:276][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.09-15.00.31:277][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.09-15.00.31:277][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.05.09-15.00.31:278][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.05.09-15.00.31:278][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.09-15.00.31:278][  0]LogD3D11RHI:   Driver Version: 399.31 (internal:24.21.13.9931, unified:399.31)
+[2019.05.09-15.00.31:278][  0]LogD3D11RHI:      Driver Date: 9-12-2018
+[2019.05.09-15.00.31:278][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.05.09-15.00.31:360][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.09-15.00.31:378][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.09-15.00.31:489][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/10108/).
+[2019.05.09-15.00.31:489][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/josh9/AppData/Local/Temp/UnrealShaderWorkingDir/37A9F91A4159B200DAE9B8A2246DB624/'.
+[2019.05.09-15.00.33:319][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.09-15.00.33:333][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.09-15.00.33:346][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.09-15.00.33:359][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.09-15.00.33:372][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.09-15.00.33:387][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.09-15.00.33:409][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.09-15.00.33:422][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.09-15.00.33:429][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:500][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.09-15.00.33:501][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.09-15.00.33:561][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.09-15.00.33:561][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.09-15.00.33:583][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.09-15.00.33:583][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.09-15.00.33:595][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.09-15.00.33:607][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.09-15.00.33:618][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.09-15.00.33:631][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.09-15.00.33:638][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.09-15.00.33:638][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.09-15.00.33:955][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.09-15.00.33:955][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.09-15.00.33:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.09-15.00.36:211][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.09-15.00.37:311][  0]LogDerivedDataCache: Loaded boot cache 1.10s 105MB C:/Users/josh9/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.09-15.00.37:311][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/josh9/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.09-15.00.37:311][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.09-15.00.37:311][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.09-15.00.37:311][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.09-15.00.37:311][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.09-15.00.37:356][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.09-15.00.37:369][  0]LogDerivedDataCache: Using Local data cache path C:/Users/josh9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.09-15.00.37:369][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.09-15.00.37:369][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.09-15.00.37:385][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.09-15.00.37:386][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.09-15.00.37:455][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.09-15.00.38:364][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2019.05.09-15.00.39:995][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.09-15.00.41:400][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.09-15.00.41:623][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.09-15.00.41:649][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.09-15.00.41:649][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.09-15.00.41:649][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.09-15.00.41:753][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/CachedAssetRegistry.bin
+[2019.05.09-15.00.41:753][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.09-15.00.43:288][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.171038 seconds
+[2019.05.09-15.00.43:326][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.09-15.00.43:326][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.09-15.00.43:326][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.09-15.00.55:567][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.09-15.00.55:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.09-15.00.56:288][  0]SourceControl: Source control is disabled
+[2019.05.09-15.00.56:300][  0]SourceControl: Source control is disabled
+[2019.05.09-15.00.56:338][  0]SourceControl: Source control is disabled
+[2019.05.09-15.00.56:372][  0]SourceControl: Source control is disabled
+[2019.05.09-15.00.57:169][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.09-15.00.57:308][  0]LogOcInput: OculusInput pre-init called
+[2019.05.09-15.00.57:595][  0]LogEngine: Initializing Engine...
+[2019.05.09-15.00.57:624][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.09-15.00.57:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.09-15.00.57:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.09-15.00.57:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.09-15.00.57:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.09-15.00.57:889][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.09-15.00.58:007][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.09-15.00.58:036][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.00.58:312][  0]LogInit: FAudioDevice initialized.
+[2019.05.09-15.00.58:312][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.09-15.00.58:332][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/josh9/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.09-15.00.58:332][  0]LogInit: Texture streaming: Enabled
+[2019.05.09-15.00.58:694][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.09-15.00.58:786][  0]LogInit: Transaction tracking system initialized
+[2019.05.09-15.00.59:005][  0]BlueprintLog: New page: Editor Load
+[2019.05.09-15.00.59:658][  0]LocalizationService: Localization service is disabled
+[2019.05.09-15.01.02:395][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.03s
+[2019.05.09-15.01.02:395][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.09-15.01.02:395][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.09-15.01.02:395][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.09-15.01.02:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.09-15.01.02:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.09-15.01.02:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.09-15.01.02:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.09-15.01.08:175][  0]SourceControl: Source control is disabled
+[2019.05.09-15.01.08:187][  0]Cmd: MAP LOAD FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.09-15.01.08:188][  0]LightingResults: New page: Lighting Build
+[2019.05.09-15.01.08:203][  0]MapCheck: New page: Map Check
+[2019.05.09-15.01.08:203][  0]LightingResults: New page: Lighting Build
+[2019.05.09-15.01.16:089][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.09-15.01.16:161][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.09-15.01.16:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.09-15.01.16:381][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 166.285ms to complete.
+[2019.05.09-15.01.16:381][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 8.194
+[2019.05.09-15.01.16:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.01.16:920][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.01.16:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.01.16:933][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.01.17:028][  0]LogCollectionManager: Loaded 0 collections in 0.002418 seconds
+[2019.05.09-15.01.17:089][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.09-15.01.17:089][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/josh9/Collections/' took 0.01s
+[2019.05.09-15.01.17:090][  0]LogFileCache: Scanning file cache for directory 'C:/Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.09-15.01.17:090][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.09-15.01.17:098][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2572 classes and 603 folders.
+[2019.05.09-15.01.17:150][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.09-15.01.18:695][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.09-15.01.18:722][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.09-15.01.19:015][  0]LogSlate: Took 0.089148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.09-15.01.19:027][  0]LogSlate: Took 0.009108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.09-15.01.19:045][  0]LogSlate: Took 0.014111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.09-15.01.19:414][  0]LogRenderer: Reallocating scene render targets to support 1216x600 Format 10 NumSamples 1 (Frame:1).
+[2019.05.09-15.01.19:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.09-15.01.19:946][  0]LogLoad: (Engine Initialization) Total time: 82.18 seconds
+[2019.05.09-15.01.19:946][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.09-15.01.20:003][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.09-15.01.20:065][  0]LogSlate: Took 0.012952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.09-15.01.20:111][  1]LogAssetRegistry: Asset discovery search completed in 41.7685 seconds
+[2019.05.09-15.01.20:112][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.09-15.01.20:112][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.05.09-15.01.21:440][  5]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.09-15.04.20:913][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.04.23:454][692]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/AI/Logic/AIVision.AIVision
+[2019.05.09-15.04.23:840][692]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.05.09-15.04.24:479][692]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.09-15.04.24:618][693]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.09-15.04.34:243][268]BlueprintLog: New page: Compile AIVision
+[2019.05.09-15.04.34:527][268]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AIVisionD54BF4684595B5CABFAFD48E93A7AC5F.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/Logic/AIVision.uasset'
+[2019.05.09-15.04.35:244][298]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AIVision2D52BDA747C5E872661B68910E9208AD.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/Logic/AIVision.uasset'
+[2019.05.09-15.04.38:527][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.04.44:143][809]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.04.44:159][809]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.09-15.04.44:184][809]Cmd: MAP LOAD FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.09-15.04.44:184][809]LightingResults: New page: Lighting Build
+[2019.05.09-15.04.44:184][809]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.09-15.04.44:185][809]MapCheck: New page: Map Check
+[2019.05.09-15.04.44:185][809]LightingResults: New page: Lighting Build
+[2019.05.09-15.04.44:334][809]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.09-15.04.44:400][809]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.09-15.04.44:577][809]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 177.775ms to complete.
+[2019.05.09-15.04.44:578][809]LogFileHelpers: Loading map 'LevelOne' took 0.395
+[2019.05.09-15.04.46:274][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.05.09-15.04.48:922][ 62]LogEditorViewport: Clicking Background
+[2019.05.09-15.04.53:812][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.05.24:479][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.05.32:794][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-15.05.32:818][671]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.05.09-15.05.54:071][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.05.54:208][919]LogActorFactory: Actor Factory created Cube
+[2019.05.09-15.05.54:445][933]LogActorFactory: Actor Factory created Cube
+[2019.05.09-15.05.58:546][177]Cmd: DELETE
+[2019.05.09-15.05.58:546][177]Cmd: ACTOR DELETE
+[2019.05.09-15.05.58:552][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.09-15.05.58:576][177]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.05.09-15.06.00:861][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.06.12:001][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.06.13:184][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.06.30:046][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.06.39:457][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.06.43:345][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.06.47:284][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.06.52:939][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.06.53:726][457]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.05.09-15.06.53:750][457]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.05.09-15.06.54:761][517]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.09-15.06.54:785][517]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.05.09-15.07.02:379][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.07.21:941][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.07.22:024][140]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.07.22:046][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.07.22:057][140]PIE: New page: PIE session: LevelOne (9 May 2019 17:07:22)
+[2019.05.09-15.07.22:057][140]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.07.22:082][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024674s)
+[2019.05.09-15.07.22:082][140]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.07.22:083][140]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.05.09-15.07.22:083][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.025449s)
+[2019.05.09-15.07.22:110][140]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.07.22:125][140]LogInit: FAudioDevice initialized.
+[2019.05.09-15.07.22:168][140]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.07.22:174][140]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.07.22
+[2019.05.09-15.07.22:175][140]LogWorld: Bringing up level for play took: 0.005846
+[2019.05.09-15.07.22:186][140]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.07.22:195][140]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.05.09-15.07.22:233][140]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.023
+[2019.05.09-15.07.44:129][453]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  50.0
+[2019.05.09-15.07.46:446][592]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  0.0
+[2019.05.09-15.07.47:446][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.07.47:481][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.07.47:505][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.07.47:556][655]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.09-15.07.55:257][117]LogEditorViewport: Clicking on Actor (LMB): SlowAI_C (SlowAI)
+[2019.05.09-15.07.57:365][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.08.03:980][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/AI/Logic/AIVision.AIVision
+[2019.05.09-15.08.08:594][885]BlueprintLog: New page: Compile AIVision
+[2019.05.09-15.08.08:902][885]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AIVisionCE6E3266424137B436880A9C1ED41252.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/Logic/AIVision.uasset'
+[2019.05.09-15.08.09:173][886]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AIVision6612EE2D444BADDB58B7DB80AE14F3DA.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/AI/Logic/AIVision.uasset'
+[2019.05.09-15.08.12:866][ 97]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Users/Josh/ParticleSystems/TaserBall.TaserBall
+[2019.05.09-15.08.13:005][ 97]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2019.05.09-15.08.21:655][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.08.27:958][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.08.37:287][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.08.56:614][640]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserBall8E59C5154AFEE2FE2AFBE29E301D1723.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/TaserBall.uasset'
+[2019.05.09-15.08.57:906][696]LogSlate: Window 'TaserBall' being destroyed
+[2019.05.09-15.09.11:481][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x20)
+[2019.05.09-15.09.13:079][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x20)
+[2019.05.09-15.09.14:780][696]LogEditorViewport: Clicking on Actor (LMB): Emitter (TaserBall)
+[2019.05.09-15.09.15:552][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.09.20:738][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.09.33:486][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.09.34:388][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.09.44:626][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.09.52:489][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.09.59:832][385]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserBallFD2A820A4B69CAB649ADFBA229661290.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/TaserBall.uasset'
+[2019.05.09-15.10.01:362][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.10.06:333][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.10.08:325][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.10.11:582][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x20)
+[2019.05.09-15.10.19:165][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.10.24:245][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.10.27:997][ 56]LogMaterial: Display: Missing cached shader map for material Spark_mat, compiling. 
+[2019.05.09-15.10.28:072][ 56]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.09-15.10.28:072][ 56]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.09-15.10.28:072][ 56]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.09-15.10.29:549][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.10.29:750][150]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserBallC02B89D8418BD36135829C90BC64810E.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/TaserBall.uasset'
+[2019.05.09-15.10.31:166][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.10.40:142][763]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.40:171][764]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.09-15.10.40:171][764]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.09-15.10.40:171][764]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.09-15.10.41:447][840]LogAssetEditorManager: Opening Asset editor for Material /Game/Users/Josh/ParticleSystems/ParticleMaterials/TaserLight.TaserLight
+[2019.05.09-15.10.41:486][840]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.41:606][840]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.09-15.10.42:054][840]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.42:075][840]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.09-15.10.42:075][840]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.09-15.10.42:091][840]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.42:224][840]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.09-15.10.42:224][840]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.09-15.10.42:366][841]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.09-15.10.42:393][842]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.09-15.10.42:535][851]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.09-15.10.42:598][855]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.09-15.10.42:598][855]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.09-15.10.42:683][860]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.09-15.10.42:754][864]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.09-15.10.42:754][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.09-15.10.43:293][896]MaterialEditorStats: Base pass shader without light map: 61 instructions
+[2019.05.09-15.10.43:293][896]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.05.09-15.10.43:293][896]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.09-15.10.43:293][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.09-15.10.47:079][123]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.47:090][124]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.09-15.10.47:090][124]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.09-15.10.47:090][124]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.09-15.10.47:090][124]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.09-15.10.47:266][135]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.09-15.10.47:266][135]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.09-15.10.47:284][136]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.09-15.10.47:299][137]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.09-15.10.47:416][144]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.09-15.10.47:436][145]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.09-15.10.47:961][176]MaterialEditorStats: Base pass shader without light map: 62 instructions
+[2019.05.09-15.10.47:961][176]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.05.09-15.10.47:961][176]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.09-15.10.47:961][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.09-15.10.48:694][220]LogMaterialEditor: Saving and Compiling material TaserLight
+[2019.05.09-15.10.49:322][220]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.49:349][220]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.09-15.10.49:349][220]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.09-15.10.49:349][220]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.09-15.10.49:349][220]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.09-15.10.49:363][220]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.49:400][220]LogMaterial: Display: Missing cached shader map for material TaserLight, compiling. 
+[2019.05.09-15.10.49:458][220]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy TaserLight, compiling. 
+[2019.05.09-15.10.49:936][220]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.09-15.10.49:936][220]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.09-15.10.49:937][220]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.09-15.10.49:938][220]TextureStreamingBuild: Display: Compiling optional shaders took 0.486 seconds.
+[2019.05.09-15.10.51:896][220]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserLightF17D7DF04882284175D2E083F0D646B0.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/ParticleMaterials/TaserLight.uasset'
+[2019.05.09-15.10.51:907][220]MaterialEditorStats: Base pass shader without light map: 62 instructions
+[2019.05.09-15.10.51:907][220]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.05.09-15.10.51:907][220]MaterialEditorStats: Texture samplers: 7/16
+[2019.05.09-15.10.51:907][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.09-15.11.52:480][854]LogMaterialEditor: Saving and Compiling material TaserLight
+[2019.05.09-15.11.52:559][854]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserLightA4FEC8094AB631C55FFF37A488A039F6.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/ParticleMaterials/TaserLight.uasset'
+[2019.05.09-15.12.00:977][327]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserBall03892D8948DA4ABB662C4A962C0FD249.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/TaserBall.uasset'
+[2019.05.09-15.12.04:712][551]LogEditorViewport: Clicking on Actor (LMB): Emitter (TaserBall)
+[2019.05.09-15.12.12:385][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.12.17:081][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.12.17:084][289]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.09-15.12.22:881][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.12.25:164][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.12.30:794][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.12.34:288][313]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserBall833B6DB842C62FE73D690CAB5C28FAF6.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/TaserBall.uasset'
+[2019.05.09-15.12.34:503][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.12.39:557][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ConcreteWall_2x20)
+[2019.05.09-15.12.40:105][659]LogEditorViewport: Clicking on Actor (LMB): Emitter (TaserBall)
+[2019.05.09-15.12.40:905][705]Cmd: DELETE
+[2019.05.09-15.12.40:905][705]Cmd: ACTOR DELETE
+[2019.05.09-15.12.40:911][705]LogEditorActor: Deleted Actor: Emitter
+[2019.05.09-15.12.40:937][705]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.09-15.12.41:776][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.12.43:776][876]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.12.43:798][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.12.43:798][876]PIE: New page: PIE session: LevelOne (9 May 2019 17:12:43)
+[2019.05.09-15.12.43:798][876]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.12.43:818][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019585s)
+[2019.05.09-15.12.43:818][876]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.12.43:819][876]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.05.09-15.12.43:819][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.020445s)
+[2019.05.09-15.12.43:841][876]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.12.43:856][876]LogInit: FAudioDevice initialized.
+[2019.05.09-15.12.43:888][876]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.12.43:894][876]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.12.43
+[2019.05.09-15.12.43:895][876]LogWorld: Bringing up level for play took: 0.005859
+[2019.05.09-15.12.43:906][876]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.12.43:911][876]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.345
+[2019.05.09-15.12.45:533][973]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.12.52:149][370]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.13.10:868][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.13.10:907][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.13.10:933][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.13.10:975][495]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.09-15.13.11:426][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.13.22:187][152]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserBall3368C2564240582BF6988DB60F3C2FDD.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/ParticleSystems/TaserBall.uasset'
+[2019.05.09-15.13.22:435][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.13.23:251][216]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.13.23:273][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.13.23:273][216]PIE: New page: PIE session: LevelOne (9 May 2019 17:13:23)
+[2019.05.09-15.13.23:273][216]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.13.23:292][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018752s)
+[2019.05.09-15.13.23:292][216]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.13.23:292][216]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2019.05.09-15.13.23:292][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.019451s)
+[2019.05.09-15.13.23:318][216]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.13.23:332][216]LogInit: FAudioDevice initialized.
+[2019.05.09-15.13.23:362][216]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.13.23:367][216]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.13.23
+[2019.05.09-15.13.23:368][216]LogWorld: Bringing up level for play took: 0.005748
+[2019.05.09-15.13.23:380][216]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.13.23:384][216]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.872
+[2019.05.09-15.13.24:821][302]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.13.28:755][538]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.13.32:019][733]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.13.33:402][816]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.13.35:486][941]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  50.0
+[2019.05.09-15.13.36:185][983]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  0.0
+[2019.05.09-15.13.43:119][399]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsDr_Skeng_Character
+	Coins_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Coins_C_0
+	Function /Game/Users/Josh/AI/MoneyDrops/Coins.Coins_C:ExecuteUbergraph_Coins:012A
+[2019.05.09-15.13.43:120][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsDr_Skeng_Character". Blueprint:  Coins Function:  Execute Ubergraph Coins Graph:  EventGraph Node:  Add Money
+[2019.05.09-15.13.43:403][416]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.13.46:302][590]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.13.53:956][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.13.54:001][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.13.54:028][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.13.54:065][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.09-15.13.55:478][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.13.58:382][287]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/AI/MoneyDrops/Coins.Coins
+[2019.05.09-15.14.10:296][808]LogSlate: Window 'Message Log' being destroyed
+[2019.05.09-15.14.10:301][808]LogSlate: Window 'Message Log' being destroyed
+[2019.05.09-15.14.18:478][294]LogCascade: Quitting Cascade. FXSystem=0x000002B0B28A7740
+[2019.05.09-15.14.19:324][338]LogEditorViewport: Clicking on Actor (LMB): PuddleTrap_C (PuddleTrap2)
+[2019.05.09-15.14.22:607][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.14.23:446][583]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap
+[2019.05.09-15.14.44:148][791]LogSlate: Window 'PuddleTrap' being destroyed
+[2019.05.09-15.14.47:485][990]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Taser.Taser
+[2019.05.09-15.14.59:131][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Trap_Int.Trap_Int
+[2019.05.09-15.15.41:233][156]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE
+[2019.05.09-15.16.12:632][962]BlueprintLog: New page: Compile NewDrSkeng_USE
+[2019.05.09-15.16.13:447][962]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewDrSkeng_USEBFD858FD4EEBBD865D1150A8A3CA4975.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.uasset'
+[2019.05.09-15.16.15:362][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.16.15:405][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.16.15:405][ 65]PIE: New page: PIE session: LevelOne (9 May 2019 17:16:15)
+[2019.05.09-15.16.15:405][ 65]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.16.15:424][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019072s)
+[2019.05.09-15.16.15:425][ 65]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.16.15:425][ 65]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.05.09-15.16.15:425][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.019760s)
+[2019.05.09-15.16.15:457][ 65]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.16.15:472][ 65]LogInit: FAudioDevice initialized.
+[2019.05.09-15.16.15:502][ 65]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.16.15:508][ 65]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.16.15
+[2019.05.09-15.16.15:509][ 65]LogWorld: Bringing up level for play took: 0.005561
+[2019.05.09-15.16.15:520][ 65]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.16.15:524][ 65]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.732
+[2019.05.09-15.16.16:075][ 98]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.16.17:958][211]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.16.17:975][212]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.16.18:425][239]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.16.18:575][248]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.16.20:876][386]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.16.21:275][410]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.16.24:426][599]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.16.26:076][698]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  50.0
+[2019.05.09-15.16.27:343][774]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.16.28:759][859]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.16.30:259][949]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 97.761406
+[2019.05.09-15.16.34:080][167]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 94.069275
+[2019.05.09-15.16.39:843][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.16.39:890][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.16.39:921][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.16.39:949][508]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.09-15.16.41:620][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.17.30:556][539]LogEditorTransaction: Undo Create Pin Link
+[2019.05.09-15.17.56:590][ 88]BlueprintLog: New page: Compile PuddleTrap
+[2019.05.09-15.17.56:975][ 88]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/PuddleTrap3469A266461BDD971D65658C1B78BAB0.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Traps/PuddleTrap.uasset'
+[2019.05.09-15.17.57:528][111]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/PuddleTrap07FC6FE543BCC10B6BC325BE005702FF.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Traps/PuddleTrap.uasset'
+[2019.05.09-15.18.17:786][326]LogEditorTransaction: Undo Break Pin Links
+[2019.05.09-15.18.32:500][204]BlueprintLog: New page: Compile PuddleTrap
+[2019.05.09-15.18.32:845][204]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/PuddleTrap1901B57B473800AF30B14F962C9737C8.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Traps/PuddleTrap.uasset'
+[2019.05.09-15.18.33:143][211]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/PuddleTrap29FBC6D1483EF30983B88AB8FDE53D0D.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Traps/PuddleTrap.uasset'
+[2019.05.09-15.18.37:335][458]LogEditorViewport: Clicking on Actor (LMB): PuddleTrap_C (PuddleTrap2)
+[2019.05.09-15.18.38:745][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.18.53:685][437]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.18.53:719][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.18.53:719][437]PIE: New page: PIE session: LevelOne (9 May 2019 17:18:53)
+[2019.05.09-15.18.53:719][437]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.18.53:738][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018676s)
+[2019.05.09-15.18.53:738][437]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.18.53:738][437]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.05.09-15.18.53:738][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.019425s)
+[2019.05.09-15.18.53:768][437]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.18.53:782][437]LogInit: FAudioDevice initialized.
+[2019.05.09-15.18.53:816][437]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.18.53:822][437]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.18.53
+[2019.05.09-15.18.53:822][437]LogWorld: Bringing up level for play took: 0.005428
+[2019.05.09-15.18.53:834][437]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.18.53:839][437]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.417
+[2019.05.09-15.18.54:591][482]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.18.54:925][502]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.18.55:642][545]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.18.55:758][552]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.18.56:342][587]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.18.59:908][801]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.19.00:175][817]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.19.04:125][ 54]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.19.04:792][ 94]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.19.05:458][134]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.19.45:460][533]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  90.0
+[2019.05.09-15.19.47:444][652]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  80.0
+[2019.05.09-15.19.49:445][772]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  70.0
+[2019.05.09-15.19.51:444][892]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  60.0
+[2019.05.09-15.19.52:541][943]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 75.0
+[2019.05.09-15.19.53:455][990]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  50.0
+[2019.05.09-15.19.53:657][  0]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 50.0
+[2019.05.09-15.19.55:462][ 94]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  40.0
+[2019.05.09-15.19.56:295][144]LogScript: Warning: Attempted to access ParticleSystemComponent_1 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_1 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:295][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_1 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_1 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:295][144]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_2 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:295][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_2 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:295][144]LogScript: Warning: Attempted to access ParticleSystemComponent_3 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_3 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:295][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_3 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_3 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:295][144]LogScript: Warning: Attempted to access ParticleSystemComponent_4 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_4 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:295][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_4 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_4 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:295][144]LogScript: Warning: Attempted to access ParticleSystemComponent_5 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_5 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_5 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_5 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_6 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_6 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_6 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_6 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_7 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_7 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_7 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_7 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_8 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_8 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_8 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_8 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_9 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_9 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_9 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_9 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_10 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_10 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_10 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_10 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_11 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_11 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_11 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_11 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_12 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_12 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_12 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_12 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_13 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_13 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_13 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_13 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_14 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_14 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_14 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_14 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_15 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_15 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:296][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_15 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_15 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:296][144]LogScript: Warning: Attempted to access ParticleSystemComponent_16 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_16 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_16 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_16 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]LogScript: Warning: Attempted to access ParticleSystemComponent_17 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_17 is pending kill
+	PuddleTrap_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.PuddleTrap2
+	Function /Game/Users/Josh/Traps/PuddleTrap.PuddleTrap_C:ExecuteUbergraph_PuddleTrap:00E2
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_17 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_17 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_18 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_18 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_19 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_19 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_20 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_20 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_21 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_21 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_22 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_22 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_23 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_23 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_24 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_24 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:297][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_25 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_25 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_26 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_26 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_27 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_27 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_28 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_28 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_29 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_29 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_30 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_30 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_31 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_31 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_32 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_32 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_33 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_33 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_34 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_34 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:298][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_35 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_35 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_36 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_36 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_37 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_37 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_38 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_38 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_39 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_39 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_40 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_40 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_41 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_41 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_42 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_42 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_43 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_43 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_44 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_44 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_45 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_45 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_46 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_46 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_47 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_47 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_48 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_48 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:299][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_49 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_49 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_50 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_50 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_51 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_51 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_52 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_52 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_53 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_53 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_54 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_54 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_55 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_55 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_56 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_56 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_57 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_57 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_58 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_58 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_59 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_59 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:300][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_60 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_60 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_61 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_61 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_62 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_62 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_63 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_63 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_64 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_64 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_65 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_65 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_66 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_66 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_67 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_67 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_68 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_68 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_69 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_69 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_70 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_70 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_71 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_71 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_72 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_72 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_73 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_73 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_74 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_74 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:301][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_75 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_75 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:302][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_76 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_76 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:302][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_77 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_77 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:302][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_78 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_78 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:302][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_79 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_79 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:302][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_80 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_80 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.56:302][144]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_81 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_81 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.19.57:461][214]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  30.0
+[2019.05.09-15.19.59:461][334]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  20.0
+[2019.05.09-15.20.01:462][454]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  10.0
+[2019.05.09-15.20.02:645][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_1 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_1 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_2 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_3 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_3 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_4 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_4 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_5 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_5 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_6 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_6 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_7 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_7 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_8 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_8 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_9 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_9 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_10 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_10 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_11 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_11 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_12 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_12 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_13 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_13 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:646][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_14 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_14 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_15 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_15 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_16 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_16 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_17 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_17 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_18 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_18 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_19 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_19 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_20 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_20 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_21 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_21 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_22 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_22 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_23 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_23 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_24 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_24 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_25 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_25 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_26 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_26 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:647][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_27 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_27 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_28 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_28 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_29 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_29 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_30 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_30 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_31 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_31 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_32 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_32 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_33 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_33 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_34 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_34 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_35 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_35 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_36 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_36 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_37 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_37 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_38 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_38 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_39 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_39 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_40 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_40 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:648][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_41 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_41 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_42 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_42 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_43 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_43 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_44 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_44 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_45 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_45 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_46 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_46 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_47 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_47 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_48 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_48 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_49 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_49 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_50 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_50 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_51 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_51 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_52 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_52 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_53 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_53 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:649][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_54 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_54 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_55 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_55 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_56 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_56 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_57 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_57 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_58 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_58 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_59 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_59 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_60 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_60 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_61 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_61 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_62 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_62 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_63 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_63 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_64 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_64 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_65 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_65 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_66 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_66 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_67 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_67 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:650][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_68 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_68 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_69 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_69 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_70 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_70 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_71 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_71 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_72 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_72 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_73 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_73 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_74 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_74 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_75 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_75 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_76 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_76 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_77 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_77 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_78 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_78 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_79 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_79 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_80 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_80 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_81 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_81 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:651][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_83 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_83 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_84 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_84 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_85 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_85 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_86 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_86 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_87 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_87 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_88 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_88 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_89 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_89 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_90 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_90 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_91 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_91 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_92 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_92 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_93 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_93 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_94 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_94 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_95 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_95 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_96 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_96 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:652][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_97 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_97 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_98 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_98 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_99 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_99 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_100 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_100 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_101 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_101 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_102 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_102 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_103 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_103 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_104 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_104 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_105 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_105 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_106 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_106 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_107 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_107 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_108 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_108 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_109 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_109 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_110 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_110 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_111 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_111 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:653][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_112 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_112 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_113 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_113 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_114 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_114 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_115 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_115 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_116 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_116 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_117 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_117 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_118 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_118 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_119 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_119 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_120 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_120 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_121 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_121 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_122 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_122 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_123 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_123 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_124 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_124 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_125 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_125 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:654][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_126 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_126 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_127 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_127 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_128 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_128 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_129 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_129 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_130 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_130 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_131 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_131 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_132 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_132 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_133 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_133 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_134 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_134 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_135 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_135 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_136 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_136 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_137 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_137 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_138 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_138 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_139 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_139 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:655][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_140 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_140 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_141 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_141 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_142 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_142 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_143 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_143 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_144 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_144 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_145 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_145 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_146 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_146 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_147 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_147 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_148 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_148 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_149 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_149 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_150 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_150 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_151 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_151 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_152 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_152 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_153 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_153 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:656][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_154 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_154 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_155 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_155 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_156 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_156 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_157 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_157 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_158 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_158 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_159 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_159 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_160 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_160 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_161 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_161 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_162 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_162 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.02:657][525]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_163 via property CallFunc_Array_Get_Item, but ParticleSystemComponent_163 is pending kill". Blueprint:  PuddleTrap Function:  Execute Ubergraph Puddle Trap Graph:  EventGraph Node:  DestroyComponent
+[2019.05.09-15.20.03:463][574]LogBlueprintUserMessages: [SlowAI_7] SlowAI Health:  0.0
+[2019.05.09-15.20.04:648][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.20.04:686][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.20.04:718][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.20.04:748][646]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.05.09-15.20.05:968][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.20.45:482][671]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne_Auto10A79914E4F3D54848D06869D1FB934BC.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Niall/Levels/LevelOne_Auto1.umap'
+[2019.05.09-15.20.45:486][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Users/Niall/Levels/LevelOne' took 0.391
+[2019.05.09-15.20.45:486][671]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2019.05.09-15.23.24:647][793]BlueprintLog: New page: Compile NewDrSkeng_USE
+[2019.05.09-15.23.25:413][793]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewDrSkeng_USE28419C104195D2BB1027898456D19776.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.uasset'
+[2019.05.09-15.23.27:361][894]LogRenderer: Reallocating scene render targets to support 1216x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.09-15.23.30:422][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.23.47:562][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.24.05:549][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.24.10:431][462]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.10:431][462]LogEditorTransaction: Undo Edit Intensity
+[2019.05.09-15.24.10:797][484]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.10:797][484]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.10:948][493]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.10:948][493]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.11:364][518]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.11:364][518]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.11:647][535]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.11:647][535]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.11:881][549]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.11:881][549]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.12:031][558]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.12:031][558]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.12:231][570]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.12:231][570]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.12:398][580]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.12:398][580]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.12:581][591]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.12:581][591]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.12:765][602]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.12:765][602]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.09-15.24.12:947][613]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.12:947][613]LogEditorTransaction: Undo Attach Component
+[2019.05.09-15.24.13:114][623]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.13:114][623]LogEditorTransaction: Undo Add Component
+[2019.05.09-15.24.13:298][634]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.13:298][634]LogEditorTransaction: Undo Remove Components
+[2019.05.09-15.24.13:311][634]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.NewDrSkeng_USE_C_0.CollisionCylinder) Component already registered.
+[2019.05.09-15.24.13:587][635]Cmd: TRANSACTION UNDO
+[2019.05.09-15.24.13:587][635]LogEditorTransaction: Undo Delete current selection
+[2019.05.09-15.24.13:602][635]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.NewDrSkeng_USE_C_0.CharacterMesh0) Component already registered.
+[2019.05.09-15.24.13:604][635]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.NewDrSkeng_USE_C_0.CharMoveComp) Component already registered.
+[2019.05.09-15.24.13:606][635]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.NewDrSkeng_USE_C_0.Arrow) Component already registered.
+[2019.05.09-15.24.42:696][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.24.55:623][ 98]BlueprintLog: New page: Compile NewDrSkeng_USE
+[2019.05.09-15.24.56:411][ 98]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewDrSkeng_USE88A43FE44F2A68133CAB7BBC6C1BC8D8.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.uasset'
+[2019.05.09-15.24.58:646][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.24.58:712][221]BlueprintLog: New page: Compile Taser
+[2019.05.09-15.24.58:930][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Taser" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset" SILENT=true
+[2019.05.09-15.24.59:031][221]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Taser3704D120485339447FA4FFA8AA0C3179.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset'
+[2019.05.09-15.24.59:291][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Taser" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset" SILENT=true
+[2019.05.09-15.24.59:411][234]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Taser5CEBC8F64BA519FC0BF7DBB802A5158D.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset'
+[2019.05.09-15.25.09:814][857]LogEditorViewport: Clicking on Actor (LMB): Taser_C (Taser)
+[2019.05.09-15.25.20:529][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.25.36:447][432]BlueprintLog: New page: Compile Taser
+[2019.05.09-15.25.36:673][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Taser" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset" SILENT=true
+[2019.05.09-15.25.36:772][432]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserED72CA30454B5F7722AE929A684B7765.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset'
+[2019.05.09-15.25.46:095][941]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.09-15.25.46:149][942]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheDescentCollab19
+[2019.05.09-15.25.46:149][942]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.09-15.25.46:149][942]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2019.05.09-15.25.46:149][942]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.09-15.25.46:149][942]LogTemp: BranchPath = LAPTOP-CR9AOUGS/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-CR9AOUGS/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.05.09-15.25.46:163][943]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\josh9\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.09-15.26.28:506][441]BlueprintLog: New page: Compile Taser
+[2019.05.09-15.26.28:736][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Taser" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset" SILENT=true
+[2019.05.09-15.26.28:840][441]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserFFBE203E44F37DB1FD725FB0905CB156.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset'
+[2019.05.09-15.26.29:066][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Taser" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset" SILENT=true
+[2019.05.09-15.26.29:163][451]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Taser8492511C40250A46A4FF98A4AEE9DF07.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset'
+[2019.05.09-15.26.29:902][495]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.09-15.26.30:844][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.09-15.26.31:685][592]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.26.31:711][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.26.31:711][592]PIE: New page: PIE session: LevelOne (9 May 2019 17:26:31)
+[2019.05.09-15.26.31:711][592]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.26.31:730][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018502s)
+[2019.05.09-15.26.31:730][592]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.26.31:730][592]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.05.09-15.26.31:730][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.019279s)
+[2019.05.09-15.26.31:758][592]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.26.31:773][592]LogInit: FAudioDevice initialized.
+[2019.05.09-15.26.31:804][592]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.26.31:810][592]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.26.31
+[2019.05.09-15.26.31:811][592]LogWorld: Bringing up level for play took: 0.005568
+[2019.05.09-15.26.31:823][592]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.26.31:827][592]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.429
+[2019.05.09-15.26.32:700][644]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.26.33:466][690]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.26.34:200][734]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.26.36:200][854]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.26.36:377][864]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.26.37:544][934]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.26.37:744][946]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.26.38:294][979]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.26.51:263][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.26.51:299][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.26.51:325][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.26.51:366][759]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.09-15.26.53:034][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.26.59:956][265]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Taser.Taser
+[2019.05.09-15.27.05:191][560]BlueprintLog: New page: Compile Taser
+[2019.05.09-15.27.05:409][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Taser" FILE="../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset" SILENT=true
+[2019.05.09-15.27.05:512][560]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Taser17985DB048C90D5343AD6B8AE63F0400.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Taser.uasset'
+[2019.05.09-15.27.07:162][656]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.09-15.27.07:193][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-15.27.07:193][656]PIE: New page: PIE session: LevelOne (9 May 2019 17:27:07)
+[2019.05.09-15.27.07:193][656]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.09-15.27.07:212][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018203s)
+[2019.05.09-15.27.07:212][656]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.09-15.27.07:212][656]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.05.09-15.27.07:212][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.018879s)
+[2019.05.09-15.27.07:239][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.09-15.27.07:254][656]LogInit: FAudioDevice initialized.
+[2019.05.09-15.27.07:280][656]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.09-15.27.07:286][656]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2019.05.09-16.27.07
+[2019.05.09-15.27.07:287][656]LogWorld: Bringing up level for play took: 0.005366
+[2019.05.09-15.27.07:299][656]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.09-15.27.07:303][656]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 1.047
+[2019.05.09-15.27.07:840][688]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1200.0
+[2019.05.09-15.27.12:556][971]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.09-15.27.22:108][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.27.22:148][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-15.27.22:173][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-15.27.22:214][546]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.09-15.27.26:140][781]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.09-15.27.29:674][992]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.09-15.27.31:320][ 90]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.09-15.27.32:129][138]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.05.09-15.27.36:487][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.27.37:411][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-15.27.37:984][450]LogSavePackage: Moving '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne1970F0AE4E0559A836B2A298798BEDF4.tmp' to '../../../../../../Users/josh9/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap'
+[2019.05.09-15.27.38:032][450]LogFileHelpers: Saving map 'LevelOne' took 0.612
+[2019.05.09-15.29.46:223][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-15.29.46:489][145]LogSlate: Window 'TheDescent_Collab19 - Unreal Editor' being destroyed
+[2019.05.09-15.29.46:696][146]Cmd: QUIT_EDITOR
+[2019.05.09-15.29.47:520][146]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.09-15.29.47:530][146]LogExit: Preparing to exit.
+[2019.05.09-15.29.48:549][146]LogExit: Editor shut down
+[2019.05.09-15.29.48:549][146]LogExit: Transaction tracking system shut down
+[2019.05.09-15.29.48:967][146]LogExit: Object subsystem successfully closed.
+[2019.05.09-15.29.48:980][146]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.09-15.29.48:983][146]LogD3D11RHI: Shutdown
+[2019.05.09-15.29.48:983][146]LogD3D11RHI: CleanupD3DDevice
+[2019.05.09-15.29.48:986][146]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (622)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module DistCurveEditor (620)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module Cascade (618)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.05.09-15.29.49:016][146]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.05.09-15.29.49:017][146]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.05.09-15.29.49:018][146]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.05.09-15.29.49:828][146]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.05.09-15.29.49:829][146]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.05.09-15.29.49:892][146]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.05.09-15.29.49:893][146]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.05.09-15.29.49:898][146]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.05.09-15.29.49:898][146]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.05.09-15.29.49:899][146]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.09-15.29.50:028][146]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.09-15.29.50:030][146]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.09-15.29.50:030][146]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.09-15.29.50:031][146]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.09-15.29.50:133][146]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.09-15.29.50:233][146]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.09-15.29.50:234][146]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.09-15.29.50:234][146]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.09-15.29.50:234][146]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.09-15.29.50:235][146]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.09-15.29.50:235][146]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.09-15.29.50:235][146]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.09-15.29.50:235][146]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.09-15.29.50:235][146]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.09-15.29.50:235][146]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.09-15.29.50:236][146]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.09-15.29.50:243][146]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.09-15.29.50:244][146]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.09-15.29.50:245][146]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.09-15.29.50:245][146]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.09-15.29.50:245][146]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.09-15.29.50:328][146]LogDerivedDataCache: Shutdown
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.09-15.29.50:328][146]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.09-15.29.50:329][146]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.09-15.29.50:329][146]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.09-15.29.50:329][146]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.09-15.29.50:329][146]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.09-15.29.50:329][146]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.09-15.29.50:330][146]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.09-15.29.50:330][146]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.09-15.29.50:331][146]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.09-15.29.50:331][146]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.09-15.29.50:339][146]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.09-15.29.50:340][146]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.09-15.29.50:340][146]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.09-15.29.50:342][146]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.09-15.29.50:342][146]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.09-15.29.50:342][146]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FD79557-469D-87F7-B8AC-A28E7237DEC0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0c8220a744fb1ef11b3bfa823c7206cb%7Ca04be09292a54d5c8b1e12dda3bc7c7c%7C5b5ea21b-e134-4612-997d-3d5847a433af&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.09-15.29.50:370][146]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.09-15.29.50:371][146]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.09-15.29.50:371][146]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.09-15.29.50:372][146]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.09-15.29.50:372][146]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.09-15.29.50:372][146]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.09-15.29.50:372][146]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.09-15.29.50:372][146]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.09-15.29.50:372][146]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.09-15.29.50:373][146]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.09-15.29.50:378][146]LogExit: Exiting.
+[2019.05.09-15.29.50:399][146]Log file closed, 05/09/19 16:29:50
