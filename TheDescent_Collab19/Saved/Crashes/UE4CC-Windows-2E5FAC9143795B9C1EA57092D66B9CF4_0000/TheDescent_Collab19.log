@@ -1,0 +1,1047 @@
+﻿Log file open, 05/20/19 13:00:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293042
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.223s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.036s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.20-12.00.39:599][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-12.00.39:599][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.20-12.00.39:638][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.20-12.00.39:638][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.20-12.00.39:638][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.20-12.00.39:638][  0]LogInit: Computer: A07-01
+[2019.05.20-12.00.39:638][  0]LogInit: User: d020192g
+[2019.05.20-12.00.39:639][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.20-12.00.39:639][  0]LogInit: High frequency timer resolution =3.410078 MHz
+[2019.05.20-12.00.39:639][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.20-12.00.39:639][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.20-12.00.39:639][  0]LogMemory: Process Physical Memory: 102.32 MB used, 102.32 MB peak
+[2019.05.20-12.00.39:639][  0]LogMemory: Process Virtual Memory: 99.41 MB used, 99.41 MB peak
+[2019.05.20-12.00.39:639][  0]LogMemory: Physical Memory: 5486.89 MB used,  10813.59 MB free, 16300.48 MB total
+[2019.05.20-12.00.39:639][  0]LogMemory: Virtual Memory: 4648.83 MB used,  10813.59 MB free, 134217728.00 MB total
+[2019.05.20-12.00.39:663][  0]LogInit: Using OS detected language (en-US).
+[2019.05.20-12.00.39:663][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.20-12.00.39:665][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.20-12.00.40:051][  0]LogStreaming: Display: Took  0.389s to InitEngineTextLocalization.
+[2019.05.20-12.00.40:051][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.20-12.00.40:104][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.20-12.00.40:104][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.20-12.00.40:363][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-12.00.40:363][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.20-12.00.40:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.05.20-12.00.40:457][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.20-12.00.40:459][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.20-12.00.40:459][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.20-12.00.40:459][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.20-12.00.40:466][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.20-12.00.40:466][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.20-12.00.40:466][  0]LogWindows: EnumDisplayDevices:
+[2019.05.20-12.00.40:467][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.05.20-12.00.40:467][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.05.20-12.00.40:467][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.20-12.00.40:467][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.20-12.00.40:468][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.20-12.00.40:468][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.05.20-12.00.40:468][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.05.20-12.00.40:468][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.05.20-12.00.40:468][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.05.20-12.00.40:506][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.20-12.00.40:517][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.20-12.00.40:606][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/14048/).
+[2019.05.20-12.00.40:607][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/d020192g/AppData/Local/Temp/UnrealShaderWorkingDir/EF0525D2454E4BF8C65D9196D6101896/'.
+[2019.05.20-12.00.40:989][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.20-12.00.41:004][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.20-12.00.41:020][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.20-12.00.41:035][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.20-12.00.41:051][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.20-12.00.41:066][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.20-12.00.41:082][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.20-12.00.41:097][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.20-12.00.41:104][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.20-12.00.41:191][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:191][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:191][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-12.00.41:193][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.20-12.00.41:256][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.20-12.00.41:256][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.20-12.00.41:281][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.20-12.00.41:281][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.20-12.00.41:295][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.20-12.00.41:308][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.20-12.00.41:321][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.20-12.00.41:335][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.20-12.00.41:345][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.20-12.00.41:345][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.20-12.00.41:437][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.20-12.00.41:438][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.20-12.00.41:438][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.20-12.00.42:440][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.20-12.00.42:556][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/d020192g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.20-12.00.42:557][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/d020192g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.20-12.00.42:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.20-12.00.42:558][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.20-12.00.42:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-12.00.42:558][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.20-12.00.42:585][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.20-12.00.42:598][  0]LogDerivedDataCache: Using Local data cache path C:/Users/d020192g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.20-12.00.42:598][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.20-12.00.42:598][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.20-12.00.42:648][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.20-12.00.42:651][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.20-12.00.42:653][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.20-12.00.42:777][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2019.05.20-12.00.43:178][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-12.00.43:327][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.20-12.00.43:333][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.20-12.00.43:333][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.20-12.00.43:333][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.20-12.00.43:333][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.20-12.00.43:356][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.20-12.00.44:052][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.159255 seconds
+[2019.05.20-12.00.44:058][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.20-12.00.44:058][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.20-12.00.44:058][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.20-12.00.45:024][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.20-12.00.45:038][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.20-12.00.45:253][  0]SourceControl: Source control is disabled
+[2019.05.20-12.00.45:253][  0]SourceControl: Source control is disabled
+[2019.05.20-12.00.45:255][  0]SourceControl: Source control is disabled
+[2019.05.20-12.00.45:257][  0]SourceControl: Source control is disabled
+[2019.05.20-12.00.45:445][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.20-12.00.45:488][  0]LogOcInput: OculusInput pre-init called
+[2019.05.20-12.00.45:552][  0]LogEngine: Initializing Engine...
+[2019.05.20-12.00.45:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-12.00.45:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.20-12.00.45:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.20-12.00.45:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.20-12.00.45:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.20-12.00.45:811][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.20-12.00.45:827][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-12.00.45:853][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.00.45:869][  0]LogInit: FAudioDevice initialized.
+[2019.05.20-12.00.45:869][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.20-12.00.46:119][  0]LogDerivedDataCache: Saved boot cache 0.25s 71MB C:/Users/d020192g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.20-12.00.46:151][  0]LogInit: Texture streaming: Enabled
+[2019.05.20-12.00.46:179][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.20-12.00.46:196][  0]LogInit: Transaction tracking system initialized
+[2019.05.20-12.00.46:227][  0]BlueprintLog: New page: Editor Load
+[2019.05.20-12.00.46:321][  0]LocalizationService: Localization service is disabled
+[2019.05.20-12.00.46:668][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.20-12.00.46:668][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.20-12.00.46:668][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.20-12.00.46:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.20-12.00.46:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.20-12.00.46:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.20-12.00.46:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.20-12.00.46:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.04s
+[2019.05.20-12.00.46:812][  0]SourceControl: Source control is disabled
+[2019.05.20-12.00.46:812][  0]Cmd: MAP LOAD FILE="../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.20-12.00.46:812][  0]LightingResults: New page: Lighting Build
+[2019.05.20-12.00.46:816][  0]MapCheck: New page: Map Check
+[2019.05.20-12.00.46:816][  0]LightingResults: New page: Lighting Build
+[2019.05.20-12.00.59:734][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.20-12.00.59:759][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.20-12.00.59:806][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.20-12.01.00:016][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 209.297ms to complete.
+[2019.05.20-12.01.00:016][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 13.204
+[2019.05.20-12.01.00:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.01.00:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.01.00:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.01.00:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.01.00:258][  0]LogCollectionManager: Loaded 0 collections in 0.002381 seconds
+[2019.05.20-12.01.00:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.20-12.01.00:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/d020192g/Collections/' took 0.01s
+[2019.05.20-12.01.00:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.20-12.01.00:305][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.20-12.01.00:316][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2572 classes and 603 folders.
+[2019.05.20-12.01.00:324][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-12.01.01:292][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.05.20-12.01.01:305][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.05.20-12.01.01:563][  0]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.20-12.01.01:568][  0]LogSlate: Took 0.000405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.20-12.01.01:598][  0]LogSlate: Took 0.018197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.20-12.01.01:891][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-12.01.02:042][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.20-12.01.02:042][  0]LogLoad: (Engine Initialization) Total time: 25.15 seconds
+[2019.05.20-12.01.02:042][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.20-12.01.02:052][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.20-12.01.02:076][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.20-12.01.02:209][  2]LogAssetRegistry: Asset discovery search completed in 19.4546 seconds
+[2019.05.20-12.01.02:213][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.20-12.01.02:213][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.05.20-12.01.03:282][ 50]LogSlate: Took 0.112541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-12.01.05:239][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.01.06:158][385]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-12.01.08:661][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.02.00:402][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.02.27:586][819]LogBlueprint: Warning: [Compiler AITestProjectile] Could not find a variable named "Damage" in 'JerrysCharacter1_C'.
+Make sure 'JerrysCharacter1_C' has been compiled for  Get Damage
+[2019.05.20-12.02.27:607][819]LogBlueprint: Error: [Compiler AITestProjectile] The property associated with  Damage  could not be found in '/Game/Users/Jerry/Character/AITestProjectile.AITestProjectile_C'
+[2019.05.20-12.02.27:619][819]LogBlueprint: Warning: [Compiler AITestProjectile] [0110.72] Compile of AITestProjectile failed. 1 Fatal Issue(s) 1 Warning(s) [in 45 ms] (/Game/Users/Jerry/Character/AITestProjectile.AITestProjectile)
+[2019.05.20-12.02.27:741][819]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/VentManagerButton.VentManagerButton
+[2019.05.20-12.02.28:656][819]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 116 classes and 0 folders.
+[2019.05.20-12.02.30:153][819]LogSlate: Took 0.055258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.20-12.02.30:493][820]LogSlate: Took 0.006743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.20-12.02.52:622][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/VentTrigger.VentTrigger
+[2019.05.20-12.03.34:145][591]LogSlate: Took 0.013081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.20-12.03.36:386][785]BlueprintLog: New page: Compile VentTrigger
+[2019.05.20-12.03.36:662][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Jerry/VentTrigger" FILE="../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/VentTrigger.uasset" SILENT=true
+[2019.05.20-12.03.37:179][785]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/VentTrigger06E3A55B4BDCAEE25F0334AF4AA9F40F.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/VentTrigger.uasset'
+[2019.05.20-12.03.46:531][696]BlueprintLog: New page: Compile VentTrigger
+[2019.05.20-12.03.46:791][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Jerry/VentTrigger" FILE="../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/VentTrigger.uasset" SILENT=true
+[2019.05.20-12.03.46:876][696]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/VentTriggerBAA2388A44D4A54EDB054CA262D4A689.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/VentTrigger.uasset'
+[2019.05.20-12.03.47:237][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Jerry/VentTrigger" FILE="../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/VentTrigger.uasset" SILENT=true
+[2019.05.20-12.03.47:298][722]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/VentTriggerF2A5730E4D5129B54384998EB19C161C.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/VentTrigger.uasset'
+[2019.05.20-12.04.51:400][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.04.57:338][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.04.59:396][363]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.04.59:423][363]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Jerry/AI/AITestMap.AITestMap
+[2019.05.20-12.04.59:475][363]Cmd: MAP LOAD FILE="../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/AI/AITestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.20-12.04.59:475][363]LightingResults: New page: Lighting Build
+[2019.05.20-12.04.59:476][363]LoadErrors: New page: Loading map: AITestMap.umap
+[2019.05.20-12.04.59:477][363]MapCheck: New page: Map Check
+[2019.05.20-12.04.59:477][363]LightingResults: New page: Lighting Build
+[2019.05.20-12.04.59:699][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.20-12.04.59:819][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.20-12.05.00:044][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 224.103ms to complete.
+[2019.05.20-12.05.00:046][363]LogFileHelpers: Loading map 'AITestMap' took 0.572
+[2019.05.20-12.05.50:033][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.11.41:407][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.21.21:751][645]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Users/Jerry/RoomSelectorTrigger.PackageMetaData'
+[2019.05.20-12.21.21:751][645]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.SKEL_RoomSelectorTrigger_C' ref from Metadata '/Game/Users/Jerry/RoomSelectorTrigger.PackageMetaData'
+[2019.05.20-12.21.21:751][645]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C' ref from Metadata '/Game/Users/Jerry/RoomSelectorTrigger.PackageMetaData'
+[2019.05.20-12.21.21:751][645]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Users/Jerry/RoomSelectorTrigger.PackageMetaData'
+[2019.05.20-12.21.21:751][645]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Users/Jerry/RoomSelectorTrigger.PackageMetaData'
+[2019.05.20-12.21.21:751][645]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Users/Jerry/RoomSelectorTrigger.PackageMetaData'
+[2019.05.20-12.21.21:785][645]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger8E4A20CA4E9249DF4692BB86F7951CA0.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.22.10:051][486]LogEditorViewport: Clicking on Actor (LMB): VentManagerButton_C (VentManagerButton)
+[2019.05.20-12.22.13:853][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.22.46:811][967]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.20-12.22.53:323][357]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManagerD09D20BD42A63068690844B9F39829AF.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.22.58:160][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.20-12.23.16:548][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-12.23.21:060][676]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger
+[2019.05.20-12.23.21:551][677]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-12.23.29:582][420]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.23.29:843][420]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger2295E4EA4676DD306FECF08BE8B831AA.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.24.32:964][335]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-12.25.17:183][408]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.25.17:437][408]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger754AB50B4E152112BB60DE9B20D66B77.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.25.18:824][509]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.25.19:088][509]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger5739B01C456B9F026E307680945CCE04.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.25.27:085][264]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/RoomVentSystem/SporeRoomManager.SporeRoomManager
+[2019.05.20-12.25.51:120][247]LogEditorTransaction: Undo Add Component
+[2019.05.20-12.26.11:172][951]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-12.26.20:931][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.26.33:191][564]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2019.05.20-12.26.44:724][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.26.52:111][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.27.02:373][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.27.03:089][832]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.27.03:375][832]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager13066F534644ADB7EB99188399DB0D87.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.29.22:588][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Users/Jerry/AI/AITestMap' took 0.061
+[2019.05.20-12.29.22:590][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Users/Jerry/RoomVentSystem/SporeRoomManager] ([1] browsable assets)...
+[2019.05.20-12.29.22:590][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Jerry/RoomVentSystem/SporeRoomManager]
+[2019.05.20-12.29.22:626][127]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager_Auto1D0A3C1C04E60E192A798A1BF21BECC5B.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Jerry/RoomVentSystem/SporeRoomManager_Auto1.uasset'
+[2019.05.20-12.29.22:628][127]LogFileHelpers: Auto-saving content packages took 0.039
+[2019.05.20-12.30.35:187][938]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1262.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.35:187][938]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1263.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.35:187][938]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1264.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.35:187][938]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1265.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:318][ 44]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.30.36:548][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1270.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:548][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1271.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:548][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1272.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:548][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1273.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:555][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1281.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:555][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1280.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:555][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1279.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:555][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1278.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.30.36:613][ 44]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTriggerB041E2E544911F62E001088A2E9F1623.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.33.29:336][480]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelection075C85FC4C1AB1FFF6F65D9313A12C7F.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.33.29:341][480]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/I_VentRoomSelection.SKEL_I_VentRoomSelection_C' ref from Metadata '/Game/Users/Jerry/RoomVentSystem/I_RoomVentSelection.PackageMetaData'
+[2019.05.20-12.33.29:341][480]LogMetaData: Removing '/Game/Users/Jerry/RoomVentSystem/I_VentRoomSelection.I_VentRoomSelection_C' ref from Metadata '/Game/Users/Jerry/RoomVentSystem/I_RoomVentSelection.PackageMetaData'
+[2019.05.20-12.33.29:392][480]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelectionF939FC9647BADF686558EE89F2511EBF.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.33.30:618][530]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/RoomVentSystem/I_VentRoomSelection.I_VentRoomSelection
+[2019.05.20-12.33.55:421][996]BlueprintLog: New page: Compile I_VentRoomSelection
+[2019.05.20-12.33.55:495][996]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelectionE9B0E7324D9398B81E20C0863C4D1D55.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.33.56:011][ 44]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelection003269594DA5E3B82AA830928BDD34C9.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.34.01:849][503]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-12.34.17:824][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1305.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.17:824][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1304.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.17:824][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1303.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.17:824][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1302.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:645][843]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.34.19:877][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1321.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:877][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1320.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:877][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1319.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:877][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1318.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:888][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1337.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:888][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1336.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:888][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1335.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:888][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1334.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.34.19:950][843]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTriggerB7516C2B4DFC374313CAA093D705933F.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.35.05:486][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1345.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.05:486][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1344.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.05:486][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1343.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.05:486][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1342.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.08:868][119]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1353.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.08:868][119]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1352.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.08:868][119]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1351.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.08:868][119]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1350.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.11:072][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1361.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.11:072][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1360.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.11:072][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1359.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.11:072][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1358.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:045][313]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.35.12:405][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1377.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:405][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1376.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:406][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1375.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:406][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1374.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:424][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1393.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:424][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1392.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:424][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1391.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:424][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1390.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.12:523][313]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTriggerE40695A64ACAFEBF31B2D18FEF4F3D25.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.35.21:701][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1401.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.21:701][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1400.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.21:701][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1399.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.21:701][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1398.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.22:781][159]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.35.23:009][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1417.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:009][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1416.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:009][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1415.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:009][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1414.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:018][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1433.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:018][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1432.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:018][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1431.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:018][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1430.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.35.23:069][159]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger717B6078438DA6C2D4A1F3BCCEC9195F.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.35.23:674][198]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger2F83818D491BB083EE05A0AFC2B9C896.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.36.39:394][ 16]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.36.39:777][ 16]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager59F4CB394B883F3E423CBEB1D12D75D6.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.37.23:176][862]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/RoomVentSystem/I_VentRoomSelection.I_VentRoomSelection
+[2019.05.20-12.37.25:619][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1481.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.25:619][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1480.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.25:619][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1479.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.25:619][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1478.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.39:783][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1489.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.39:783][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1488.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.39:783][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1487.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.39:783][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1486.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:005][660]BlueprintLog: New page: Compile I_VentRoomSelection
+[2019.05.20-12.37.41:051][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1497.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:051][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1496.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:051][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1495.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:051][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1494.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:058][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1505.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:058][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1504.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:058][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1503.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:058][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1502.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.41:096][660]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelection9573D9294BD9D9EF331F5391FE99160C.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.37.42:676][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1513.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.42:676][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1512.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.42:676][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1511.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.42:676][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1510.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.50:776][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1521.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.50:776][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1520.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.50:776][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1519.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.50:776][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1518.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:319][186]BlueprintLog: New page: Compile I_VentRoomSelection
+[2019.05.20-12.37.56:556][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1529.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:556][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1528.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:556][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1527.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:556][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1526.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:563][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1537.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:563][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1536.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:563][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1535.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:563][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1534.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.37.56:609][186]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelectionF13ABC56435AAF7A32422B81F75FC6F4.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.37.56:656][186]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger7A6136514E6CE6F0AE8F8C92D3D46F68.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.37.57:010][215]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelectionDBAF2785461B53A54AB625842E89BE59.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.38.08:216][149]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.38.08:460][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1553.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:460][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1552.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:460][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1551.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:460][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1550.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:473][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1569.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:473][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1568.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:473][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1567.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:473][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1566.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.08:572][149]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger6A576C104D289F2A2A0FC2BB03A10325.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.38.21:693][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1577.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:693][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1576.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:693][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1575.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:693][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1574.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:702][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1585.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:702][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1584.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:702][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1583.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.21:702][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1582.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:437][257]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.38.22:722][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1601.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:722][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1600.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:722][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1599.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:722][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1598.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:736][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1617.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:736][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1616.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:736][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1615.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:736][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1614.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.38.22:791][257]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger335D86D848D97AD78A99F4858073398A.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.38.23:135][275]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTriggerDFF0204B436944EF6B1F989E1B83B40A.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.38.32:187][ 23]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.38.32:517][ 23]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager41C88C734D5FD370057715AE8A4C97EF.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.38.33:953][133]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-12.38.41:023][647]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.38.41:327][647]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManagerFE1D66EC4968F1DBC77EB584B2FC6A75.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.39.00:440][849]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-12.39.08:494][491]LogEditorViewport: Clicking on Actor (LMB): SporeTrigger_C (SporeTrigger4)
+[2019.05.20-12.39.10:904][625]LogEditorViewport: Clicking on Actor (LMB): VentManagerButton_C (VentManagerButton)
+[2019.05.20-12.39.15:305][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.20-12.39.15:980][991]LogEditorViewport: Clicking on Actor (LMB): VentTrigger_C (VentTrigger)
+[2019.05.20-12.39.21:420][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.39.30:713][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.39.48:567][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.39.48:822][307]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AITestMapF4B8604F429C21D460CBEA8B3DCD7075.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/AI/AITestMap.umap'
+[2019.05.20-12.39.49:076][307]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AITestMap_BuiltData561194484ACC9E4DFC157D821ABADB87.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/AI/AITestMap_BuiltData.uasset'
+[2019.05.20-12.39.50:327][388]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.39.50:375][388]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.20-12.39.50:381][388]LogPlayLevel: [PlayLevel] Compiling SporeRoomManager before play...
+[2019.05.20-12.39.50:659][388]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManagerB4CA46114CC4243B6E21FBBEBE8D9EB4.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.39.50:723][388]LogPlayLevel: PlayLevel: Blueprint regeneration took 347 ms (1 blueprints)
+[2019.05.20-12.39.57:734][388]LogSlate: Window 'Message' being destroyed
+[2019.05.20-12.40.05:353][906]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/Character/AITestProjectile.AITestProjectile
+[2019.05.20-12.40.15:307][464]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Jerry/Character/JerrysCharacter1.JerrysCharacter1
+[2019.05.20-12.40.17:977][598]BlueprintLog: New page: Compile JerrysCharacter1
+[2019.05.20-12.40.20:411][720]BlueprintLog: New page: Compile AITestProjectile
+[2019.05.20-12.40.20:466][720]LogBlueprint: Warning: [Compiler AITestProjectile] Could not find a variable named "Damage" in 'JerrysCharacter1_C'.
+Make sure 'JerrysCharacter1_C' has been compiled for  Get Damage
+[2019.05.20-12.40.20:468][720]LogBlueprint: Error: [Compiler AITestProjectile] The property associated with  Damage  could not be found in '/Game/Users/Jerry/Character/AITestProjectile.AITestProjectile_C'
+[2019.05.20-12.40.20:712][720]LogBlueprint: Warning: [Compiler AITestProjectile] [2383.86] Compile of AITestProjectile failed. 1 Fatal Issue(s) 1 Warning(s) [in 300 ms] (/Game/Users/Jerry/Character/AITestProjectile.AITestProjectile)
+[2019.05.20-12.40.40:520][906]BlueprintLog: New page: Compile AITestProjectile
+[2019.05.20-12.40.40:902][906]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/AITestProjectileA647874046D8A2A800AED894ABFADEF8.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/Character/AITestProjectile.uasset'
+[2019.05.20-12.40.43:188][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.40.43:232][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.40.43:244][ 64]PIE: New page: PIE session: AITestMap (20 May 2019 14:40:43)
+[2019.05.20-12.40.43:255][ 64]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.40.43:265][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009755s)
+[2019.05.20-12.40.43:265][ 64]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.40.43:266][ 64]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.05.20-12.40.43:266][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.010565s)
+[2019.05.20-12.40.43:306][ 64]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.40.43:317][ 64]LogInit: FAudioDevice initialized.
+[2019.05.20-12.40.43:361][ 64]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.40.43:383][ 64]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.40.43
+[2019.05.20-12.40.43:387][ 64]LogWorld: Bringing up level for play took: 0.024086
+[2019.05.20-12.40.43:440][ 64]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2019.05.20-12.40.43:452][ 64]LogBlueprintUserMessages: [FastAI_V2_2] 100.0
+[2019.05.20-12.40.43:453][ 64]LogBlueprintUserMessages: [ClickerAI_2] 100.0
+[2019.05.20-12.40.43:453][ 64]LogBlueprintUserMessages: [FastAI_V1_2] 100.0
+[2019.05.20-12.40.43:528][ 64]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 0.623
+[2019.05.20-12.40.43:587][ 64]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:587][ 64]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:665][ 65]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:665][ 65]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:699][ 66]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:699][ 66]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:719][ 67]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:719][ 67]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:735][ 68]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:735][ 68]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:747][ 69]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:747][ 69]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:766][ 70]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:766][ 70]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:791][ 71]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.43:792][ 71]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.20-12.40.43:815][ 72]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.20-12.40.52:838][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.40.52:912][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.40.52:972][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.40.53:044][838]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.20-12.40.53:598][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.41.01:093][486]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.41.01:133][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.41.01:133][486]PIE: New page: PIE session: AITestMap (20 May 2019 14:41:01)
+[2019.05.20-12.41.01:133][486]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.41.01:144][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010259s)
+[2019.05.20-12.41.01:144][486]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.41.01:144][486]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2019.05.20-12.41.01:144][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.011261s)
+[2019.05.20-12.41.01:198][486]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.41.01:209][486]LogInit: FAudioDevice initialized.
+[2019.05.20-12.41.01:240][486]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.41.01:243][486]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.41.01
+[2019.05.20-12.41.01:244][486]LogWorld: Bringing up level for play took: 0.004093
+[2019.05.20-12.41.01:259][486]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 620
+[2019.05.20-12.41.01:259][486]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.41.08:386][486]LogBlueprintUserMessages: [FastAI_V2_2] 100.0
+[2019.05.20-12.41.08:386][486]LogBlueprintUserMessages: [ClickerAI_2] 100.0
+[2019.05.20-12.41.08:386][486]LogBlueprintUserMessages: [FastAI_V1_2] 100.0
+[2019.05.20-12.41.08:390][486]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 7.484
+[2019.05.20-12.41.08:413][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.41.08:463][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.41.08:523][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.41.08:575][487]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.20-12.41.40:156][263]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.41.40:472][263]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager31A3F26F4402750E28A910BCEC129B64.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.41.42:489][404]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.41.42:550][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.41.42:550][404]PIE: New page: PIE session: AITestMap (20 May 2019 14:41:42)
+[2019.05.20-12.41.42:550][404]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.41.42:560][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009997s)
+[2019.05.20-12.41.42:561][404]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.41.42:561][404]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.05.20-12.41.42:561][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.010937s)
+[2019.05.20-12.41.42:619][404]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.41.42:630][404]LogInit: FAudioDevice initialized.
+[2019.05.20-12.41.42:665][404]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.41.42:670][404]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.41.42
+[2019.05.20-12.41.42:671][404]LogWorld: Bringing up level for play took: 0.004710
+[2019.05.20-12.41.42:690][404]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 620
+[2019.05.20-12.41.42:690][404]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.41.46:601][404]LogBlueprintUserMessages: [FastAI_V2_2] 100.0
+[2019.05.20-12.41.46:601][404]LogBlueprintUserMessages: [ClickerAI_2] 100.0
+[2019.05.20-12.41.46:601][404]LogBlueprintUserMessages: [FastAI_V1_2] 100.0
+[2019.05.20-12.41.46:605][404]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 3.699
+[2019.05.20-12.41.53:757][139]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 85.0
+[2019.05.20-12.41.55:429][304]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 70.0
+[2019.05.20-12.41.55:959][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.41.56:009][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.41.56:061][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.41.56:105][359]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.20-12.41.58:192][552]LogEditorViewport: Clicking on Actor (LMB): FastAI_V2_C (FastAI_V2)
+[2019.05.20-12.41.59:518][604]Cmd: DELETE
+[2019.05.20-12.41.59:518][604]Cmd: ACTOR DELETE
+[2019.05.20-12.41.59:528][604]LogEditorActor: Deleted Actor: FastAI_V2_C
+[2019.05.20-12.41.59:598][604]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.05.20-12.42.00:909][679]LogEditorViewport: Clicking on Actor (LMB): FastAI_V1_C (FastAI_V1)
+[2019.05.20-12.42.02:146][762]Cmd: DELETE
+[2019.05.20-12.42.02:146][762]Cmd: ACTOR DELETE
+[2019.05.20-12.42.02:151][762]LogEditorActor: Deleted Actor: FastAI_V1_C
+[2019.05.20-12.42.02:212][762]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.05.20-12.42.03:424][887]LogEditorViewport: Clicking on Actor (LMB): CrawlerAI_C (CrawlerAI)
+[2019.05.20-12.42.04:661][965]Cmd: DELETE
+[2019.05.20-12.42.04:661][965]Cmd: ACTOR DELETE
+[2019.05.20-12.42.04:664][965]LogEditorActor: Deleted Actor: CrawlerAI_C
+[2019.05.20-12.42.04:704][965]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.05.20-12.42.10:398][481]LogEditorViewport: Clicking on Actor (LMB): ClickerAI_C (ClickerAI)
+[2019.05.20-12.42.11:191][509]Cmd: DELETE
+[2019.05.20-12.42.11:192][509]Cmd: ACTOR DELETE
+[2019.05.20-12.42.11:195][509]LogEditorActor: Deleted Actor: ClickerAI_C
+[2019.05.20-12.42.11:260][509]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.05.20-12.42.16:496][832]LogEditorViewport: Clicking on Actor (LMB): SporeRoomManager_C (SporeRoomManager)
+[2019.05.20-12.42.19:097][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.42.33:693][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.42.33:734][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.42.33:734][ 96]PIE: New page: PIE session: AITestMap (20 May 2019 14:42:33)
+[2019.05.20-12.42.33:734][ 96]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.42.33:742][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008851s)
+[2019.05.20-12.42.33:743][ 96]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.42.33:743][ 96]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.05.20-12.42.33:743][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.009634s)
+[2019.05.20-12.42.33:784][ 96]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.42.33:793][ 96]LogInit: FAudioDevice initialized.
+[2019.05.20-12.42.33:824][ 96]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.42.33:826][ 96]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.42.33
+[2019.05.20-12.42.33:826][ 96]LogWorld: Bringing up level for play took: 0.001986
+[2019.05.20-12.42.33:841][ 96]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 620
+[2019.05.20-12.42.33:841][ 96]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.42.42:867][ 96]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 9.962
+[2019.05.20-12.42.44:468][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.42.44:519][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.42.44:573][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.42.44:613][270]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.20-12.43.12:141][582]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.43.12:448][582]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManagerF125D4B4453E05CB36EC03B4DEC572A5.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.43.13:684][683]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.43.13:740][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.43.13:740][683]PIE: New page: PIE session: AITestMap (20 May 2019 14:43:13)
+[2019.05.20-12.43.13:740][683]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.43.13:749][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008424s)
+[2019.05.20-12.43.13:749][683]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.43.13:750][683]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2019.05.20-12.43.13:750][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.009292s)
+[2019.05.20-12.43.13:802][683]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.43.13:813][683]LogInit: FAudioDevice initialized.
+[2019.05.20-12.43.13:842][683]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.43.13:844][683]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.43.13
+[2019.05.20-12.43.13:845][683]LogWorld: Bringing up level for play took: 0.001864
+[2019.05.20-12.43.13:864][683]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 620
+[2019.05.20-12.43.13:864][683]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.43.18:166][683]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 5.261
+[2019.05.20-12.43.20:705][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.43.20:753][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.43.20:806][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.43.20:857][960]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.20-12.43.27:353][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-12.45.38:058][576]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.45.38:442][576]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManagerFA3E96B24F3453BC1D810EA8CAEA3008.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.45.38:823][587]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManagerB9C4D6CF499A23615BFED2B4BBC8704E.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.45.40:550][682]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.45.40:615][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.45.40:615][682]PIE: New page: PIE session: AITestMap (20 May 2019 14:45:40)
+[2019.05.20-12.45.40:616][682]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.45.40:625][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009228s)
+[2019.05.20-12.45.40:626][682]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.45.40:626][682]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2019.05.20-12.45.40:626][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.010257s)
+[2019.05.20-12.45.40:680][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.45.40:691][682]LogInit: FAudioDevice initialized.
+[2019.05.20-12.45.40:721][682]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.45.40:723][682]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.45.40
+[2019.05.20-12.45.40:724][682]LogWorld: Bringing up level for play took: 0.002248
+[2019.05.20-12.45.40:743][682]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 620
+[2019.05.20-12.45.40:743][682]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.45.49:666][682]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 8.76
+[2019.05.20-12.45.49:687][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.45.49:736][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.45.49:791][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.45.49:834][683]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.20-12.45.55:080][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.45.55:121][ 88]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.20-12.45.55:128][ 88]LogPlayLevel: [PlayLevel] Compiling RoomSelectorTrigger before play...
+[2019.05.20-12.45.55:305][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1833.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:305][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1832.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:305][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1831.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:305][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1830.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:307][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_967.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:307][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_966.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:307][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_965.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:307][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_964.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:319][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1849.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:319][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1848.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:320][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1847.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:320][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1846.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:323][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_983.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:323][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_982.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:324][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_981.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:324][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_980.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.45.55:413][ 88]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTriggerF6FA7E854928C0F1256E468BC3F6F334.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.45.55:465][ 88]LogPlayLevel: PlayLevel: Blueprint regeneration took 343 ms (1 blueprints)
+[2019.05.20-12.45.55:465][ 88]PIE: New page: PIE session: AITestMap (20 May 2019 14:45:55)
+[2019.05.20-12.45.55:465][ 88]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.45.55:474][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008274s)
+[2019.05.20-12.45.55:474][ 88]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.45.55:475][ 88]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.05.20-12.45.55:475][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.009051s)
+[2019.05.20-12.45.55:514][ 88]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.45.55:524][ 88]LogInit: FAudioDevice initialized.
+[2019.05.20-12.45.55:553][ 88]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.45.55:555][ 88]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.45.55
+[2019.05.20-12.45.55:555][ 88]LogWorld: Bringing up level for play took: 0.001778
+[2019.05.20-12.45.55:570][ 88]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 704
+[2019.05.20-12.45.55:570][ 88]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.45.59:277][ 88]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 15
+[2019.05.20-12.45.59:277][ 88]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.46.04:427][ 88]LogBlueprintUserMessages: [ChildActor1_GEN_VARIABLE_RoomSelectorTrigger_C_CAT_395] Hello
+[2019.05.20-12.46.04:431][ 88]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 9.525
+[2019.05.20-12.46.04:456][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.46.04:496][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.46.04:542][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.46.04:564][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.20-12.46.10:404][557]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.46.10:714][557]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager383F80374B8217AF40E37FB4A717B80C.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.46.31:702][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1889.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:702][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1888.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:702][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1887.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:703][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1886.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:704][592]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1023.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:704][592]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1022.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:704][592]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1021.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.31:704][592]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1020.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:811][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1897.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:811][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1896.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:811][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1895.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:811][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1894.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:813][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1031.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:813][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1030.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:813][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1029.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.33:814][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1028.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:136][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1905.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:136][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1904.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:136][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1903.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:136][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1902.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:138][273]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1039.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:138][273]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1038.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:138][273]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1037.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.39:138][273]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1036.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:240][187]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.46.51:594][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1921.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:594][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1920.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:594][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1919.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:594][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1918.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:597][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1055.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:597][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1054.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:597][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1053.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:597][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1052.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:614][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1937.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:614][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1936.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:614][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1935.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:614][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1934.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:616][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1071.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:616][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1070.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:616][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1069.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:616][187]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1068.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.46.51:693][187]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger48E727614BBAA576DFFEA8A8800066B2.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.47.26:452][674]BlueprintLog: New page: Compile SporeRoomManager
+[2019.05.20-12.47.26:846][674]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/SporeRoomManager49E4138E4FCB6FD71239F988D9945E5E.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/SporeRoomManager.uasset'
+[2019.05.20-12.47.28:100][792]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-12.47.28:157][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-12.47.28:157][792]PIE: New page: PIE session: AITestMap (20 May 2019 14:47:28)
+[2019.05.20-12.47.28:158][792]LogPlayLevel: Creating play world package: /Game/Users/Jerry/AI/UEDPIE_0_AITestMap
+[2019.05.20-12.47.28:166][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008570s)
+[2019.05.20-12.47.28:167][792]LogAIModule: Creating AISystem for world AITestMap
+[2019.05.20-12.47.28:167][792]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2019.05.20-12.47.28:167][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Jerry/AI/AITestMap.AITestMap to /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap (0.009410s)
+[2019.05.20-12.47.28:213][792]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-12.47.28:223][792]LogInit: FAudioDevice initialized.
+[2019.05.20-12.47.28:259][792]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.20-12.47.28:264][792]LogWorld: Bringing World /Game/Users/Jerry/AI/UEDPIE_0_AITestMap.AITestMap up for play (max tick rate 0) at 2019.05.20-13.47.28
+[2019.05.20-12.47.28:265][792]LogWorld: Bringing up level for play took: 0.004083
+[2019.05.20-12.47.28:284][792]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_I_PassVentToManager', from offset 600
+[2019.05.20-12.47.28:284][792]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.47.32:412][792]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 730
+[2019.05.20-12.47.32:412][792]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ReceiveBeginPlay
+	Function /Game/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.RoomSelectorTrigger_C:ExecuteUbergraph_RoomSelectorTrigger
+
+[2019.05.20-12.47.36:654][792]LogBlueprintUserMessages: [ChildActor1_GEN_VARIABLE_RoomSelectorTrigger_C_CAT_395] Hello
+[2019.05.20-12.47.36:658][792]PIE: Play in editor start time for /Game/Users/Jerry/AI/UEDPIE_0_AITestMap 7.753
+[2019.05.20-12.47.36:681][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.47.36:739][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-12.47.36:814][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-12.47.36:872][793]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.05.20-12.47.42:019][295]BlueprintLog: New page: Compile RoomSelectorTrigger
+[2019.05.20-12.47.42:263][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1977.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:264][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1976.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:264][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1975.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:264][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1974.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:266][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1111.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:266][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1110.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:267][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1109.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:267][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1108.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:285][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1993.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:285][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1992.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:285][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1991.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:285][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1990.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:288][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1127.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:288][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1126.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:288][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1125.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:289][295]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1124.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.42:355][295]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTrigger22112DDA4565EE02367DC6A30753108B.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.47.42:908][338]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/RoomSelectorTriggerD2DC3D3840A0538F154FB0AB2137F4E8.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/RoomSelectorTrigger.uasset'
+[2019.05.20-12.47.47:578][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2001.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:578][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2000.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:578][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1999.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:578][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1998.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:581][750]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1135.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:581][750]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1134.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:581][750]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1133.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.47:581][750]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1132.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:201][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2017.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:201][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2016.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:201][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2015.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:201][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2014.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:203][170]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1151.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:203][170]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1150.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:203][170]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1149.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.51:203][170]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1148.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:004][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2033.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:004][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2032.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:004][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2031.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:004][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2030.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:006][419]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1167.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:006][419]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1166.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:006][419]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1165.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.54:006][419]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1164.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:106][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2049.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:106][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2048.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:106][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2047.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:106][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2046.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:108][913]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1183.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:108][913]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1182.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:108][913]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1181.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.47.59:108][913]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1180.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:324][511]BlueprintLog: New page: Compile I_VentRoomSelection
+[2019.05.20-12.48.04:387][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1207.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:387][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1206.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:387][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1205.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:389][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2073.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:389][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2072.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:389][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2071.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:389][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2070.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:389][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1204.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:402][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1222.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:402][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1221.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:402][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1220.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:404][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2089.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:404][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2088.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:404][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2087.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:404][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_2086.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:404][511]LogActorComponent: RegisterComponentWithWorld: (/Game/Users/Jerry/AI/AITestMap.AITestMap:PersistentLevel.DESTROYED_RoomSelectorTrigger_C_CHILDACTOR_1223.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.20-12.48.04:448][511]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelectionBE1012C44ACD450D22595EAECD74B466.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.48.04:832][546]LogSavePackage: Moving '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/I_VentRoomSelectionD09D8D164F9F77E119D921B6B12F5F0E.tmp' to '../../../../../../Users/d020192g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jerry/RoomVentSystem/I_VentRoomSelection.uasset'
+[2019.05.20-12.48.06:610][724]LogUObjectArray: Warning: Invalid object index 7536756
+[2019.05.20-12.48.08:285][724]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.675 s
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: 
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: Stack: 
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd1fdc71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd1fb00c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd1fb1b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffcfe5111db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffcfe52060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffcfc43da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffcfb7fec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffcfb7bf337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd063b8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd065fe933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd0641281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd063e8190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd063db073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd2613d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd26130270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd2613f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd2612c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd60e36d41 USER32.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd60e36713 USER32.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ffd26140646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.20-12.48.08:286][724]LogOutputDevice: Error: [Callstack] 0x00007ff78f7154e5 UE4Editor.exe!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: [Callstack] 0x00007ff78f725b3c UE4Editor.exe!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: [Callstack] 0x00007ff78f725bba UE4Editor.exe!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: [Callstack] 0x00007ff78f733dac UE4Editor.exe!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: [Callstack] 0x00007ff78f735aaa UE4Editor.exe!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: [Callstack] 0x00007ffd62414034 KERNEL32.DLL!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: [Callstack] 0x00007ffd638a3691 ntdll.dll!UnknownFunction []
+[2019.05.20-12.48.08:287][724]LogOutputDevice: Error: 
+[2019.05.20-12.48.08:290][724]LogStats:                SubmitErrorReport -  0.000 s
