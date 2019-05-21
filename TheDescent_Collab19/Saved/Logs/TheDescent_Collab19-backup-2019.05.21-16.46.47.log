@@ -1,0 +1,1450 @@
+﻿Log file open, 05/21/19 16:20:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.326294
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.250s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.21-15.20.58:038][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.21-15.20.58:038][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.21-15.20.58:079][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.21-15.20.58:079][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.21-15.20.58:079][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.21-15.20.58:079][  0]LogInit: Computer: A07-12
+[2019.05.21-15.20.58:079][  0]LogInit: User: w015864g
+[2019.05.21-15.20.58:079][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.21-15.20.58:079][  0]LogInit: High frequency timer resolution =3.410071 MHz
+[2019.05.21-15.20.58:080][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.21-15.20.58:080][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.21-15.20.58:080][  0]LogMemory: Process Physical Memory: 102.38 MB used, 102.38 MB peak
+[2019.05.21-15.20.58:080][  0]LogMemory: Process Virtual Memory: 101.47 MB used, 101.47 MB peak
+[2019.05.21-15.20.58:080][  0]LogMemory: Physical Memory: 6483.28 MB used,  9817.21 MB free, 16300.48 MB total
+[2019.05.21-15.20.58:080][  0]LogMemory: Virtual Memory: 4650.83 MB used,  9817.21 MB free, 134217728.00 MB total
+[2019.05.21-15.20.58:131][  0]LogInit: Using OS detected language (en-US).
+[2019.05.21-15.20.58:131][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.21-15.20.58:132][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.21-15.20.58:549][  0]LogStreaming: Display: Took  0.418s to InitEngineTextLocalization.
+[2019.05.21-15.20.58:549][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.21-15.20.58:617][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.21-15.20.58:617][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.21-15.20.58:945][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.21-15.20.58:945][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.21-15.20.59:041][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.05.21-15.20.59:041][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.21-15.20.59:045][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.21-15.20.59:045][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.21-15.20.59:045][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.21-15.20.59:057][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.21-15.20.59:057][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.21-15.20.59:057][  0]LogWindows: EnumDisplayDevices:
+[2019.05.21-15.20.59:058][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.05.21-15.20.59:058][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.05.21-15.20.59:059][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.21-15.20.59:059][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.21-15.20.59:060][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.21-15.20.59:060][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.05.21-15.20.59:060][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2019.05.21-15.20.59:060][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2019.05.21-15.20.59:060][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.05.21-15.20.59:131][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.21-15.20.59:159][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.21-15.20.59:249][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/9912/).
+[2019.05.21-15.20.59:250][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/w015864g/AppData/Local/Temp/UnrealShaderWorkingDir/23CB17734BC664C03F293E9D9D8A130D/'.
+[2019.05.21-15.20.59:666][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.21-15.20.59:683][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.21-15.20.59:700][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.21-15.20.59:717][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.21-15.20.59:735][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.21-15.20.59:775][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.21-15.20.59:804][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.21-15.20.59:823][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.21-15.20.59:832][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:964][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.20.59:966][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.21-15.21.00:048][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.21-15.21.00:048][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.21-15.21.00:087][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.21-15.21.00:087][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.21-15.21.00:107][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.21-15.21.00:122][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.21-15.21.00:139][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.21-15.21.00:157][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.21-15.21.00:170][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.21-15.21.00:170][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.21-15.21.00:299][  0]LogXGEController: Cleaning working directory: C:/Users/w015864g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.21-15.21.00:300][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.21-15.21.00:300][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.21-15.21.00:300][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.21-15.21.01:422][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.21-15.21.01:518][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/w015864g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.21-15.21.01:519][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/w015864g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.21-15.21.01:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.21-15.21.01:520][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.21-15.21.01:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.21-15.21.01:520][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.21-15.21.01:536][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.21-15.21.01:549][  0]LogDerivedDataCache: Using Local data cache path C:/Users/w015864g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.21-15.21.01:549][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.21-15.21.01:549][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.21-15.21.01:591][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.21-15.21.01:593][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.21-15.21.01:594][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.21-15.21.01:683][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2019.05.21-15.21.02:129][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.21-15.21.02:321][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.21-15.21.02:328][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.21-15.21.02:328][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.21-15.21.02:328][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.21-15.21.02:328][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.21-15.21.02:355][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.21-15.21.03:201][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.255853 seconds
+[2019.05.21-15.21.03:215][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.21-15.21.03:215][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.21-15.21.03:215][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.21-15.21.04:494][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.21-15.21.04:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.21-15.21.04:737][  0]SourceControl: Source control is disabled
+[2019.05.21-15.21.04:737][  0]SourceControl: Source control is disabled
+[2019.05.21-15.21.04:741][  0]SourceControl: Source control is disabled
+[2019.05.21-15.21.04:743][  0]SourceControl: Source control is disabled
+[2019.05.21-15.21.04:979][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.21-15.21.05:108][  0]LogOcInput: OculusInput pre-init called
+[2019.05.21-15.21.05:223][  0]LogEngine: Initializing Engine...
+[2019.05.21-15.21.05:225][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.21-15.21.05:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.21-15.21.05:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.21-15.21.05:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.21-15.21.05:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.21-15.21.05:504][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.21-15.21.05:537][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.21-15.21.05:554][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.21.05:652][  0]LogInit: FAudioDevice initialized.
+[2019.05.21-15.21.05:653][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.21-15.21.05:791][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/w015864g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.21-15.21.05:802][  0]LogInit: Texture streaming: Enabled
+[2019.05.21-15.21.05:836][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.21-15.21.05:869][  0]LogInit: Transaction tracking system initialized
+[2019.05.21-15.21.05:964][  0]BlueprintLog: New page: Editor Load
+[2019.05.21-15.21.06:115][  0]LocalizationService: Localization service is disabled
+[2019.05.21-15.21.06:574][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.21-15.21.06:574][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.21-15.21.06:574][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.21-15.21.06:575][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.21-15.21.06:575][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.21-15.21.06:575][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.21-15.21.06:575][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.21-15.21.06:769][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.05s
+[2019.05.21-15.21.06:769][  0]SourceControl: Source control is disabled
+[2019.05.21-15.21.06:769][  0]Cmd: MAP LOAD FILE="../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.21-15.21.06:770][  0]LightingResults: New page: Lighting Build
+[2019.05.21-15.21.06:778][  0]MapCheck: New page: Map Check
+[2019.05.21-15.21.06:778][  0]LightingResults: New page: Lighting Build
+[2019.05.21-15.21.09:790][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.21-15.21.09:833][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.21-15.21.09:870][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.21-15.21.10:160][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 289.179ms to complete.
+[2019.05.21-15.21.10:160][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.390
+[2019.05.21-15.21.10:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.21.10:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.21.10:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.21.10:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.21.10:411][  0]LogCollectionManager: Loaded 0 collections in 0.004081 seconds
+[2019.05.21-15.21.10:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.21-15.21.10:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/w015864g/Collections/' took 0.01s
+[2019.05.21-15.21.10:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.21-15.21.10:476][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.21-15.21.10:497][  0]LogContentBrowser: Native class hierarchy populated in 0.0206 seconds. Added 2572 classes and 603 folders.
+[2019.05.21-15.21.10:513][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.21-15.21.10:612][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.21-15.21.10:619][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.21-15.21.10:636][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.21-15.21.10:638][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.21-15.21.10:644][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.21-15.21.10:776][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-15.21.10:986][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.21.11:010][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.05.21-15.21.11:048][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.21-15.21.11:048][  0]LogLoad: (Engine Initialization) Total time: 16.69 seconds
+[2019.05.21-15.21.11:048][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.21-15.21.11:059][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.21.11:084][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.21-15.21.11:209][  2]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.21-15.21.11:340][  3]LogAssetRegistry: Asset discovery search completed in 9.6789 seconds
+[2019.05.21-15.21.11:342][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.21-15.21.11:342][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.05.21-15.21.13:933][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.21.19:514][615]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.21-15.21.19:527][615]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.21-15.21.23:491][736]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Mesh_Skeleton.FBX)
+[2019.05.21-15.21.23:515][736]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Mesh_Skeleton.FBX
+[2019.05.21-15.21.23:582][736]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.21.30:269][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:269][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:269][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:269][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:309][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:309][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:309][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:309][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:330][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:330][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:330][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:330][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:725][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:725][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:725][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:725][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:746][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:746][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:746][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:746][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:766][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:766][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:766][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:766][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:787][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:787][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:787][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:787][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:808][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:808][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:808][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:808][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:829][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.30:829][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.30:829][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.30:829][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:224][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.31:224][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:224][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.31:224][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:246][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.31:246][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:246][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.31:246][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:267][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.31:267][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:267][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.31:267][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:712][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.31:712][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:712][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.31:712][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:733][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.31:733][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:733][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.31:733][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:754][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.31:754][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.31:754][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.31:754][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:218][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.32:218][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:218][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.32:218][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:239][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.32:239][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:239][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.32:239][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:260][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.32:260][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:260][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.32:260][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:722][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.32:722][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:722][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.32:722][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:744][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.32:744][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:744][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.32:744][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:765][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.21.32:765][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.32:766][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.21.32:766][736]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.21.36:944][736]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-15.21.37:226][736]LogStaticMesh: Building static mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.21.37:424][736]LogStaticMesh: Built static mesh [0.20s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.21.42:751][ 21]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.21-15.21.45:654][119]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Mesh_Skeleton.FBX)
+[2019.05.21-15.21.45:673][119]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Mesh_Skeleton.FBX
+[2019.05.21-15.21.45:734][119]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.21.48:153][119]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-15.21.48:190][119]LogFbx: =================================================
+[2019.05.21-15.21.48:190][119]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.21.48:190][119]LogFbx: 	Total Deformer Count -1617458224.
+[2019.05.21-15.21.48:190][119]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.21.48:190][119]LogFbx: =================================================
+[2019.05.21-15.21.48:190][119]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.21.48:190][119]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.21.48:190][119]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.21.48:191][119]LogFbx: =================================================
+[2019.05.21-15.21.48:191][119]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.21.48:191][119]LogFbx: 	Total Deformer Count -1617458224.
+[2019.05.21-15.21.48:191][119]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.21.48:191][119]LogFbx: =================================================
+[2019.05.21-15.21.48:191][119]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.21.48:191][119]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.21.48:191][119]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.21.48:192][119]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Walker_TypeB_low : The relative matrices do not match
+[2019.05.21-15.21.48:192][119]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.21-15.21.48:193][119]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Walker_TypeB_low
+[2019.05.21-15.21.48:193][119]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.05.21-15.21.48:266][119]LogFbx: Warning: Bones digested - 54  Depth of hierarchy - 12
+[2019.05.21-15.21.48:389][119]LogSkeletalMesh: Section 0: 27598 vertices, 54 active bones
+[2019.05.21-15.21.48:399][119]LogSkeletalMesh: Section 0: Material=0, 9214 triangles
+[2019.05.21-15.21.48:400][119]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.21.48:433][119]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.21.48:451][119]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton'
+[2019.05.21-15.21.48:452][119]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton'
+[2019.05.21-15.21.48:458][119]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset'
+[2019.05.21-15.21.48:459][119]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset'
+[2019.05.21-15.21.48:481][119]LogFbx: =================================================
+[2019.05.21-15.21.48:481][119]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.21.48:481][119]LogFbx: 	Total Deformer Count -1541405856.
+[2019.05.21-15.21.48:481][119]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.21.48:481][119]LogFbx: =================================================
+[2019.05.21-15.21.48:482][119]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.21.48:482][119]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.21.48:482][119]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.21.48:483][119]LogFbx: =================================================
+[2019.05.21-15.21.48:483][119]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.21.48:483][119]LogFbx: 	Total Deformer Count -1541405856.
+[2019.05.21-15.21.48:483][119]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.21.48:483][119]LogFbx: =================================================
+[2019.05.21-15.21.48:483][119]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.21.48:483][119]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.21.48:483][119]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.21.48:483][119]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.21.48:483][119]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.21.48:483][119]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.21.48:483][119]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.21.48:483][119]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(16) CATRigRArmDigit11
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(17) CATRigRArmDigit12
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(18) CATRigRArmDigit13
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(19) CATRigRArmDigit21
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(20) CATRigRArmDigit22
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(21) CATRigRArmDigit23
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(22) CATRigRArmDigit31
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(23) CATRigRArmDigit32
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(24) CATRigRArmDigit33
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(25) CATRigRArmDigit41
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(26) CATRigRArmDigit42
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(27) CATRigRArmDigit43
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(28) CATRigRArmDigit51
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(29) CATRigRArmDigit52
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(30) CATRigRArmDigit53
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(41) CATRigLArmLmiddle1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(42) CATRigLArmLmiddle2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(43) CATRigLArmLmiddle3
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(44) CATRigLArmLmarriage1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(45) CATRigLArmLmarriage2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(46) CATRigLArmLmarriage3
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.21.48:484][119]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.21.48:485][119]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.21.48:486][119]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.21.48:495][119]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Anim'
+[2019.05.21-15.21.48:496][119]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Anim'
+[2019.05.21-15.21.49:993][119]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Anim.Walker_B_Mesh_Skeleton_Anim
+[2019.05.21-15.21.49:995][119]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walker_B_Mesh_Skeleton_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.21.50:017][119]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.21.50:060][119]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.21.50:090][119]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.21.50:113][119]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.21.54:117][562]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.21.54:125][562]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.21-15.21.54:383][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.21.54:394][562]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.05.21-15.21.54:435][562]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.21-15.21.54:893][562]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.21-15.21.54:943][562]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.05.21-15.21.59:056][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.21.59:819][996]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton.Walker_B_Mesh_Skeleton_Skeleton
+[2019.05.21-15.21.59:825][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.21.59:840][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.21-15.22.02:559][220]LogSlate: Window 'Walker_B_Mesh_Skeleton_Skeleton*' being destroyed
+[2019.05.21-15.22.02:562][220]LogSlate: Window 'Walker_B_Mesh_Skeleton_Skeleton*' being destroyed
+[2019.05.21-15.23.33:132][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.21-15.23.35:310][ 26]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.23.35:341][ 26]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.23.35:357][ 26]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.23.35:379][ 26]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.23.37:667][ 62]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Mesh_Skeleton.FBX)
+[2019.05.21-15.23.37:685][ 62]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Mesh_Skeleton.FBX
+[2019.05.21-15.23.37:759][ 62]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.23.39:897][ 62]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-15.23.39:934][ 62]LogFbx: =================================================
+[2019.05.21-15.23.39:934][ 62]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.23.39:934][ 62]LogFbx: 	Total Deformer Count -1388277952.
+[2019.05.21-15.23.39:934][ 62]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.23.39:934][ 62]LogFbx: =================================================
+[2019.05.21-15.23.39:934][ 62]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.23.39:934][ 62]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.23.39:934][ 62]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.23.39:935][ 62]LogFbx: =================================================
+[2019.05.21-15.23.39:935][ 62]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.23.39:935][ 62]LogFbx: 	Total Deformer Count -1388277952.
+[2019.05.21-15.23.39:935][ 62]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.23.39:935][ 62]LogFbx: =================================================
+[2019.05.21-15.23.39:935][ 62]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.23.39:935][ 62]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.23.39:935][ 62]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.23.39:936][ 62]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Walker_TypeB_low : The relative matrices do not match
+[2019.05.21-15.23.39:936][ 62]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.21-15.23.39:937][ 62]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Walker_TypeB_low
+[2019.05.21-15.23.39:937][ 62]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.05.21-15.23.40:006][ 62]LogFbx: Warning: Bones digested - 54  Depth of hierarchy - 12
+[2019.05.21-15.23.40:184][ 62]LogSkeletalMesh: Section 0: 27598 vertices, 54 active bones
+[2019.05.21-15.23.40:193][ 62]LogSkeletalMesh: Section 0: Material=0, 9214 triangles
+[2019.05.21-15.23.40:194][ 62]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.23.40:246][ 62]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.23.40:291][ 62]LogFbx: =================================================
+[2019.05.21-15.23.40:291][ 62]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.23.40:291][ 62]LogFbx: 	Total Deformer Count -1265271184.
+[2019.05.21-15.23.40:291][ 62]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.23.40:291][ 62]LogFbx: =================================================
+[2019.05.21-15.23.40:291][ 62]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.23.40:291][ 62]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.23.40:291][ 62]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.23.40:293][ 62]LogFbx: =================================================
+[2019.05.21-15.23.40:293][ 62]LogFbx: Dumping Node START [Walker_TypeB_low] 
+[2019.05.21-15.23.40:293][ 62]LogFbx: 	Total Deformer Count -1265271184.
+[2019.05.21-15.23.40:293][ 62]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.21-15.23.40:293][ 62]LogFbx: =================================================
+[2019.05.21-15.23.40:293][ 62]LogFbx: 	Attribute () Type (4).
+[2019.05.21-15.23.40:293][ 62]LogFbx: 		[Node Attribute Child 1] Walker_TypeB_low (Type Mesh).
+[2019.05.21-15.23.40:293][ 62]LogFbx: Dumping Node END [Walker_TypeB_low]
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(16) CATRigRArmRThumb1
+[2019.05.21-15.23.40:293][ 62]LogFbx: SortedLinks :(17) CATRigRArmRThumb2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(18) CATRigRArmRThumb3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(19) CATRigRArmRIndex1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(20) CATRigRArmRIndex2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(21) CATRigRArmRIndex3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(22) CATRigRArmRMiddle1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(23) CATRigRArmRMiddle2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(24) CATRigRArmRMiddle3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(25) CATRigRArmRRing1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(26) CATRigRArmRRing2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(27) CATRigRArmRRing3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(28) CATRigRArmRPinkie1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(29) CATRigRArmRPinkie2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(30) CATRigRArmRPinkie3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(41) CATRigLArmLMiddle1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(42) CATRigLArmLMiddle2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(43) CATRigLArmLMiddle3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(44) CATRigLArmLRing1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(45) CATRigLArmLRing2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(46) CATRigLArmLRing3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.23.40:294][ 62]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.23.40:296][ 62]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.23.41:526][ 62]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Anim.Walker_B_Mesh_Skeleton_Anim
+[2019.05.21-15.23.41:527][ 62]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walker_B_Mesh_Skeleton_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.23.41:532][ 62]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.23.41:552][ 62]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.23.41:575][ 62]LogSkeletalMesh: Building Skeletal Mesh Walker_B_Mesh_Skeleton...
+[2019.05.21-15.23.41:594][ 62]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton
+[2019.05.21-15.23.45:008][340]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.21-15.25.20:946][855]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Idle.FBX)
+[2019.05.21-15.25.20:961][855]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Idle.FBX
+[2019.05.21-15.25.20:994][855]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.25.24:398][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:398][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:398][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:398][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:419][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:419][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:419][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:419][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:438][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:438][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:438][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:438][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:459][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:459][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:459][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:459][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:479][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:479][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:479][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:479][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:839][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:839][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:839][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:839][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:859][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:859][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:859][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:859][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:880][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:880][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:880][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:880][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:900][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:900][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:900][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:900][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:920][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:920][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:920][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:920][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:940][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.24:940][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.24:940][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.24:940][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:351][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.25:352][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:352][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.25:352][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:373][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.25:373][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:373][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.25:373][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:394][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.25:394][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:394][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.25:394][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:857][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.25:857][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:857][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.25:857][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:878][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.25:878][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:878][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.25:878][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:898][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.25:899][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.25:899][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.25:899][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.26:344][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.26:345][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.26:345][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.26:345][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.26:351][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.26:351][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.26:351][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.26:351][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.26:372][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:2
+[2019.05.21-15.25.26:372][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.SKEL_UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.26:372][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or ObjectProperty /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:2
+[2019.05.21-15.25.26:372][855]LogUObjectHash: Warning: Ambiguous search, could be Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad:WidgetTree.2 or Button /Game/Users/Dawid/TestBlueprints/Keypad/UI_Keypad.UI_Keypad_C:WidgetTree.2
+[2019.05.21-15.25.36:561][855]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(16) CATRigRArmRThumb1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(17) CATRigRArmRThumb2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(18) CATRigRArmRThumb3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(19) CATRigRArmRIndex1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(20) CATRigRArmRIndex2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(21) CATRigRArmRIndex3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(22) CATRigRArmRMiddle1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(23) CATRigRArmRMiddle2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(24) CATRigRArmRMiddle3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(25) CATRigRArmRRing1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(26) CATRigRArmRRing2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(27) CATRigRArmRRing3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(28) CATRigRArmRPinkie1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(29) CATRigRArmRPinkie2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(30) CATRigRArmRPinkie3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(41) CATRigLArmLMiddle1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(42) CATRigLArmLMiddle2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(43) CATRigLArmLMiddle3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(44) CATRigLArmLRing1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(45) CATRigLArmLRing2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(46) CATRigLArmLRing3
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.25.36:600][855]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.25.36:601][855]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.25.36:601][855]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.25.36:601][855]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.25.36:601][855]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.25.36:602][855]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.25.36:607][855]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Idle'
+[2019.05.21-15.25.36:607][855]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Idle'
+[2019.05.21-15.25.37:231][855]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Idle.Walker_B_Idle
+[2019.05.21-15.25.37:232][855]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walker_B_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.25.38:277][958]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Idle.Walker_B_Idle
+[2019.05.21-15.25.38:289][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.25.38:318][958]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.21-15.25.38:755][958]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.21-15.25.45:172][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.25.45:234][581]LogSlate: Window 'Walker_B_Idle*' being destroyed
+[2019.05.21-15.25.45:237][581]LogSlate: Window 'Walker_B_Idle*' being destroyed
+[2019.05.21-15.25.48:975][993]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Idle.Walker_B_Idle
+[2019.05.21-15.25.48:982][993]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.25.49:035][993]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.21-15.25.49:447][993]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.21-15.25.58:090][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.25.58:135][883]LogSlate: Window 'Walker_B_Idle*' being destroyed
+[2019.05.21-15.25.58:139][883]LogSlate: Window 'Walker_B_Idle*' being destroyed
+[2019.05.21-15.27.18:489][519]LogEditorFactories: Performing atomic reimport of [C:/Users/w015864g/Documents/Exports/Walker_B_Idle.FBX]
+[2019.05.21-15.27.18:514][519]LogFbx: Loading FBX Scene from C:/Users/w015864g/Documents/Exports/Walker_B_Idle.FBX
+[2019.05.21-15.27.18:544][519]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.27.18:548][519]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.27.19:447][519]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Idle.Walker_B_Idle
+[2019.05.21-15.27.19:449][519]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.27.19:477][519]LogEditorFactories: -- imported successfully
+[2019.05.21-15.27.21:598][751]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Idle.Walker_B_Idle
+[2019.05.21-15.27.21:605][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.27.21:658][751]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.21-15.27.22:113][751]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.21-15.27.29:579][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.27.29:641][459]LogSlate: Window 'Walker_B_Idle*' being destroyed
+[2019.05.21-15.27.29:645][459]LogSlate: Window 'Walker_B_Idle*' being destroyed
+[2019.05.21-15.31.11:702][667]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.047
+[2019.05.21-15.31.11:704][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton] ([1] browsable assets)...
+[2019.05.21-15.31.11:730][667]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.Walker_B_Mesh_Skeleton]
+[2019.05.21-15.31.11:730][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton]
+[2019.05.21-15.31.11:817][667]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Mesh_Skeleton_Auto120AEAB2B4801286EA73293B56FC5B010.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Auto1.uasset'
+[2019.05.21-15.31.11:822][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset] ([1] browsable assets)...
+[2019.05.21-15.31.11:848][667]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset.Walker_B_Mesh_Skeleton_PhysicsAsset]
+[2019.05.21-15.31.11:848][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset]
+[2019.05.21-15.31.11:883][667]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Mesh_Skeleton_PhysicsAs3017474F40195FAD1C4412BB898C582B.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset_Auto1.uasset'
+[2019.05.21-15.31.11:888][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton] ([1] browsable assets)...
+[2019.05.21-15.31.11:888][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton]
+[2019.05.21-15.31.11:901][667]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Mesh_Skeleton_Skeleton_C83A6C1C46FD4AAC377B18B9FC3586AE.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton_Auto1.uasset'
+[2019.05.21-15.31.11:906][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Users/Jake/WalkerB/Walker_B_Idle] ([1] browsable assets)...
+[2019.05.21-15.31.11:938][667]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Idle.Walker_B_Idle]
+[2019.05.21-15.31.11:938][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Jake/WalkerB/Walker_B_Idle]
+[2019.05.21-15.31.11:963][667]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Idle_Auto1CCB7D3314265E540A3142898005114B1.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Jake/WalkerB/Walker_B_Idle_Auto1.uasset'
+[2019.05.21-15.31.11:967][667]LogFileHelpers: Auto-saving content packages took 0.264
+[2019.05.21-15.44.59:166][321]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Run.FBX)
+[2019.05.21-15.44.59:178][321]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Run.FBX
+[2019.05.21-15.44.59:208][321]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.45.05:736][321]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(16) CATRigRArmRThumb1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(17) CATRigRArmRThumb2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(18) CATRigRArmRThumb3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(19) CATRigRArmRIndex1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(20) CATRigRArmRIndex2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(21) CATRigRArmRIndex3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(22) CATRigRArmRMiddle1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(23) CATRigRArmRMiddle2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(24) CATRigRArmRMiddle3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(25) CATRigRArmRRing1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(26) CATRigRArmRRing2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(27) CATRigRArmRRing3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(28) CATRigRArmRPinkie1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(29) CATRigRArmRPinkie2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(30) CATRigRArmRPinkie3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(41) CATRigLArmLMiddle1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(42) CATRigLArmLMiddle2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(43) CATRigLArmLMiddle3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(44) CATRigLArmLRing1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(45) CATRigLArmLRing2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(46) CATRigLArmLRing3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.45.05:774][321]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.45.05:776][321]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.45.05:780][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Run'
+[2019.05.21-15.45.05:780][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Run'
+[2019.05.21-15.45.05:906][321]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Run.Walker_B_Run
+[2019.05.21-15.45.05:907][321]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walker_B_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.45.05:924][321]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Taser_Reaction.FBX)
+[2019.05.21-15.45.05:946][321]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Taser_Reaction.FBX
+[2019.05.21-15.45.05:975][321]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(16) CATRigRArmRThumb1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(17) CATRigRArmRThumb2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(18) CATRigRArmRThumb3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(19) CATRigRArmRIndex1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(20) CATRigRArmRIndex2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(21) CATRigRArmRIndex3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(22) CATRigRArmRMiddle1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(23) CATRigRArmRMiddle2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(24) CATRigRArmRMiddle3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(25) CATRigRArmRRing1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(26) CATRigRArmRRing2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(27) CATRigRArmRRing3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(28) CATRigRArmRPinkie1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(29) CATRigRArmRPinkie2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(30) CATRigRArmRPinkie3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(41) CATRigLArmLMiddle1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(42) CATRigLArmLMiddle2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(43) CATRigLArmLMiddle3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(44) CATRigLArmLRing1
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(45) CATRigLArmLRing2
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(46) CATRigLArmLRing3
+[2019.05.21-15.45.05:979][321]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.45.05:980][321]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.45.05:980][321]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.45.05:980][321]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.45.05:980][321]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.45.05:980][321]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.45.05:980][321]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.45.05:981][321]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.45.05:983][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Taser_Reaction'
+[2019.05.21-15.45.05:983][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Taser_Reaction'
+[2019.05.21-15.45.06:051][321]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Taser_Reaction.Walker_B_Taser_Reaction
+[2019.05.21-15.45.06:051][321]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walker_B_Taser_Reaction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.45.06:069][321]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Walker_B_Walk.FBX)
+[2019.05.21-15.45.06:081][321]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Walker_B_Walk.FBX
+[2019.05.21-15.45.06:110][321]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.45.06:112][321]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.45.06:112][321]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.45.06:112][321]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.45.06:112][321]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(16) CATRigRArmRThumb1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(17) CATRigRArmRThumb2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(18) CATRigRArmRThumb3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(19) CATRigRArmRIndex1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(20) CATRigRArmRIndex2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(21) CATRigRArmRIndex3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(22) CATRigRArmRMiddle1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(23) CATRigRArmRMiddle2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(24) CATRigRArmRMiddle3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(25) CATRigRArmRRing1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(26) CATRigRArmRRing2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(27) CATRigRArmRRing3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(28) CATRigRArmRPinkie1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(29) CATRigRArmRPinkie2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(30) CATRigRArmRPinkie3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(41) CATRigLArmLMiddle1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(42) CATRigLArmLMiddle2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(43) CATRigLArmLMiddle3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(44) CATRigLArmLRing1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(45) CATRigLArmLRing2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(46) CATRigLArmLRing3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.45.06:113][321]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.45.06:114][321]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.45.06:117][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Walk'
+[2019.05.21-15.45.06:117][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Walker_B_Walk'
+[2019.05.21-15.45.06:469][321]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Walk.Walker_B_Walk
+[2019.05.21-15.45.06:469][321]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walker_B_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.45.06:491][321]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\w015864g\Documents\Exports\Wlaker_B_Melee_Reaction.FBX)
+[2019.05.21-15.45.06:502][321]LogFbx: Loading FBX Scene from C:\Users\w015864g\Documents\Exports\Wlaker_B_Melee_Reaction.FBX
+[2019.05.21-15.45.06:529][321]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(0) CATRigPelvis
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(1) CATRigLLeg1
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(2) CATRigLLeg2
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(3) CATRigLLegLFoot
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(4) CATRigLLegLToes1
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(5) CATRigSpine1
+[2019.05.21-15.45.06:531][321]LogFbx: SortedLinks :(6) CATRigSpine2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(7) CATRigSpine3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(8) CATRigTorso
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(9) CATRigNeck1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(10) CATRigNeck2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(11) CATRigHub003
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(12) CATRigRArmCollarbone
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(13) CATRigRArm1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(14) CATRigRArm2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(15) CATRigRArmRPalm
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(16) CATRigRArmRThumb1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(17) CATRigRArmRThumb2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(18) CATRigRArmRThumb3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(19) CATRigRArmRIndex1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(20) CATRigRArmRIndex2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(21) CATRigRArmRIndex3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(22) CATRigRArmRMiddle1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(23) CATRigRArmRMiddle2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(24) CATRigRArmRMiddle3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(25) CATRigRArmRRing1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(26) CATRigRArmRRing2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(27) CATRigRArmRRing3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(28) CATRigRArmRPinkie1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(29) CATRigRArmRPinkie2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(30) CATRigRArmRPinkie3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(31) CATRigLArmCollarbone
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(32) CATRigLArm1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(33) CATRigLArm2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(34) CATRigLArmLPalm
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(35) CATRigLArmLthumb1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(36) CATRigLArmLthumb2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(37) CATRigLArmLthumb3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(38) CATRigLArmLIndex1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(39) CATRigLArmLIndex2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(40) CATRigLArmLIndex3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(41) CATRigLArmLMiddle1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(42) CATRigLArmLMiddle2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(43) CATRigLArmLMiddle3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(44) CATRigLArmLRing1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(45) CATRigLArmLRing2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(46) CATRigLArmLRing3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(47) CATRigLArmLPinkie1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(48) CATRigLArmLPinkie2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(49) CATRigLArmLPinkie3
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(50) CATRigRLeg1
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(51) CATRigRLeg2
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(52) CATRigRLegRFoot
+[2019.05.21-15.45.06:532][321]LogFbx: SortedLinks :(53) CATRigRLegRToes1
+[2019.05.21-15.45.06:533][321]LogFbx: Parsing AnimStack Take 001
+[2019.05.21-15.45.06:535][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Wlaker_B_Melee_Reaction'
+[2019.05.21-15.45.06:536][321]LogLinker: Can't find file '/Game/Users/Jake/WalkerB/Wlaker_B_Melee_Reaction'
+[2019.05.21-15.45.06:662][321]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Users/Jake/WalkerB/Wlaker_B_Melee_Reaction.Wlaker_B_Melee_Reaction
+[2019.05.21-15.45.06:662][321]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Wlaker_B_Melee_Reaction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.21-15.45.16:080][423]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Run.Walker_B_Run
+[2019.05.21-15.45.16:088][423]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.45.16:122][423]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.21-15.45.16:592][423]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.21-15.45.19:056][608]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Taser_Reaction.Walker_B_Taser_Reaction
+[2019.05.21-15.45.21:020][761]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Walk.Walker_B_Walk
+[2019.05.21-15.45.24:901][ 59]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Wlaker_B_Melee_Reaction.Wlaker_B_Melee_Reaction
+[2019.05.21-15.45.28:769][376]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Run.Walker_B_Run
+[2019.05.21-15.45.37:913][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.45.38:111][196]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Taser_Reaction.Walker_B_Taser_Reaction
+[2019.05.21-15.45.39:910][330]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Walker_B_Walk.Walker_B_Walk
+[2019.05.21-15.45.43:899][681]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Jake/WalkerB/Wlaker_B_Melee_Reaction.Wlaker_B_Melee_Reaction
+[2019.05.21-15.45.47:284][986]LogSlate: Window 'Wlaker_B_Melee_Reaction*' being destroyed
+[2019.05.21-15.45.47:287][986]LogSlate: Window 'Wlaker_B_Melee_Reaction*' being destroyed
+[2019.05.21-15.46.08:380][142]LogSlate: Window 'Save Content' being destroyed
+[2019.05.21-15.46.17:769][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Mesh_Skeleton687C99914490A97DF695EC9FBD775973.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton.uasset'
+[2019.05.21-15.46.17:826][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Mesh_Skeleton_PhysicsAs2EBB5C5F4753C21FEA4AA9B81C3817C2.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_PhysicsAsset.uasset'
+[2019.05.21-15.46.17:852][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Mesh_Skeleton_SkeletonE04CE767482E5CC7F3CBF3932E225E34.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Mesh_Skeleton_Skeleton.uasset'
+[2019.05.21-15.46.17:877][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_IdleF03C6CAC4DB22BD016B3DF86FE61C0CE.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Idle.uasset'
+[2019.05.21-15.46.17:920][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Run2EFC965F4A8724147135938C2EDF849D.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Run.uasset'
+[2019.05.21-15.46.17:963][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Taser_Reaction5AE071B6429A9824F86179B981F24996.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Taser_Reaction.uasset'
+[2019.05.21-15.46.18:008][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Walker_B_Walk2233C7BC4101F4D49587B7A5777EE815.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Walker_B_Walk.uasset'
+[2019.05.21-15.46.18:065][212]LogSavePackage: Moving '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Wlaker_B_Melee_Reaction14128B41438C52B7710424A8F63BDD3A.tmp' to '../../../../../../Users/w015864g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Jake/WalkerB/Wlaker_B_Melee_Reaction.uasset'
+[2019.05.21-15.46.20:007][413]LogSlate: Window 'TheDescent_Collab19 - Unreal Editor' being destroyed
+[2019.05.21-15.46.20:008][413]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.46.20:260][414]Cmd: QUIT_EDITOR
+[2019.05.21-15.46.20:306][414]LogExit: Preparing to exit.
+[2019.05.21-15.46.21:361][414]LogExit: Editor shut down
+[2019.05.21-15.46.21:362][414]LogExit: Transaction tracking system shut down
+[2019.05.21-15.46.22:128][414]LogExit: Object subsystem successfully closed.
+[2019.05.21-15.46.22:251][414]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.21-15.46.22:255][414]LogD3D11RHI: Shutdown
+[2019.05.21-15.46.22:255][414]LogD3D11RHI: CleanupD3DDevice
+[2019.05.21-15.46.22:258][414]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module AnimationEditor (620)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (618)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.05.21-15.46.22:298][414]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.05.21-15.46.22:299][414]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.05.21-15.46.22:299][414]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.05.21-15.46.22:299][414]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.05.21-15.46.22:300][414]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.05.21-15.46.22:301][414]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.05.21-15.46.22:302][414]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.05.21-15.46.22:303][414]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.05.21-15.46.23:000][414]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.05.21-15.46.23:066][414]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.05.21-15.46.23:067][414]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.05.21-15.46.23:067][414]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.05.21-15.46.23:067][414]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.05.21-15.46.23:071][414]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.05.21-15.46.23:072][414]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.21-15.46.23:217][414]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.21-15.46.23:218][414]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.21-15.46.23:218][414]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.21-15.46.23:218][414]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.21-15.46.23:218][414]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.21-15.46.23:224][414]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.21-15.46.23:224][414]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.21-15.46.23:224][414]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.21-15.46.23:224][414]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.21-15.46.23:225][414]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.21-15.46.23:227][414]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.21-15.46.23:328][414]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.21-15.46.23:429][414]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.21-15.46.23:431][414]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.21-15.46.23:431][414]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.21-15.46.23:431][414]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.21-15.46.23:431][414]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.21-15.46.23:433][414]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.21-15.46.23:435][414]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.21-15.46.23:435][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.21-15.46.23:435][414]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.21-15.46.23:435][414]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.21-15.46.23:435][414]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.21-15.46.23:435][414]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.21-15.46.23:439][414]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.21-15.46.23:446][414]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.21-15.46.23:447][414]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.21-15.46.23:447][414]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.21-15.46.23:447][414]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.21-15.46.23:447][414]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.21-15.46.23:447][414]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.21-15.46.23:447][414]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.21-15.46.23:451][414]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.21-15.46.23:452][414]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.21-15.46.23:543][414]LogDerivedDataCache: Shutdown
+[2019.05.21-15.46.23:543][414]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.21-15.46.23:543][414]LogXGEController: Cleaning working directory: C:/Users/w015864g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.21-15.46.23:544][414]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.21-15.46.23:545][414]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.21-15.46.23:547][414]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.21-15.46.23:547][414]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.21-15.46.23:549][414]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.21-15.46.23:549][414]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.21-15.46.23:562][414]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.21-15.46.23:563][414]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.21-15.46.23:563][414]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.21-15.46.23:563][414]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.21-15.46.23:563][414]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.21-15.46.23:564][414]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.21-15.46.23:564][414]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.21-15.46.23:581][414]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.21-15.46.23:581][414]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.21-15.46.23:581][414]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3D9A7E6-4D59-BAE5-449B-6DB729F4EA44%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=ffdc29434968b8b17be80c8e047c10e2%7C%7C73c66d81-acb5-416a-821c-d73914fdd501&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.21-15.46.23:594][414]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.21-15.46.23:596][414]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.21-15.46.23:597][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.21-15.46.23:597][414]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.21-15.46.23:597][414]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.21-15.46.23:597][414]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.21-15.46.23:597][414]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.21-15.46.23:597][414]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.21-15.46.23:598][414]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.21-15.46.23:598][414]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.21-15.46.23:598][414]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.21-15.46.23:599][414]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.21-15.46.23:614][414]LogExit: Exiting.
+[2019.05.21-15.46.23:621][414]Log file closed, 05/21/19 16:46:23
