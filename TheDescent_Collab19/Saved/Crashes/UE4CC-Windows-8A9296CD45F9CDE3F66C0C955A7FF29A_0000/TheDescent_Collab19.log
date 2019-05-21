@@ -1,0 +1,971 @@
+﻿Log file open, 05/21/19 13:00:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.319741
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.262s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.068s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.21-12.00.18:211][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.21-12.00.18:212][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.21-12.00.18:246][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.21-12.00.18:246][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.21-12.00.18:246][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.21-12.00.18:247][  0]LogInit: Computer: A07-07
+[2019.05.21-12.00.18:247][  0]LogInit: User: b017403g
+[2019.05.21-12.00.18:247][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.21-12.00.18:247][  0]LogInit: High frequency timer resolution =3.410081 MHz
+[2019.05.21-12.00.18:247][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.21-12.00.18:247][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.21-12.00.18:247][  0]LogMemory: Process Physical Memory: 102.11 MB used, 102.11 MB peak
+[2019.05.21-12.00.18:247][  0]LogMemory: Process Virtual Memory: 87.57 MB used, 87.57 MB peak
+[2019.05.21-12.00.18:247][  0]LogMemory: Physical Memory: 4083.38 MB used,  12217.10 MB free, 16300.48 MB total
+[2019.05.21-12.00.18:247][  0]LogMemory: Virtual Memory: 4636.89 MB used,  12217.10 MB free, 134217728.00 MB total
+[2019.05.21-12.00.18:286][  0]LogInit: Using OS detected language (en-US).
+[2019.05.21-12.00.18:286][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.21-12.00.18:287][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.21-12.00.18:661][  0]LogStreaming: Display: Took  0.375s to InitEngineTextLocalization.
+[2019.05.21-12.00.18:661][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.21-12.00.18:713][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.21-12.00.18:713][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.21-12.00.19:041][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.21-12.00.19:041][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.21-12.00.19:145][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.05.21-12.00.19:145][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.21-12.00.19:151][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.21-12.00.19:151][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.21-12.00.19:151][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.21-12.00.19:159][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.21-12.00.19:159][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.21-12.00.19:159][  0]LogWindows: EnumDisplayDevices:
+[2019.05.21-12.00.19:159][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.05.21-12.00.19:159][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.05.21-12.00.19:160][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.21-12.00.19:160][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.21-12.00.19:160][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.21-12.00.19:160][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.05.21-12.00.19:160][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.05.21-12.00.19:160][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.05.21-12.00.19:160][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.05.21-12.00.19:234][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.21-12.00.19:251][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.21-12.00.19:339][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/10776/).
+[2019.05.21-12.00.19:340][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/b017403g/AppData/Local/Temp/UnrealShaderWorkingDir/55999BC142620F06807534A40BF75EF1/'.
+[2019.05.21-12.00.19:760][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.21-12.00.19:784][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.21-12.00.19:823][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.21-12.00.19:849][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.21-12.00.19:867][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.21-12.00.19:890][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.21-12.00.19:908][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.21-12.00.19:925][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.21-12.00.19:934][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:059][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-12.00.20:061][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.21-12.00.20:147][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.21-12.00.20:147][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.21-12.00.20:194][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.21-12.00.20:194][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.21-12.00.20:223][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.21-12.00.20:240][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.21-12.00.20:256][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.21-12.00.20:271][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.21-12.00.20:282][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.21-12.00.20:282][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.21-12.00.20:432][  0]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.21-12.00.20:433][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.21-12.00.20:433][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.21-12.00.20:433][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.21-12.00.21:581][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.21-12.00.21:682][  0]LogDerivedDataCache: Loaded boot cache 0.10s 72MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.21-12.00.21:683][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.21-12.00.21:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.21-12.00.21:683][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.21-12.00.21:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.21-12.00.21:683][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.21-12.00.21:700][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.21-12.00.21:712][  0]LogDerivedDataCache: Using Local data cache path C:/Users/b017403g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.21-12.00.21:712][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.21-12.00.21:712][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.21-12.00.21:733][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.21-12.00.21:734][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.21-12.00.21:735][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.21-12.00.21:840][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2019.05.21-12.00.22:344][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.21-12.00.22:522][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.21-12.00.22:528][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.21-12.00.22:529][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.21-12.00.22:529][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.21-12.00.22:529][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.21-12.00.22:555][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.21-12.00.23:310][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.188728 seconds
+[2019.05.21-12.00.23:318][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.21-12.00.23:318][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.21-12.00.23:318][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.21-12.00.24:679][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.21-12.00.24:693][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.21-12.00.24:899][  0]SourceControl: Source control is disabled
+[2019.05.21-12.00.24:899][  0]SourceControl: Source control is disabled
+[2019.05.21-12.00.24:901][  0]SourceControl: Source control is disabled
+[2019.05.21-12.00.24:902][  0]SourceControl: Source control is disabled
+[2019.05.21-12.00.25:124][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.21-12.00.25:237][  0]LogOcInput: OculusInput pre-init called
+[2019.05.21-12.00.25:322][  0]LogEngine: Initializing Engine...
+[2019.05.21-12.00.25:323][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.21-12.00.25:325][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.21-12.00.25:325][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.21-12.00.25:325][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.21-12.00.25:325][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.21-12.00.25:621][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.21-12.00.25:661][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.21-12.00.25:695][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-12.00.25:831][  0]LogInit: FAudioDevice initialized.
+[2019.05.21-12.00.25:833][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.21-12.00.25:948][  0]LogDerivedDataCache: Saved boot cache 0.12s 72MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.21-12.00.25:992][  0]LogInit: Texture streaming: Enabled
+[2019.05.21-12.00.26:028][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.21-12.00.26:078][  0]LogInit: Transaction tracking system initialized
+[2019.05.21-12.00.26:145][  0]BlueprintLog: New page: Editor Load
+[2019.05.21-12.00.26:312][  0]LocalizationService: Localization service is disabled
+[2019.05.21-12.00.26:734][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.21-12.00.26:734][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.21-12.00.26:734][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.21-12.00.26:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.21-12.00.26:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.21-12.00.26:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.21-12.00.26:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.21-12.00.26:900][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.06s
+[2019.05.21-12.00.26:900][  0]SourceControl: Source control is disabled
+[2019.05.21-12.00.26:900][  0]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.21-12.00.26:901][  0]LightingResults: New page: Lighting Build
+[2019.05.21-12.00.26:906][  0]MapCheck: New page: Map Check
+[2019.05.21-12.00.26:906][  0]LightingResults: New page: Lighting Build
+[2019.05.21-12.00.32:285][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.21-12.00.32:331][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.21-12.00.32:376][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.21-12.00.32:860][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 484.39ms to complete.
+[2019.05.21-12.00.32:860][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.961
+[2019.05.21-12.00.33:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.00.33:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.00.33:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.00.33:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.00.33:059][  0]LogCollectionManager: Loaded 0 collections in 0.003768 seconds
+[2019.05.21-12.00.33:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.21-12.00.33:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/b017403g/Collections/' took 0.01s
+[2019.05.21-12.00.33:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.21-12.00.33:126][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.21-12.00.33:145][  0]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2572 classes and 603 folders.
+[2019.05.21-12.00.33:160][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.21-12.00.33:351][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.21-12.00.33:360][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.21-12.00.34:832][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.21-12.00.34:912][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.21-12.00.34:918][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.21-12.00.34:924][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheDescentCollab19
+[2019.05.21-12.00.34:924][  0]LogTemp: CWD: C:\Epic\UE4\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.21-12.00.34:924][  0]LogTemp: Initial Dir: C:\Epic\UE4\UE_4.20
+[2019.05.21-12.00.34:924][  0]LogTemp: Env CWD: C:\Epic\UE4\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.21-12.00.34:924][  0]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.21-12.00.35:023][  0]LogTemp: BranchPath = A07-07/C/Epic/UE4/UE_4.20/Engine/Binaries --- GameBranchPath = A07-07/C/Epic/UE4/UE_4.20/Engine/Binaries
+[2019.05.21-12.00.35:023][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\b017403g\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.21-12.00.35:023][  0]LogRenderer: Reallocating scene render targets to support 1164x584 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-12.00.35:301][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.21-12.00.35:301][  0]LogLoad: (Engine Initialization) Total time: 20.70 seconds
+[2019.05.21-12.00.35:301][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.21-12.00.35:312][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-12.00.35:355][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.21-12.00.35:402][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.21-12.00.35:602][  3]LogAssetRegistry: Asset discovery search completed in 13.7857 seconds
+[2019.05.21-12.00.35:606][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.21-12.00.35:606][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2019.05.21-12.00.37:961][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.00.39:549][402]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.21-12.00.41:962][402]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-12.00.42:027][402]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.21-12.00.42:059][402]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.21-12.00.42:059][402]LightingResults: New page: Lighting Build
+[2019.05.21-12.00.42:060][402]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.21-12.00.42:061][402]MapCheck: New page: Map Check
+[2019.05.21-12.00.42:061][402]LightingResults: New page: Lighting Build
+[2019.05.21-12.00.42:283][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.21-12.00.42:400][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.21-12.00.42:802][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 402.169ms to complete.
+[2019.05.21-12.00.42:805][402]LogFileHelpers: Loading map 'LevelOne' took 0.746
+[2019.05.21-12.00.47:105][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.01.06:628][318]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.21-12.01.06:632][318]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.21-12.02.39:728][665]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/b017403g/Downloads/Final Taser.FBX)
+[2019.05.21-12.02.39:799][665]LogFbx: Loading FBX Scene from ../../../../../../Users/b017403g/Downloads/Final Taser.FBX
+[2019.05.21-12.02.39:911][665]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-12.02.43:273][665]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-12.02.43:359][665]LogStaticMesh: Building static mesh Final_Taser_TaHandle_LP...
+[2019.05.21-12.02.43:373][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaHandle_LP.Final_Taser_TaHandle_LP
+[2019.05.21-12.02.43:394][665]LogFbx: Warning: Triangulating static mesh TaBulb1_LP
+[2019.05.21-12.02.43:424][665]LogStaticMesh: Building static mesh Final_Taser_TaBulb1_LP...
+[2019.05.21-12.02.43:428][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaBulb1_LP.Final_Taser_TaBulb1_LP
+[2019.05.21-12.02.43:496][665]LogStaticMesh: Building static mesh Final_Taser_TaBulbInside_LP...
+[2019.05.21-12.02.43:603][665]LogStaticMesh: Built static mesh [0.11s] /Game/Users/Tom/Taser/Final_Taser_TaBulbInside_LP.Final_Taser_TaBulbInside_LP
+[2019.05.21-12.02.43:624][665]LogFbx: Warning: Triangulating static mesh TaAmmoHolder_LP
+[2019.05.21-12.02.43:645][665]LogStaticMesh: Building static mesh Final_Taser_TaAmmoHolder_LP...
+[2019.05.21-12.02.43:649][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaAmmoHolder_LP.Final_Taser_TaAmmoHolder_LP
+[2019.05.21-12.02.43:661][665]LogFbx: Warning: Triangulating static mesh TaCentreBox_LP001
+[2019.05.21-12.02.43:665][665]LogStaticMesh: Building static mesh Final_Taser_TaCentreBox_LP001...
+[2019.05.21-12.02.43:671][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCentreBox_LP001.Final_Taser_TaCentreBox_LP001
+[2019.05.21-12.02.43:682][665]LogFbx: Warning: Triangulating static mesh TaHandleConnect_LP
+[2019.05.21-12.02.43:725][665]LogStaticMesh: Building static mesh Final_Taser_TaHandleConnect_LP...
+[2019.05.21-12.02.43:733][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaHandleConnect_LP.Final_Taser_TaHandleConnect_LP
+[2019.05.21-12.02.43:842][665]LogStaticMesh: Building static mesh Final_Taser_gun...
+[2019.05.21-12.02.43:962][665]LogStaticMesh: Built static mesh [0.12s] /Game/Users/Tom/Taser/Final_Taser_gun.Final_Taser_gun
+[2019.05.21-12.02.43:977][665]LogStaticMesh: Warning: Final_Taser_gun has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.21-12.02.43:977][665]LogStaticMesh: Warning: Final_Taser_gun has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.21-12.02.44:004][665]LogStaticMesh: Building static mesh Final_Taser_TaTrigger_LP...
+[2019.05.21-12.02.44:008][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaTrigger_LP.Final_Taser_TaTrigger_LP
+[2019.05.21-12.02.44:049][665]LogStaticMesh: Building static mesh Final_Taser_TaCircBorad_LP...
+[2019.05.21-12.02.44:096][665]LogStaticMesh: Built static mesh [0.05s] /Game/Users/Tom/Taser/Final_Taser_TaCircBorad_LP.Final_Taser_TaCircBorad_LP
+[2019.05.21-12.02.44:097][665]LogStaticMesh: Warning: Final_Taser_TaCircBorad_LP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.21-12.02.44:110][665]LogFbx: Warning: Triangulating static mesh TaGrip_LP
+[2019.05.21-12.02.44:163][665]LogStaticMesh: Building static mesh Final_Taser_TaGrip_LP...
+[2019.05.21-12.02.44:182][665]LogStaticMesh: Built static mesh [0.02s] /Game/Users/Tom/Taser/Final_Taser_TaGrip_LP.Final_Taser_TaGrip_LP
+[2019.05.21-12.02.44:198][665]LogStaticMesh: Building static mesh Final_Taser_TaMiddle_LP...
+[2019.05.21-12.02.44:200][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaMiddle_LP.Final_Taser_TaMiddle_LP
+[2019.05.21-12.02.44:223][665]LogStaticMesh: Building static mesh Final_Taser_TaBarrelConnect_LP...
+[2019.05.21-12.02.44:231][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaBarrelConnect_LP.Final_Taser_TaBarrelConnect_LP
+[2019.05.21-12.02.44:242][665]LogFbx: Warning: Triangulating static mesh TaFlimsy_HP001
+[2019.05.21-12.02.44:252][665]LogStaticMesh: Building static mesh Final_Taser_TaFlimsy_HP001...
+[2019.05.21-12.02.44:253][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaFlimsy_HP001.Final_Taser_TaFlimsy_HP001
+[2019.05.21-12.02.44:265][665]LogFbx: Warning: Triangulating static mesh TaProngs_LP
+[2019.05.21-12.02.44:442][665]LogStaticMesh: Building static mesh Final_Taser_TaProngs_LP...
+[2019.05.21-12.02.44:478][665]LogStaticMesh: Built static mesh [0.04s] /Game/Users/Tom/Taser/Final_Taser_TaProngs_LP.Final_Taser_TaProngs_LP
+[2019.05.21-12.02.44:499][665]LogFbx: Warning: Triangulating static mesh TaBarrel_LP
+[2019.05.21-12.02.44:641][665]LogStaticMesh: Building static mesh Final_Taser_TaBarrel_LP...
+[2019.05.21-12.02.44:654][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaBarrel_LP.Final_Taser_TaBarrel_LP
+[2019.05.21-12.02.44:680][665]LogFbx: Warning: Triangulating static mesh TaMiddleWire_LP
+[2019.05.21-12.02.45:173][665]LogStaticMesh: Building static mesh Final_Taser_TaMiddleWire_LP...
+[2019.05.21-12.02.45:268][665]LogStaticMesh: Built static mesh [0.09s] /Game/Users/Tom/Taser/Final_Taser_TaMiddleWire_LP.Final_Taser_TaMiddleWire_LP
+[2019.05.21-12.02.45:301][665]LogFbx: Warning: Triangulating static mesh CopperCoil_LP001
+[2019.05.21-12.02.45:331][665]LogStaticMesh: Building static mesh Final_Taser_CopperCoil_LP001...
+[2019.05.21-12.02.45:337][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_CopperCoil_LP001.Final_Taser_CopperCoil_LP001
+[2019.05.21-12.02.45:385][665]LogStaticMesh: Building static mesh Final_Taser_TaEndCoil_LP...
+[2019.05.21-12.02.45:415][665]LogStaticMesh: Built static mesh [0.03s] /Game/Users/Tom/Taser/Final_Taser_TaEndCoil_LP.Final_Taser_TaEndCoil_LP
+[2019.05.21-12.02.45:439][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP
+[2019.05.21-12.02.45:490][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP...
+[2019.05.21-12.02.45:500][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP.Final_Taser_TaCoil_LP
+[2019.05.21-12.02.45:526][665]LogStaticMesh: Building static mesh Final_Taser_ProngConnector_LP...
+[2019.05.21-12.02.45:534][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_ProngConnector_LP.Final_Taser_ProngConnector_LP
+[2019.05.21-12.02.45:547][665]LogFbx: Warning: Triangulating static mesh TaSpike_LP
+[2019.05.21-12.02.45:569][665]LogStaticMesh: Building static mesh Final_Taser_TaSpike_LP...
+[2019.05.21-12.02.45:572][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaSpike_LP.Final_Taser_TaSpike_LP
+[2019.05.21-12.02.45:587][665]LogFbx: Warning: Triangulating static mesh TaBobble_LP
+[2019.05.21-12.02.45:629][665]LogStaticMesh: Building static mesh Final_Taser_TaBobble_LP...
+[2019.05.21-12.02.45:639][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaBobble_LP.Final_Taser_TaBobble_LP
+[2019.05.21-12.02.45:660][665]LogFbx: Warning: Triangulating static mesh TaWoodBack_LP
+[2019.05.21-12.02.45:667][665]LogStaticMesh: Building static mesh Final_Taser_TaWoodBack_LP...
+[2019.05.21-12.02.45:669][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaWoodBack_LP.Final_Taser_TaWoodBack_LP
+[2019.05.21-12.02.45:685][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP001
+[2019.05.21-12.02.45:725][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP001...
+[2019.05.21-12.02.45:735][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP001.Final_Taser_TaCoil_LP001
+[2019.05.21-12.02.45:750][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP002
+[2019.05.21-12.02.45:804][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP002...
+[2019.05.21-12.02.45:808][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP002.Final_Taser_TaCoil_LP002
+[2019.05.21-12.02.45:825][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP003
+[2019.05.21-12.02.45:863][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP003...
+[2019.05.21-12.02.45:866][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP003.Final_Taser_TaCoil_LP003
+[2019.05.21-12.02.45:878][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP004
+[2019.05.21-12.02.45:913][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP004...
+[2019.05.21-12.02.45:918][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP004.Final_Taser_TaCoil_LP004
+[2019.05.21-12.02.45:929][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP005
+[2019.05.21-12.02.45:966][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP005...
+[2019.05.21-12.02.45:969][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP005.Final_Taser_TaCoil_LP005
+[2019.05.21-12.02.45:982][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP006
+[2019.05.21-12.02.46:021][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP006...
+[2019.05.21-12.02.46:025][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP006.Final_Taser_TaCoil_LP006
+[2019.05.21-12.02.46:038][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP007
+[2019.05.21-12.02.46:073][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP007...
+[2019.05.21-12.02.46:077][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP007.Final_Taser_TaCoil_LP007
+[2019.05.21-12.02.46:090][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP008
+[2019.05.21-12.02.46:127][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP008...
+[2019.05.21-12.02.46:130][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP008.Final_Taser_TaCoil_LP008
+[2019.05.21-12.02.46:142][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP009
+[2019.05.21-12.02.46:176][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP009...
+[2019.05.21-12.02.46:180][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP009.Final_Taser_TaCoil_LP009
+[2019.05.21-12.02.46:194][665]LogFbx: Warning: Triangulating static mesh CopperCoil_LP002
+[2019.05.21-12.02.46:218][665]LogStaticMesh: Building static mesh Final_Taser_CopperCoil_LP002...
+[2019.05.21-12.02.46:222][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_CopperCoil_LP002.Final_Taser_CopperCoil_LP002
+[2019.05.21-12.02.46:236][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP010
+[2019.05.21-12.02.46:277][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP010...
+[2019.05.21-12.02.46:281][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP010.Final_Taser_TaCoil_LP010
+[2019.05.21-12.02.46:294][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP011
+[2019.05.21-12.02.46:328][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP011...
+[2019.05.21-12.02.46:332][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP011.Final_Taser_TaCoil_LP011
+[2019.05.21-12.02.46:345][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP012
+[2019.05.21-12.02.46:379][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP012...
+[2019.05.21-12.02.46:383][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP012.Final_Taser_TaCoil_LP012
+[2019.05.21-12.02.46:396][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP013
+[2019.05.21-12.02.46:433][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP013...
+[2019.05.21-12.02.46:437][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP013.Final_Taser_TaCoil_LP013
+[2019.05.21-12.02.46:449][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP014
+[2019.05.21-12.02.46:483][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP014...
+[2019.05.21-12.02.46:487][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP014.Final_Taser_TaCoil_LP014
+[2019.05.21-12.02.46:498][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP015
+[2019.05.21-12.02.46:532][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP015...
+[2019.05.21-12.02.46:536][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015
+[2019.05.21-12.02.46:542][665]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.20+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.05.21-12.02.46:542][665]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.20+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.05.21-12.02.46:542][665]LogPhysics: Warning: Failed to cook convex: /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015 0 (FlipX:0). The remaining elements will not get cooked.
+[2019.05.21-12.02.46:543][665]LogPhysics: Warning: Attempt to build physics data for /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015:BodySetup_0 when we are unable to.
+[2019.05.21-12.02.46:549][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP016
+[2019.05.21-12.02.46:583][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP016...
+[2019.05.21-12.02.46:588][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP016.Final_Taser_TaCoil_LP016
+[2019.05.21-12.02.46:600][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP017
+[2019.05.21-12.02.46:645][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP017...
+[2019.05.21-12.02.46:649][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP017.Final_Taser_TaCoil_LP017
+[2019.05.21-12.02.46:661][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP018
+[2019.05.21-12.02.46:703][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP018...
+[2019.05.21-12.02.46:706][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP018.Final_Taser_TaCoil_LP018
+[2019.05.21-12.02.46:718][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP019
+[2019.05.21-12.02.46:753][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP019...
+[2019.05.21-12.02.46:757][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP019.Final_Taser_TaCoil_LP019
+[2019.05.21-12.02.46:768][665]LogFbx: Warning: Triangulating static mesh CopperCoil_LP003
+[2019.05.21-12.02.46:797][665]LogStaticMesh: Building static mesh Final_Taser_CopperCoil_LP003...
+[2019.05.21-12.02.46:800][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_CopperCoil_LP003.Final_Taser_CopperCoil_LP003
+[2019.05.21-12.02.46:811][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP020
+[2019.05.21-12.02.46:849][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP020...
+[2019.05.21-12.02.46:853][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP020.Final_Taser_TaCoil_LP020
+[2019.05.21-12.02.46:863][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP021
+[2019.05.21-12.02.46:896][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP021...
+[2019.05.21-12.02.46:900][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP021.Final_Taser_TaCoil_LP021
+[2019.05.21-12.02.46:913][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP022
+[2019.05.21-12.02.46:947][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP022...
+[2019.05.21-12.02.46:957][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP022.Final_Taser_TaCoil_LP022
+[2019.05.21-12.02.46:975][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP023
+[2019.05.21-12.02.47:012][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP023...
+[2019.05.21-12.02.47:017][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP023.Final_Taser_TaCoil_LP023
+[2019.05.21-12.02.47:030][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP024
+[2019.05.21-12.02.47:064][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP024...
+[2019.05.21-12.02.47:068][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP024.Final_Taser_TaCoil_LP024
+[2019.05.21-12.02.47:080][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP025
+[2019.05.21-12.02.47:129][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP025...
+[2019.05.21-12.02.47:140][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP025.Final_Taser_TaCoil_LP025
+[2019.05.21-12.02.47:158][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP026
+[2019.05.21-12.02.47:195][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP026...
+[2019.05.21-12.02.47:201][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP026.Final_Taser_TaCoil_LP026
+[2019.05.21-12.02.47:216][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP027
+[2019.05.21-12.02.47:280][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP027...
+[2019.05.21-12.02.47:292][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP027.Final_Taser_TaCoil_LP027
+[2019.05.21-12.02.47:316][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP028
+[2019.05.21-12.02.47:424][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP028...
+[2019.05.21-12.02.47:435][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP028.Final_Taser_TaCoil_LP028
+[2019.05.21-12.02.47:459][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP029
+[2019.05.21-12.02.47:502][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP029...
+[2019.05.21-12.02.47:506][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP029.Final_Taser_TaCoil_LP029
+[2019.05.21-12.02.47:522][665]LogFbx: Warning: Triangulating static mesh CopperCoil_LP004
+[2019.05.21-12.02.47:544][665]LogStaticMesh: Building static mesh Final_Taser_CopperCoil_LP004...
+[2019.05.21-12.02.47:549][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_CopperCoil_LP004.Final_Taser_CopperCoil_LP004
+[2019.05.21-12.02.47:562][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP030
+[2019.05.21-12.02.47:598][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP030...
+[2019.05.21-12.02.47:601][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP030.Final_Taser_TaCoil_LP030
+[2019.05.21-12.02.47:616][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP031
+[2019.05.21-12.02.47:651][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP031...
+[2019.05.21-12.02.47:655][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP031.Final_Taser_TaCoil_LP031
+[2019.05.21-12.02.47:667][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP032
+[2019.05.21-12.02.47:702][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP032...
+[2019.05.21-12.02.47:706][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP032.Final_Taser_TaCoil_LP032
+[2019.05.21-12.02.47:720][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP033
+[2019.05.21-12.02.47:756][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP033...
+[2019.05.21-12.02.47:766][665]LogStaticMesh: Built static mesh [0.01s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP033.Final_Taser_TaCoil_LP033
+[2019.05.21-12.02.47:784][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP034
+[2019.05.21-12.02.47:829][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP034...
+[2019.05.21-12.02.47:833][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP034.Final_Taser_TaCoil_LP034
+[2019.05.21-12.02.47:846][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP035
+[2019.05.21-12.02.47:881][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP035...
+[2019.05.21-12.02.47:885][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP035.Final_Taser_TaCoil_LP035
+[2019.05.21-12.02.47:897][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP036
+[2019.05.21-12.02.47:937][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP036...
+[2019.05.21-12.02.47:941][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP036.Final_Taser_TaCoil_LP036
+[2019.05.21-12.02.47:954][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP037
+[2019.05.21-12.02.47:987][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP037...
+[2019.05.21-12.02.47:991][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP037.Final_Taser_TaCoil_LP037
+[2019.05.21-12.02.48:003][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP038
+[2019.05.21-12.02.48:044][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP038...
+[2019.05.21-12.02.48:049][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP038.Final_Taser_TaCoil_LP038
+[2019.05.21-12.02.48:062][665]LogFbx: Warning: Triangulating static mesh TaCoil_LP039
+[2019.05.21-12.02.48:100][665]LogStaticMesh: Building static mesh Final_Taser_TaCoil_LP039...
+[2019.05.21-12.02.48:104][665]LogStaticMesh: Built static mesh [0.00s] /Game/Users/Tom/Taser/Final_Taser_TaCoil_LP039.Final_Taser_TaCoil_LP039
+[2019.05.21-12.02.48:129][665]FBXImport: Warning: Final_Taser_gun has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.21-12.02.48:129][665]FBXImport: Warning: Final_Taser_gun has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.21-12.02.48:129][665]FBXImport: Warning: Final_Taser_TaCircBorad_LP has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.21-12.02.58:003][661]LogSlate: Window 'Message Log' being destroyed
+[2019.05.21-12.02.58:006][661]LogSlate: Window 'Message Log' being destroyed
+[2019.05.21-12.03.24:764][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.03.41:207][869]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP001
+[2019.05.21-12.03.41:211][869]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP002
+[2019.05.21-12.03.41:213][869]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP003
+[2019.05.21-12.03.41:214][869]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP004
+[2019.05.21-12.03.41:216][869]LogActorFactory: Actor Factory created Final_Taser_gun
+[2019.05.21-12.03.41:218][869]LogActorFactory: Actor Factory created Final_Taser_ProngConnector_LP
+[2019.05.21-12.03.41:220][869]LogActorFactory: Actor Factory created Final_Taser_TaAmmoHolder_LP
+[2019.05.21-12.03.41:222][869]LogActorFactory: Actor Factory created Final_Taser_TaBarrel_LP
+[2019.05.21-12.03.41:223][869]LogActorFactory: Actor Factory created Final_Taser_TaBarrelConnect_LP
+[2019.05.21-12.03.41:225][869]LogActorFactory: Actor Factory created Final_Taser_TaBobble_LP
+[2019.05.21-12.03.41:227][869]LogActorFactory: Actor Factory created Final_Taser_TaBulb1_LP
+[2019.05.21-12.03.41:229][869]LogActorFactory: Actor Factory created Final_Taser_TaBulbInside_LP
+[2019.05.21-12.03.41:230][869]LogActorFactory: Actor Factory created Final_Taser_TaCentreBox_LP001
+[2019.05.21-12.03.41:232][869]LogActorFactory: Actor Factory created Final_Taser_TaCircBorad_LP
+[2019.05.21-12.03.41:235][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP
+[2019.05.21-12.03.41:237][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP001
+[2019.05.21-12.03.41:238][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP002
+[2019.05.21-12.03.41:241][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP003
+[2019.05.21-12.03.41:243][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP004
+[2019.05.21-12.03.41:244][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP005
+[2019.05.21-12.03.41:245][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP006
+[2019.05.21-12.03.41:246][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP007
+[2019.05.21-12.03.41:247][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP008
+[2019.05.21-12.03.41:248][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP009
+[2019.05.21-12.03.41:249][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP010
+[2019.05.21-12.03.41:250][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP011
+[2019.05.21-12.03.41:251][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP012
+[2019.05.21-12.03.41:252][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP013
+[2019.05.21-12.03.41:253][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP014
+[2019.05.21-12.03.41:254][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP015
+[2019.05.21-12.03.41:255][869]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.41:255][869]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[0] invalid
+[2019.05.21-12.03.41:255][869]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.41:255][869]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[1] invalid
+[2019.05.21-12.03.41:255][869]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.41:255][869]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[0] invalid
+[2019.05.21-12.03.41:256][869]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.41:256][869]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[1] invalid
+[2019.05.21-12.03.41:256][869]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.41:256][869]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[0] invalid
+[2019.05.21-12.03.41:256][869]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.41:256][869]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[1] invalid
+[2019.05.21-12.03.41:256][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP016
+[2019.05.21-12.03.41:257][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP017
+[2019.05.21-12.03.41:258][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP018
+[2019.05.21-12.03.41:259][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP019
+[2019.05.21-12.03.41:260][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP020
+[2019.05.21-12.03.41:261][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP021
+[2019.05.21-12.03.41:262][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP022
+[2019.05.21-12.03.41:263][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP023
+[2019.05.21-12.03.41:264][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP024
+[2019.05.21-12.03.41:265][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP025
+[2019.05.21-12.03.41:266][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP026
+[2019.05.21-12.03.41:267][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP027
+[2019.05.21-12.03.41:268][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP028
+[2019.05.21-12.03.41:269][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP029
+[2019.05.21-12.03.41:270][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP030
+[2019.05.21-12.03.41:271][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP031
+[2019.05.21-12.03.41:272][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP032
+[2019.05.21-12.03.41:273][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP033
+[2019.05.21-12.03.41:274][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP034
+[2019.05.21-12.03.41:275][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP035
+[2019.05.21-12.03.41:277][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP036
+[2019.05.21-12.03.41:278][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP037
+[2019.05.21-12.03.41:279][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP038
+[2019.05.21-12.03.41:280][869]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP039
+[2019.05.21-12.03.41:281][869]LogActorFactory: Actor Factory created Final_Taser_TaEndCoil_LP
+[2019.05.21-12.03.41:282][869]LogActorFactory: Actor Factory created Final_Taser_TaFlimsy_HP001
+[2019.05.21-12.03.41:283][869]LogActorFactory: Actor Factory created Final_Taser_TaGrip_LP
+[2019.05.21-12.03.41:284][869]LogActorFactory: Actor Factory created Final_Taser_TaHandle_LP
+[2019.05.21-12.03.41:285][869]LogActorFactory: Actor Factory created Final_Taser_TaHandleConnect_LP
+[2019.05.21-12.03.41:286][869]LogActorFactory: Actor Factory created Final_Taser_TaMiddle_LP
+[2019.05.21-12.03.41:287][869]LogActorFactory: Actor Factory created Final_Taser_TaMiddleWire_LP
+[2019.05.21-12.03.41:288][869]LogActorFactory: Actor Factory created Final_Taser_TaProngs_LP
+[2019.05.21-12.03.41:289][869]LogActorFactory: Actor Factory created Final_Taser_TaSpike_LP
+[2019.05.21-12.03.41:290][869]LogActorFactory: Actor Factory created Final_Taser_TaTrigger_LP
+[2019.05.21-12.03.41:291][869]LogActorFactory: Actor Factory created Final_Taser_TaWoodBack_LP
+[2019.05.21-12.03.42:475][889]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP001
+[2019.05.21-12.03.42:501][889]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP002
+[2019.05.21-12.03.42:524][889]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP003
+[2019.05.21-12.03.42:556][889]LogActorFactory: Actor Factory created Final_Taser_CopperCoil_LP004
+[2019.05.21-12.03.42:588][889]LogActorFactory: Actor Factory created Final_Taser_gun
+[2019.05.21-12.03.42:611][889]LogActorFactory: Actor Factory created Final_Taser_ProngConnector_LP
+[2019.05.21-12.03.42:631][889]LogActorFactory: Actor Factory created Final_Taser_TaAmmoHolder_LP
+[2019.05.21-12.03.42:649][889]LogActorFactory: Actor Factory created Final_Taser_TaBarrel_LP
+[2019.05.21-12.03.42:668][889]LogActorFactory: Actor Factory created Final_Taser_TaBarrelConnect_LP
+[2019.05.21-12.03.42:686][889]LogActorFactory: Actor Factory created Final_Taser_TaBobble_LP
+[2019.05.21-12.03.42:704][889]LogActorFactory: Actor Factory created Final_Taser_TaBulb1_LP
+[2019.05.21-12.03.42:722][889]LogActorFactory: Actor Factory created Final_Taser_TaBulbInside_LP
+[2019.05.21-12.03.42:740][889]LogActorFactory: Actor Factory created Final_Taser_TaCentreBox_LP001
+[2019.05.21-12.03.42:759][889]LogActorFactory: Actor Factory created Final_Taser_TaCircBorad_LP
+[2019.05.21-12.03.42:786][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP
+[2019.05.21-12.03.42:808][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP001
+[2019.05.21-12.03.42:827][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP002
+[2019.05.21-12.03.42:845][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP003
+[2019.05.21-12.03.42:864][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP004
+[2019.05.21-12.03.42:884][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP005
+[2019.05.21-12.03.42:915][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP006
+[2019.05.21-12.03.42:944][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP007
+[2019.05.21-12.03.42:964][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP008
+[2019.05.21-12.03.42:984][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP009
+[2019.05.21-12.03.43:010][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP010
+[2019.05.21-12.03.43:029][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP011
+[2019.05.21-12.03.43:049][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP012
+[2019.05.21-12.03.43:069][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP013
+[2019.05.21-12.03.43:095][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP014
+[2019.05.21-12.03.43:114][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP015
+[2019.05.21-12.03.43:114][889]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.43:114][889]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[0] invalid
+[2019.05.21-12.03.43:114][889]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.43:114][889]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[1] invalid
+[2019.05.21-12.03.43:115][889]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.43:115][889]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[0] invalid
+[2019.05.21-12.03.43:115][889]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.43:115][889]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[1] invalid
+[2019.05.21-12.03.43:133][889]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.43:133][889]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[0] invalid
+[2019.05.21-12.03.43:133][889]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.05.21-12.03.43:133][889]LogPhysics: Warning: ForeachShape(Convex): [/Game/Users/Tom/Taser/Final_Taser_TaCoil_LP015.Final_Taser_TaCoil_LP015] ScaledElem[1] invalid
+[2019.05.21-12.03.43:134][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP016
+[2019.05.21-12.03.43:153][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP017
+[2019.05.21-12.03.43:171][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP018
+[2019.05.21-12.03.43:221][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP019
+[2019.05.21-12.03.43:253][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP020
+[2019.05.21-12.03.43:274][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP021
+[2019.05.21-12.03.43:295][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP022
+[2019.05.21-12.03.43:314][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP023
+[2019.05.21-12.03.43:347][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP024
+[2019.05.21-12.03.43:372][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP025
+[2019.05.21-12.03.43:415][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP026
+[2019.05.21-12.03.43:443][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP027
+[2019.05.21-12.03.43:474][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP028
+[2019.05.21-12.03.43:496][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP029
+[2019.05.21-12.03.43:522][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP030
+[2019.05.21-12.03.43:543][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP031
+[2019.05.21-12.03.43:583][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP032
+[2019.05.21-12.03.43:622][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP033
+[2019.05.21-12.03.43:665][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP034
+[2019.05.21-12.03.43:696][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP035
+[2019.05.21-12.03.43:718][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP036
+[2019.05.21-12.03.43:739][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP037
+[2019.05.21-12.03.43:759][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP038
+[2019.05.21-12.03.43:779][889]LogActorFactory: Actor Factory created Final_Taser_TaCoil_LP039
+[2019.05.21-12.03.43:799][889]LogActorFactory: Actor Factory created Final_Taser_TaEndCoil_LP
+[2019.05.21-12.03.43:825][889]LogActorFactory: Actor Factory created Final_Taser_TaFlimsy_HP001
+[2019.05.21-12.03.43:851][889]LogActorFactory: Actor Factory created Final_Taser_TaGrip_LP
+[2019.05.21-12.03.43:871][889]LogActorFactory: Actor Factory created Final_Taser_TaHandle_LP
+[2019.05.21-12.03.43:890][889]LogActorFactory: Actor Factory created Final_Taser_TaHandleConnect_LP
+[2019.05.21-12.03.43:910][889]LogActorFactory: Actor Factory created Final_Taser_TaMiddle_LP
+[2019.05.21-12.03.43:929][889]LogActorFactory: Actor Factory created Final_Taser_TaMiddleWire_LP
+[2019.05.21-12.03.43:949][889]LogActorFactory: Actor Factory created Final_Taser_TaProngs_LP
+[2019.05.21-12.03.43:995][889]LogActorFactory: Actor Factory created Final_Taser_TaSpike_LP
+[2019.05.21-12.03.44:047][889]LogActorFactory: Actor Factory created Final_Taser_TaTrigger_LP
+[2019.05.21-12.03.44:080][889]LogActorFactory: Actor Factory created Final_Taser_TaWoodBack_LP
+[2019.05.21-12.03.59:855][452]Cmd: DELETE
+[2019.05.21-12.03.59:855][452]Cmd: ACTOR DELETE
+[2019.05.21-12.03.59:899][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:899][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:899][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:900][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:900][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:900][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:901][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:901][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:901][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:902][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:902][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:902][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:903][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:903][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:904][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:904][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:904][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:905][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:905][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:905][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:906][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:906][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:906][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:907][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:907][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:907][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:908][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:908][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:908][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:909][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:909][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:909][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:910][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:910][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:910][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:911][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:911][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:911][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:912][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:912][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:913][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:913][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:913][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:914][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:914][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:914][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:915][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:915][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:915][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:916][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:916][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:916][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:917][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:917][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:917][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:918][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:918][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:918][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:919][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:919][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:919][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:920][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:920][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:921][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:921][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.03.59:962][452]LogEditorActor: Deleted 65 Actors (0.108 secs)
+[2019.05.21-12.04.01:908][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.04.30:494][873]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.21-12.04.36:930][139]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/b017403g/Downloads/Final Taser.FBX)
+[2019.05.21-12.04.36:951][139]LogFbx: Loading FBX Scene from ../../../../../../Users/b017403g/Downloads/Final Taser.FBX
+[2019.05.21-12.04.37:067][139]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-12.04.52:040][139]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-12.06.37:560][744]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/b017403g/Downloads/animation.FBX)
+[2019.05.21-12.06.37:579][744]LogFbx: Loading FBX Scene from ../../../../../../Users/b017403g/Downloads/animation.FBX
+[2019.05.21-12.06.37:627][744]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.21-12.06.41:866][744]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.21-12.06.42:532][744]LogStaticMesh: Building static mesh animation...
+[2019.05.21-12.06.43:354][744]LogStaticMesh: Built static mesh [0.82s] /Game/Users/Tom/Taser/animation.animation
+[2019.05.21-12.06.43:410][744]LogStaticMesh: Warning: animation has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.05.21-12.06.43:410][744]LogStaticMesh: Warning: animation has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.05.21-12.06.43:492][744]FBXImport: Warning: animation has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.05.21-12.06.43:492][744]FBXImport: Warning: animation has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.05.21-12.06.45:726][986]LogSlate: Window 'Message Log' being destroyed
+[2019.05.21-12.06.45:729][986]LogSlate: Window 'Message Log' being destroyed
+[2019.05.21-12.06.49:069][380]LogMetaData: Removing '/Game/Users/Tom/Taser/Taser.Taser' ref from Metadata '/Game/Users/Tom/Taser/animation.PackageMetaData'
+[2019.05.21-12.06.49:112][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Tom/Taser/Taser" FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Tom/Taser/Taser.uasset" SILENT=true
+[2019.05.21-12.06.49:132][380]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Taser8274E7304AB414C6A4BE4081D2665E7A.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Tom/Taser/Taser.uasset'
+[2019.05.21-12.06.51:087][583]LogActorFactory: Actor Factory created Taser
+[2019.05.21-12.06.51:635][645]LogActorFactory: Actor Factory created Taser
+[2019.05.21-12.06.54:102][933]Cmd: DELETE
+[2019.05.21-12.06.54:102][933]Cmd: ACTOR DELETE
+[2019.05.21-12.06.54:113][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.21-12.06.54:140][933]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.05.21-12.06.57:307][309]LogEditorViewport: Clicking on Actor (LMB): TaserNew_C (Taser)
+[2019.05.21-12.06.58:885][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.06.58:954][501]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Weapons/TaserNew.TaserNew
+[2019.05.21-12.06.59:591][501]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.05.21-12.07.00:956][501]LogSlate: Took 0.010333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.21-12.07.01:245][502]LogSlate: Took 0.005136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.21-12.07.02:877][608]LogRenderer: Reallocating scene render targets to support 1164x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-12.08.03:532][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.08.10:982][278]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-12.08.11:021][278]LogBlueprint: Error: [Compiler TaserNew] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.05.21-12.08.11:021][278]LogBlueprint: Error: [Compiler TaserNew] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.05.21-12.08.11:021][278]LogBlueprint: Error: [Compiler TaserNew] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.05.21-12.08.11:234][278]LogBlueprint: Warning: [Compiler TaserNew] [0476.63] Compile of TaserNew failed. 3 Fatal Issue(s) 0 Warning(s) [in 251 ms] (/Game/Users/Josh/Weapons/TaserNew.TaserNew)
+[2019.05.21-12.08.21:881][ 79]LogEditorTransaction: Undo Rename Component Variable
+[2019.05.21-12.08.22:366][115]LogEditorTransaction: Undo Attach Component
+[2019.05.21-12.08.22:542][117]LogEditorTransaction: Undo Rename Component Variable
+[2019.05.21-12.08.22:706][130]LogEditorTransaction: Undo Detach Component
+[2019.05.21-12.08.23:134][141]LogEditorTransaction: Undo Rename Component Variable
+[2019.05.21-12.08.23:349][151]LogEditorTransaction: Undo Attach Component
+[2019.05.21-12.08.23:599][154]LogEditorTransaction: Undo Attach Component
+[2019.05.21-12.08.23:958][155]LogEditorTransaction: Undo Remove Components
+[2019.05.21-12.08.24:236][156]LogEditorTransaction: Undo Detach Component
+[2019.05.21-12.08.42:555][491]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-12.08.44:101][491]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNew5CF269244AB684DF508517BE70CB2682.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-12.08.53:333][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.08.58:231][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.08.58:290][631]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-12.08.58:811][631]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNewAB729EF94E9B337BDF5945B87E744862.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-12.08.59:939][697]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-12.08.59:972][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-12.08.59:985][697]PIE: New page: PIE session: LevelOne (21 May 2019 14:08:59)
+[2019.05.21-12.08.59:986][697]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-12.09.00:040][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054179s)
+[2019.05.21-12.09.00:041][697]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-12.09.00:041][697]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.05.21-12.09.00:041][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.055051s)
+[2019.05.21-12.09.00:099][697]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-12.09.00:118][697]LogInit: FAudioDevice initialized.
+[2019.05.21-12.09.00:167][697]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-12.09.00:201][697]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-13.09.00
+[2019.05.21-12.09.00:204][697]LogWorld: Bringing up level for play took: 0.034101
+[2019.05.21-12.09.00:218][697]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-12.09.00:240][697]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.05.21-12.09.00:245][697]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-12.09.00:245][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-12.09.00:245][697]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-12.09.00:245][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-12.09.00:249][697]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.411
+[2019.05.21-12.09.02:522][882]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-12.09.05:352][144]LogCharacterMovement: NewDrSkeng_USE_C_0 is stuck and failed to move! Velocity: X=-125.84 Y=290.83 Z=0.00 Location: X=-1771.12 Y=7059.72 Z=98.15 Normal: X=-0.54 Y=-0.84 Z=-0.00 PenetrationDepth:48.860 Actor:Taser_2 Component:Taser BoneName:None (0 other events since notify)
+[2019.05.21-12.09.06:354][237]LogCharacterMovement: NewDrSkeng_USE_C_0 is stuck and failed to move! Velocity: X=43.79 Y=522.45 Z=0.00 Location: X=-1582.16 Y=7096.80 Z=96.01 Normal: X=0.68 Y=-0.73 Z=-0.04 PenetrationDepth:49.747 Actor:Taser_2 Component:Taser BoneName:None (31 other events since notify)
+[2019.05.21-12.09.07:727][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.09.07:775][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-12.09.07:842][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.09.07:948][366]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.21-12.09.11:407][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-12.09.13:086][753]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.05.21-12.09.13:086][753]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.05.21-12.09.13:086][753]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.05.21-12.09.13:086][753]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.05.21-12.09.13:903][816]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-12.09.14:384][816]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNewBDE40F9840556E0DB30631B9A395871A.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-12.09.14:866][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.09.14:932][835]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-12.09.14:970][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-12.09.14:970][835]PIE: New page: PIE session: LevelOne (21 May 2019 14:09:14)
+[2019.05.21-12.09.14:971][835]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-12.09.15:011][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039772s)
+[2019.05.21-12.09.15:011][835]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-12.09.15:011][835]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.05.21-12.09.15:012][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040636s)
+[2019.05.21-12.09.15:065][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-12.09.15:081][835]LogInit: FAudioDevice initialized.
+[2019.05.21-12.09.15:115][835]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-12.09.15:147][835]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-13.09.15
+[2019.05.21-12.09.15:148][835]LogWorld: Bringing up level for play took: 0.032052
+[2019.05.21-12.09.15:162][835]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-12.09.15:166][835]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-12.09.15:166][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-12.09.15:166][835]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-12.09.15:166][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-12.09.15:169][835]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.67
+[2019.05.21-12.09.20:531][310]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-12.09.21:635][413]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-12.09.23:283][566]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-12.09.24:545][684]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-12.09.37:479][911]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-12.09.39:690][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.09.39:731][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-12.09.39:777][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-12.09.39:865][126]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.21-12.09.40:807][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.09.54:048][396]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Users/Tom/Taser/Taser.Taser
+[2019.05.21-12.09.54:974][397]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-12.10.18:414][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-12.11.14:343][  6]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne_Auto1D4E95B5B4E326232E9DB478588A1A98A.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Niall/Levels/LevelOne_Auto1.umap'
+[2019.05.21-12.11.14:370][  6]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Users/Niall/Levels/LevelOne' took 0.846
+[2019.05.21-12.11.14:371][  6]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.846
+[2019.05.21-12.11.18:210][ 59]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\b017403g\Downloads\New_Graph_height.png)
+[2019.05.21-12.11.18:403][ 59]LogTexture: Display: Building textures: New_Graph_height (AutoDXT, 2048X2048)
+[2019.05.21-12.11.18:753][ 59]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\b017403g\Downloads\New_Graph_metallic.png)
+[2019.05.21-12.11.18:924][ 59]LogTexture: Display: Building textures: New_Graph_metallic (AutoDXT, 2048X2048)
+[2019.05.21-12.11.19:565][ 59]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\b017403g\Downloads\New_Graph_normal.png)
+[2019.05.21-12.11.19:962][ 59]LogTexture: Display: Building textures: New_Graph_normal (BC5, 2048X2048)
+[2019.05.21-12.11.20:285][ 59]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\b017403g\Downloads\New_Graph_roughness.png)
+[2019.05.21-12.11.20:428][ 59]LogTexture: Display: Building textures: New_Graph_roughness (AutoDXT, 2048X2048)
+[2019.05.21-12.11.21:255][ 59]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\b017403g\Downloads\New_Graph_basecolor.png)
+[2019.05.21-12.11.21:440][ 59]LogTexture: Display: Building textures: New_Graph_basecolor (AutoDXT, 2048X2048)
+[2019.05.21-12.11.30:839][332]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.895 s
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: 
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h] [Line: 119]
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: Stack: 
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd42071f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd3f40c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd3f5b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbef5753fc UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbef4cbd3a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbcfa03dd2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbcf4c448b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbb64c62e1 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbb543a9c7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbb540d35c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbb545d8e4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbb537a23d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbb535dcb9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0e764b2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0e49619 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0e56a2e UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0c693b0 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0c69c36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0c4a3fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0bc8295 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0c5ffe2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0c477ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd0c3abba UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbfbcfd26f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbfbcf0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbfbcff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbfbcec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffc2b4b6d41 USER32.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffc2b4b6713 USER32.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbfbd00646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ffbd2521048 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ff62ee340b1 UE4Editor.exe!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ff62ee45b3c UE4Editor.exe!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ff62ee45bba UE4Editor.exe!UnknownFunction []
+[2019.05.21-12.11.30:839][332]LogOutputDevice: Error: [Callstack] 0x00007ff62ee53dac UE4Editor.exe!UnknownFunction []
+[2019.05.21-12.11.30:840][332]LogOutputDevice: Error: [Callstack] 0x00007ff62ee55aaa UE4Editor.exe!UnknownFunction []
+[2019.05.21-12.11.30:840][332]LogOutputDevice: Error: [Callstack] 0x00007ffc2d674034 KERNEL32.DLL!UnknownFunction []
+[2019.05.21-12.11.30:840][332]LogOutputDevice: Error: [Callstack] 0x00007ffc2d9d3691 ntdll.dll!UnknownFunction []
+[2019.05.21-12.11.30:840][332]LogOutputDevice: Error: 
+[2019.05.21-12.11.30:840][332]LogStats:                SubmitErrorReport -  0.000 s
