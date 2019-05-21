@@ -1,0 +1,1266 @@
+﻿Log file open, 05/21/19 16:24:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.326131
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.281s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.019s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.21-15.24.02:299][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.21-15.24.02:299][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.21-15.24.02:314][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.21-15.24.02:314][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.21-15.24.02:314][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.21-15.24.02:315][  0]LogInit: Computer: A07-07
+[2019.05.21-15.24.02:315][  0]LogInit: User: b017403g
+[2019.05.21-15.24.02:315][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.21-15.24.02:315][  0]LogInit: High frequency timer resolution =3.410081 MHz
+[2019.05.21-15.24.02:315][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.21-15.24.02:315][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.21-15.24.02:315][  0]LogMemory: Process Physical Memory: 101.88 MB used, 101.88 MB peak
+[2019.05.21-15.24.02:315][  0]LogMemory: Process Virtual Memory: 87.36 MB used, 87.36 MB peak
+[2019.05.21-15.24.02:315][  0]LogMemory: Physical Memory: 4183.00 MB used,  12117.48 MB free, 16300.48 MB total
+[2019.05.21-15.24.02:315][  0]LogMemory: Virtual Memory: 4636.89 MB used,  12117.48 MB free, 134217728.00 MB total
+[2019.05.21-15.24.02:350][  0]LogInit: Using OS detected language (en-US).
+[2019.05.21-15.24.02:350][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.21-15.24.02:351][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.21-15.24.02:713][  0]LogStreaming: Display: Took  0.365s to InitEngineTextLocalization.
+[2019.05.21-15.24.02:714][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.21-15.24.02:774][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.21-15.24.02:774][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.21-15.24.03:107][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.21-15.24.03:107][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.21-15.24.03:190][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.05.21-15.24.03:190][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.21-15.24.03:192][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.21-15.24.03:192][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.21-15.24.03:192][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.21-15.24.03:201][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.21-15.24.03:201][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.21-15.24.03:201][  0]LogWindows: EnumDisplayDevices:
+[2019.05.21-15.24.03:201][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.05.21-15.24.03:202][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.05.21-15.24.03:202][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.21-15.24.03:202][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.21-15.24.03:202][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.21-15.24.03:203][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.05.21-15.24.03:203][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.05.21-15.24.03:203][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.05.21-15.24.03:203][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.05.21-15.24.03:249][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.21-15.24.03:267][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.21-15.24.03:353][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/352/).
+[2019.05.21-15.24.03:353][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/b017403g/AppData/Local/Temp/UnrealShaderWorkingDir/7C19ACCC403677ACC8DE88AE5238BBA6/'.
+[2019.05.21-15.24.03:721][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.21-15.24.03:738][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.21-15.24.03:767][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.21-15.24.03:799][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.21-15.24.03:821][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.21-15.24.03:848][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.21-15.24.03:883][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.21-15.24.03:914][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.21-15.24.03:924][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:075][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.21-15.24.04:078][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.21-15.24.04:157][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.21-15.24.04:157][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.21-15.24.04:185][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.21-15.24.04:185][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.21-15.24.04:201][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.21-15.24.04:216][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.21-15.24.04:231][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.21-15.24.04:247][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.21-15.24.04:258][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.21-15.24.04:258][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.21-15.24.04:371][  0]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.21-15.24.04:372][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.21-15.24.04:372][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.21-15.24.04:372][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.21-15.24.05:516][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.21-15.24.05:614][  0]LogDerivedDataCache: Loaded boot cache 0.10s 72MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.21-15.24.05:615][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.21-15.24.05:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.21-15.24.05:616][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.21-15.24.05:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.21-15.24.05:616][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.21-15.24.05:632][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.21-15.24.05:645][  0]LogDerivedDataCache: Using Local data cache path C:/Users/b017403g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.21-15.24.05:645][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.21-15.24.05:645][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.21-15.24.05:665][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.21-15.24.05:666][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.21-15.24.05:667][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.21-15.24.05:755][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2019.05.21-15.24.06:225][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.21-15.24.06:396][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.21-15.24.06:402][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.21-15.24.06:402][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.21-15.24.06:402][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.21-15.24.06:402][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.21-15.24.06:421][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.21-15.24.07:117][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.183615 seconds
+[2019.05.21-15.24.07:125][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.21-15.24.07:125][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.21-15.24.07:125][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.21-15.24.08:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.21-15.24.08:156][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.21-15.24.08:359][  0]SourceControl: Source control is disabled
+[2019.05.21-15.24.08:359][  0]SourceControl: Source control is disabled
+[2019.05.21-15.24.08:362][  0]SourceControl: Source control is disabled
+[2019.05.21-15.24.08:364][  0]SourceControl: Source control is disabled
+[2019.05.21-15.24.08:584][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.21-15.24.08:654][  0]LogOcInput: OculusInput pre-init called
+[2019.05.21-15.24.08:722][  0]LogEngine: Initializing Engine...
+[2019.05.21-15.24.08:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.21-15.24.08:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.21-15.24.08:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.21-15.24.08:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.21-15.24.08:725][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.21-15.24.09:038][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.21-15.24.09:074][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.21-15.24.09:089][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.24.09:137][  0]LogInit: FAudioDevice initialized.
+[2019.05.21-15.24.09:138][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.21-15.24.09:259][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.21-15.24.09:333][  0]LogInit: Texture streaming: Enabled
+[2019.05.21-15.24.09:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.21-15.24.09:361][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={09DDE0B6-4B8E-1EBD-4112-5AB920840C86}
+[2019.05.21-15.24.09:382][  0]LogInit: Transaction tracking system initialized
+[2019.05.21-15.24.09:420][  0]BlueprintLog: New page: Editor Load
+[2019.05.21-15.24.09:546][  0]LocalizationService: Localization service is disabled
+[2019.05.21-15.24.09:911][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.21-15.24.09:911][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.21-15.24.09:911][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.21-15.24.09:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.21-15.24.09:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.21-15.24.09:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.21-15.24.09:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.21-15.24.10:026][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.05s
+[2019.05.21-15.24.10:086][  0]SourceControl: Source control is disabled
+[2019.05.21-15.24.10:210][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.24.10:212][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.21-15.24.16:419][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.05.21-15.24.16:420][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.24.16:422][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.24.18:167][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.05.21-15.24.18:167][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.24.18:170][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.21-15.24.18:202][  0]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.21-15.24.18:203][  0]LightingResults: New page: Lighting Build
+[2019.05.21-15.24.18:209][  0]MapCheck: New page: Map Check
+[2019.05.21-15.24.18:209][  0]LightingResults: New page: Lighting Build
+[2019.05.21-15.24.21:744][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.21-15.24.21:785][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.21-15.24.21:832][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.21-15.24.22:196][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 362.935ms to complete.
+[2019.05.21-15.24.22:196][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.994
+[2019.05.21-15.24.22:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.24.22:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.24.22:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.24.22:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.24.22:322][  0]LogCollectionManager: Loaded 0 collections in 0.003330 seconds
+[2019.05.21-15.24.22:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.21-15.24.22:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/b017403g/Collections/' took 0.01s
+[2019.05.21-15.24.22:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.21-15.24.22:391][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.21-15.24.22:410][  0]LogContentBrowser: Native class hierarchy populated in 0.0187 seconds. Added 2572 classes and 603 folders.
+[2019.05.21-15.24.22:423][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.21-15.24.22:531][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.21-15.24.22:540][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.21-15.24.22:680][  0]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.21-15.24.22:689][  0]LogSlate: Took 0.000684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.21-15.24.22:768][  0]LogRenderer: Reallocating scene render targets to support 1164x584 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-15.24.22:985][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.21-15.24.22:986][  0]LogLoad: (Engine Initialization) Total time: 23.96 seconds
+[2019.05.21-15.24.22:986][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.21-15.24.23:024][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.21-15.24.23:067][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.21-15.24.23:259][  2]LogAssetRegistry: Asset discovery search completed in 17.5274 seconds
+[2019.05.21-15.24.23:261][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.21-15.24.23:261][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.05.21-15.24.24:040][ 78]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.21-15.24.25:926][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.24.29:836][618]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.24.29:874][618]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.21-15.24.29:906][618]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.21-15.24.29:906][618]LightingResults: New page: Lighting Build
+[2019.05.21-15.24.29:906][618]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.21-15.24.29:908][618]MapCheck: New page: Map Check
+[2019.05.21-15.24.29:908][618]LightingResults: New page: Lighting Build
+[2019.05.21-15.24.30:122][618]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.21-15.24.30:226][618]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.21-15.24.30:681][618]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 455.396ms to complete.
+[2019.05.21-15.24.30:683][618]LogFileHelpers: Loading map 'LevelOne' took 0.778
+[2019.05.21-15.24.34:324][980]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.05.21-15.24.36:470][195]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.21-15.24.38:082][384]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.21-15.24.38:952][485]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.21-15.24.40:417][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.24.40:475][665]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.24.40:506][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.24.40:518][665]PIE: New page: PIE session: LevelOne (21 May 2019 17:24:40)
+[2019.05.21-15.24.40:519][665]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.24.40:567][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047257s)
+[2019.05.21-15.24.40:567][665]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.24.40:568][665]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2019.05.21-15.24.40:568][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.048570s)
+[2019.05.21-15.24.40:596][665]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.24.40:610][665]LogInit: FAudioDevice initialized.
+[2019.05.21-15.24.40:656][665]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.24.40:683][665]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.24.40
+[2019.05.21-15.24.40:685][665]LogWorld: Bringing up level for play took: 0.026302
+[2019.05.21-15.24.40:698][665]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.24.40:712][665]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.05.21-15.24.40:716][665]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.24.40:716][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.24.40:716][665]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.24.40:717][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.24.40:717][665]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.24.40:721][665]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.791
+[2019.05.21-15.24.50:399][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.24.50:441][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.24.50:474][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.24.50:511][813]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.05.21-15.24.53:363][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.24.57:293][604]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Weapons/TaserNew.TaserNew
+[2019.05.21-15.24.57:841][604]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.05.21-15.24.58:820][604]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.21-15.24.59:033][605]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.21-15.25.11:019][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.25.11:051][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.25.11:051][400]PIE: New page: PIE session: LevelOne (21 May 2019 17:25:11)
+[2019.05.21-15.25.11:051][400]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.25.11:100][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049237s)
+[2019.05.21-15.25.11:100][400]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.25.11:100][400]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2019.05.21-15.25.11:101][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.050146s)
+[2019.05.21-15.25.11:150][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.25.11:165][400]LogInit: FAudioDevice initialized.
+[2019.05.21-15.25.11:198][400]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.25.11:211][400]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.25.11
+[2019.05.21-15.25.11:212][400]LogWorld: Bringing up level for play took: 0.013937
+[2019.05.21-15.25.11:226][400]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.25.11:233][400]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.25.11:233][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.25.11:233][400]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.25.11:234][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.25.11:234][400]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.25.11:240][400]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.69
+[2019.05.21-15.25.18:892][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.25.18:952][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.25.18:991][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.25.19:163][979]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.21-15.25.21:227][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.25.22:911][248]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Users/Adam/Unreal_Test.Unreal_Test
+[2019.05.21-15.25.22:919][248]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.21-15.25.23:165][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.25.23:169][248]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.21-15.25.23:625][248]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP.CharacterBP_C:ExecuteUbergraph_CharacterBP:00A8
+[2019.05.21-15.25.23:746][248]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.05.21-15.25.23:785][249]LogRenderer: Reallocating scene render targets to support 1164x888 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-15.25.25:087][314]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Users/Adam/Unreal_Test_Skeleton.Unreal_Test_Skeleton
+[2019.05.21-15.25.25:099][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.25.28:771][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.25.33:167][887]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_Skeleton4779DBF744EBD2303314EDB48221CB27.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.25.37:288][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.25.37:526][199]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP.CharacterBP_C:ExecuteUbergraph_CharacterBP:00A8
+[2019.05.21-15.25.47:414][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.25.51:279][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.26.24:644][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.26.24:764][595]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_Skeleton5A37F53247375D27AAE295A60E0D691D.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.26.30:780][  5]LogEditorViewport: Clicking on Actor (LMB): TaserNew_C (Taser)
+[2019.05.21-15.26.36:269][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.26.40:861][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.26.40:874][755]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.26.40:905][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.26.40:905][755]PIE: New page: PIE session: LevelOne (21 May 2019 17:26:40)
+[2019.05.21-15.26.40:906][755]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.26.40:968][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062597s)
+[2019.05.21-15.26.40:970][755]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.26.40:970][755]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2019.05.21-15.26.40:970][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.064513s)
+[2019.05.21-15.26.41:025][755]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.26.41:040][755]LogInit: FAudioDevice initialized.
+[2019.05.21-15.26.41:070][755]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.26.41:087][755]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.26.41
+[2019.05.21-15.26.41:089][755]LogWorld: Bringing up level for play took: 0.018072
+[2019.05.21-15.26.41:101][755]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.26.41:104][755]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.26.41:104][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.26.41:105][755]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.26.41:105][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.26.41:105][755]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.26.41:107][755]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 1.177
+[2019.05.21-15.26.52:330][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.26.52:382][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.26.52:429][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.26.52:606][773]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.21-15.26.53:410][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.27.00:607][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.27.00:738][405]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_Skeleton98F822A64E0891BAE15E269C629B4C17.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.27.01:712][491]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.27.01:744][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.27.01:744][491]PIE: New page: PIE session: LevelOne (21 May 2019 17:27:01)
+[2019.05.21-15.27.01:745][491]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.27.01:802][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057539s)
+[2019.05.21-15.27.01:803][491]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.27.01:803][491]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2019.05.21-15.27.01:803][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.058485s)
+[2019.05.21-15.27.01:847][491]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.27.01:862][491]LogInit: FAudioDevice initialized.
+[2019.05.21-15.27.01:895][491]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.27.01:910][491]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.27.01
+[2019.05.21-15.27.01:911][491]LogWorld: Bringing up level for play took: 0.015520
+[2019.05.21-15.27.01:923][491]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.27.01:926][491]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.27.01:926][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.27.01:926][491]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.27.01:926][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.27.01:927][491]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.27.01:929][491]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.002
+[2019.05.21-15.27.08:768][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.08:822][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.27.08:862][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.08:903][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.21-15.27.09:873][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.27.14:699][560]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.27.15:187][560]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNew64B9F4B84DCD546DD2A1E28C683850CB.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.27.16:050][619]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.27.16:097][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.27.16:097][619]PIE: New page: PIE session: LevelOne (21 May 2019 17:27:16)
+[2019.05.21-15.27.16:097][619]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.27.16:135][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037922s)
+[2019.05.21-15.27.16:136][619]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.27.16:136][619]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.05.21-15.27.16:136][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.038789s)
+[2019.05.21-15.27.16:179][619]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.27.16:193][619]LogInit: FAudioDevice initialized.
+[2019.05.21-15.27.16:223][619]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.27.16:250][619]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.27.16
+[2019.05.21-15.27.16:253][619]LogWorld: Bringing up level for play took: 0.028642
+[2019.05.21-15.27.16:265][619]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.27.16:268][619]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.27.16:268][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.27.16:268][619]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.27.16:269][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.27.16:269][619]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.27.16:271][619]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.341
+[2019.05.21-15.27.25:530][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.25:583][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.27.25:623][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.25:795][538]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.21-15.27.27:007][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.27.35:155][388]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.27.35:653][388]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNewFFDCD45345052E222B1034ABC2B6010D.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.27.36:159][414]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.27.36:206][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.27.36:206][414]PIE: New page: PIE session: LevelOne (21 May 2019 17:27:36)
+[2019.05.21-15.27.36:206][414]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.27.36:246][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039338s)
+[2019.05.21-15.27.36:246][414]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.27.36:246][414]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2019.05.21-15.27.36:247][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040151s)
+[2019.05.21-15.27.36:291][414]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.27.36:304][414]LogInit: FAudioDevice initialized.
+[2019.05.21-15.27.36:340][414]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.27.36:353][414]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.27.36
+[2019.05.21-15.27.36:355][414]LogWorld: Bringing up level for play took: 0.014055
+[2019.05.21-15.27.36:367][414]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.27.36:370][414]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.27.36:370][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.27.36:370][414]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.27.36:370][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.27.36:371][414]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.27.36:373][414]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.443
+[2019.05.21-15.27.41:440][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.41:493][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.27.41:533][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.41:710][899]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.21-15.27.42:814][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.27.45:318][217]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.27.45:714][217]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNew23D23B914083C80DB5E3A38AE004B730.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.27.46:334][255]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.27.46:381][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.27.46:381][255]PIE: New page: PIE session: LevelOne (21 May 2019 17:27:46)
+[2019.05.21-15.27.46:381][255]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.27.46:421][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039714s)
+[2019.05.21-15.27.46:422][255]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.27.46:422][255]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2019.05.21-15.27.46:422][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040537s)
+[2019.05.21-15.27.46:471][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.27.46:484][255]LogInit: FAudioDevice initialized.
+[2019.05.21-15.27.46:515][255]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.27.46:529][255]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.27.46
+[2019.05.21-15.27.46:530][255]LogWorld: Bringing up level for play took: 0.014076
+[2019.05.21-15.27.46:544][255]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.27.46:547][255]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.27.46:547][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.27.46:547][255]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.27.46:548][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.27.46:548][255]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.27.46:551][255]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.62
+[2019.05.21-15.27.52:180][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.52:235][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.27.52:282][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.27.52:458][787]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.21-15.27.53:041][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.27.53:075][835]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.27.53:107][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.27.53:107][835]PIE: New page: PIE session: LevelOne (21 May 2019 17:27:53)
+[2019.05.21-15.27.53:107][835]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.27.53:157][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049348s)
+[2019.05.21-15.27.53:157][835]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.27.53:157][835]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2019.05.21-15.27.53:158][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.050220s)
+[2019.05.21-15.27.53:198][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.27.53:211][835]LogInit: FAudioDevice initialized.
+[2019.05.21-15.27.53:241][835]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.27.53:255][835]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.27.53
+[2019.05.21-15.27.53:256][835]LogWorld: Bringing up level for play took: 0.014284
+[2019.05.21-15.27.53:269][835]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.27.53:272][835]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.27.53:272][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.27.53:272][835]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.27.53:272][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.27.53:273][835]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.27.53:275][835]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.656
+[2019.05.21-15.28.04:491][957]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-15.28.05:091][ 18]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-15.28.05:483][ 58]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-15.28.05:946][105]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-15.28.14:526][983]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-15.28.15:255][ 59]LogBlueprintUserMessages: [Thwack_2] thwackk
+[2019.05.21-15.28.28:027][412]LogBlueprintUserMessages: [vendingMAchine_2] booop
+[2019.05.21-15.28.28:832][497]LogBlueprintUserMessages: [vendingMAchine_2] booop
+[2019.05.21-15.28.29:770][596]LogBlueprintUserMessages: [vendingMAchine2] booop
+[2019.05.21-15.28.30:581][681]LogBlueprintUserMessages: [vendingMAchine2] booop
+[2019.05.21-15.28.31:515][778]LogBlueprintUserMessages: [vendingMAchine3] booop
+[2019.05.21-15.28.32:329][863]LogBlueprintUserMessages: [vendingMAchine3] booop
+[2019.05.21-15.28.34:909][135]LogBlueprintUserMessages: [vendingMAchine3] booop
+[2019.05.21-15.28.35:043][147]LogBlueprintUserMessages: [vendingMAchine3] booop
+[2019.05.21-15.28.35:978][244]LogBlueprintUserMessages: [vendingMAchine2] booop
+[2019.05.21-15.28.36:794][329]LogBlueprintUserMessages: [vendingMAchine2] booop
+[2019.05.21-15.28.37:727][427]LogBlueprintUserMessages: [vendingMAchine_2] booop
+[2019.05.21-15.28.38:548][513]LogBlueprintUserMessages: [vendingMAchine_2] booop
+[2019.05.21-15.28.41:656][837]LogBlueprintUserMessages: [DescentGameInstance_C_7] Coins: 3
+[2019.05.21-15.28.43:688][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.28.43:742][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.28.43:804][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.28.43:977][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.21-15.29.04:533][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.29.14:754][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.29.50:366][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.29.50:493][807]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_SkeletonC29A95A643BB116D9ED47D840851E5D5.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.29.53:487][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.29.53:538][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.29.53:569][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.29.53:569][ 95]PIE: New page: PIE session: LevelOne (21 May 2019 17:29:53)
+[2019.05.21-15.29.53:570][ 95]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.29.53:616][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046338s)
+[2019.05.21-15.29.53:617][ 95]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.29.53:617][ 95]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2019.05.21-15.29.53:617][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.047164s)
+[2019.05.21-15.29.53:654][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.29.53:669][ 95]LogInit: FAudioDevice initialized.
+[2019.05.21-15.29.53:697][ 95]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.29.53:711][ 95]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.29.53
+[2019.05.21-15.29.53:712][ 95]LogWorld: Bringing up level for play took: 0.014212
+[2019.05.21-15.29.53:724][ 95]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.29.53:727][ 95]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.29.53:727][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.29.53:727][ 95]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.29.53:727][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.29.53:728][ 95]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.29.53:730][ 95]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.201
+[2019.05.21-15.29.59:946][694]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-15.30.04:442][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.30.04:495][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.30.04:530][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.30.04:571][149]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.21-15.30.08:283][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.30.10:138][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.30.30:144][486]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Users/Niall/LevelArt/Meshes/ConcreteWall_45.ConcreteWall_45
+[2019.05.21-15.30.30:600][487]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-15.30.56:369][908]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.30.56:400][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.30.56:400][908]PIE: New page: PIE session: LevelOne (21 May 2019 17:30:56)
+[2019.05.21-15.30.56:401][908]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.30.56:448][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047050s)
+[2019.05.21-15.30.56:448][908]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.30.56:448][908]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2019.05.21-15.30.56:449][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.047917s)
+[2019.05.21-15.30.56:481][908]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.30.56:495][908]LogInit: FAudioDevice initialized.
+[2019.05.21-15.30.56:527][908]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.30.56:541][908]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.30.56
+[2019.05.21-15.30.56:542][908]LogWorld: Bringing up level for play took: 0.014279
+[2019.05.21-15.30.56:554][908]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.30.56:557][908]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.30.56:557][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.30.56:557][908]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.30.56:557][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.30.56:558][908]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.21-15.30.56:558][908]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.30.56:560][908]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.629
+[2019.05.21-15.31.06:041][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.31.14:753][558]EditorErrors: New page: Socket Clicked
+[2019.05.21-15.31.16:802][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.31.16:855][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.31.16:914][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.31.17:124][752]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.21-15.31.19:112][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.31.28:628][555]LogEditorViewport: Clicking on Actor (LMB): TaserNew_C (Taser)
+[2019.05.21-15.31.30:147][664]EditorErrors: New page: Socket Clicked
+[2019.05.21-15.31.30:664][703]EditorErrors: New page: Socket Clicked
+[2019.05.21-15.31.31:046][731]EditorErrors: New page: Socket Clicked
+[2019.05.21-15.31.39:810][960]LogEditorViewport: Clicking on Actor (context menu): TaserNew_C (Taser)
+[2019.05.21-15.31.39:864][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.32.20:880][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.32.20:933][736]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.32.20:965][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.32.20:965][736]PIE: New page: PIE session: LevelOne (21 May 2019 17:32:20)
+[2019.05.21-15.32.20:965][736]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.32.21:014][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048590s)
+[2019.05.21-15.32.21:015][736]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.32.21:015][736]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.05.21-15.32.21:015][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.049450s)
+[2019.05.21-15.32.21:068][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.32.21:081][736]LogInit: FAudioDevice initialized.
+[2019.05.21-15.32.21:109][736]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.32.21:124][736]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.32.21
+[2019.05.21-15.32.21:126][736]LogWorld: Bringing up level for play took: 0.016575
+[2019.05.21-15.32.21:138][736]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.32.21:140][736]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.32.21:140][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.32.21:140][736]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.32.21:140][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.32.21:140][736]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.21-15.32.21:140][736]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.32.21:143][736]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.787
+[2019.05.21-15.32.28:694][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.32.28:750][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.32.28:801][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.32.28:985][346]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.21-15.32.30:443][443]LogEditorViewport: Clicking on Actor (LMB): NewDrSkeng_USE_C (NewDrSkeng_USE)
+[2019.05.21-15.32.31:479][511]Cmd: DELETE
+[2019.05.21-15.32.31:479][511]Cmd: ACTOR DELETE
+[2019.05.21-15.32.31:493][511]LogEditorActor: Deleted Actor: NewDrSkeng_USE_C
+[2019.05.21-15.32.31:564][511]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2019.05.21-15.32.44:238][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.33.01:949][204]LogEditorViewport: Clicking on Actor (LMB): TaserNew_C (Taser)
+[2019.05.21-15.33.05:812][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.33.13:744][131]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Users/Tom/Taser/Taser.Taser
+[2019.05.21-15.33.23:959][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.33.46:582][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Tom/Taser/Taser" FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Tom/Taser/Taser.uasset" SILENT=true
+[2019.05.21-15.33.46:657][955]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Taser3B20ACE74B203FD5183898BF1BB58158.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Tom/Taser/Taser.uasset'
+[2019.05.21-15.33.47:373][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.33.58:640][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.34.01:360][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.34.07:347][652]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP.CharacterBP_C:ExecuteUbergraph_CharacterBP:00A8
+[2019.05.21-15.34.34:991][824]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_SkeletonA9D290FA44C1D285BCDB349502FED7DC.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.34.35:716][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.34.53:376][323]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.34.53:830][323]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNewEF01D1504520CBB50F373CAB9C59B32B.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.34.54:896][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.34.54:936][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.34.54:979][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.34.54:980][382]PIE: New page: PIE session: LevelOne (21 May 2019 17:34:54)
+[2019.05.21-15.34.54:980][382]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.34.55:020][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039517s)
+[2019.05.21-15.34.55:020][382]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.34.55:020][382]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2019.05.21-15.34.55:021][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040356s)
+[2019.05.21-15.34.55:063][382]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.34.55:078][382]LogInit: FAudioDevice initialized.
+[2019.05.21-15.34.55:115][382]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.34.55:131][382]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.34.55
+[2019.05.21-15.34.55:132][382]LogWorld: Bringing up level for play took: 0.015269
+[2019.05.21-15.34.55:144][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.34.55:147][382]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.34.55:147][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.34.55:148][382]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.34.55:148][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.34.55:148][382]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.34.55:150][382]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.781
+[2019.05.21-15.35.08:210][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.35.21:568][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.35.21:621][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.35.21:671][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.35.21:844][873]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.21-15.35.22:838][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.35.57:974][443]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP.CharacterBP_C:ExecuteUbergraph_CharacterBP:00A8
+[2019.05.21-15.36.01:381][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.36.07:795][265]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.36.08:217][265]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNew30292984490616B8ED984AB312AD7444.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.36.09:544][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.36.09:595][370]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.36.09:642][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.36.09:642][370]PIE: New page: PIE session: LevelOne (21 May 2019 17:36:09)
+[2019.05.21-15.36.09:643][370]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.36.09:687][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043927s)
+[2019.05.21-15.36.09:688][370]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.36.09:688][370]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2019.05.21-15.36.09:688][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.045527s)
+[2019.05.21-15.36.09:733][370]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.36.09:747][370]LogInit: FAudioDevice initialized.
+[2019.05.21-15.36.09:782][370]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.36.09:807][370]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.36.09
+[2019.05.21-15.36.09:808][370]LogWorld: Bringing up level for play took: 0.025285
+[2019.05.21-15.36.09:821][370]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.36.09:824][370]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.36.09:824][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.36.09:824][370]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.36.09:825][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.36.09:825][370]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.36.09:827][370]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.104
+[2019.05.21-15.36.22:286][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.36.22:337][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.36.22:371][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.36.22:540][515]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.21-15.36.23:861][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.36.35:561][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.36.35:681][625]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_Skeleton44FEB98D4BA68F3CF41299BDCB8580A1.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.36.36:553][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.36.36:578][699]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.36.36:619][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.36.36:619][699]PIE: New page: PIE session: LevelOne (21 May 2019 17:36:36)
+[2019.05.21-15.36.36:619][699]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.36.36:669][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049484s)
+[2019.05.21-15.36.36:670][699]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.36.36:670][699]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2019.05.21-15.36.36:670][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.050480s)
+[2019.05.21-15.36.36:711][699]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.36.36:730][699]LogInit: FAudioDevice initialized.
+[2019.05.21-15.36.36:769][699]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.36.36:801][699]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.36.36
+[2019.05.21-15.36.36:802][699]LogWorld: Bringing up level for play took: 0.032156
+[2019.05.21-15.36.36:814][699]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.36.36:817][699]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.36.36:817][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.36.36:818][699]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.36.36:818][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.36.36:818][699]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.36.36:820][699]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.889
+[2019.05.21-15.36.42:809][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.36.42:860][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.36.42:893][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.36.42:936][165]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.21-15.36.44:658][297]Cmd: TRANSACTION UNDO
+[2019.05.21-15.36.44:658][297]LogEditorTransaction: Undo Rotate Bone
+[2019.05.21-15.36.44:866][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.36.44:867][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.37.42:134][476]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne_Auto1A18A16B941AF89E38FCB7FBFC184C3F6.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Niall/Levels/LevelOne_Auto1.umap'
+[2019.05.21-15.37.42:142][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Users/Niall/Levels/LevelOne' took 0.777
+[2019.05.21-15.37.42:142][476]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.777
+[2019.05.21-15.37.42:145][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Users/Adam/Unreal_Test] ([1] browsable assets)...
+[2019.05.21-15.37.42:176][476]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Users/Adam/Unreal_Test.Unreal_Test]
+[2019.05.21-15.37.42:177][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Users/Adam/Unreal_Test]
+[2019.05.21-15.37.42:251][476]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_Auto1411E9A664FCB2A0D6258F2869711E637.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Autosaves/Game/Users/Adam/Unreal_Test_Auto1.uasset'
+[2019.05.21-15.37.42:253][476]LogFileHelpers: Auto-saving content packages took 0.110
+[2019.05.21-15.38.32:627][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.38.43:427][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.38.56:263][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.38.59:880][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.39.00:023][236]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_SkeletonE97598524CBF42EC9C423A8DE44A9B46.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.39.01:176][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.39.01:222][330]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.39.01:253][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.39.01:253][330]PIE: New page: PIE session: LevelOne (21 May 2019 17:39:01)
+[2019.05.21-15.39.01:253][330]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.39.01:293][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039249s)
+[2019.05.21-15.39.01:293][330]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.39.01:294][330]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2019.05.21-15.39.01:294][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040147s)
+[2019.05.21-15.39.01:330][330]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.39.01:344][330]LogInit: FAudioDevice initialized.
+[2019.05.21-15.39.01:376][330]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.39.01:402][330]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.39.01
+[2019.05.21-15.39.01:404][330]LogWorld: Bringing up level for play took: 0.026825
+[2019.05.21-15.39.01:416][330]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.39.01:419][330]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.39.01:419][330]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.39.01:419][330]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.39.01:420][330]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.39.01:420][330]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.39.01:422][330]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.509
+[2019.05.21-15.39.07:482][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.39.07:526][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.39.07:568][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.39.07:610][800]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.21-15.39.15:276][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.39.15:333][444]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Users/Josh/Animations/CharacterAnimations/CharacterBS.CharacterBS
+[2019.05.21-15.39.15:346][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.39.15:816][444]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.21-15.39.26:193][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.39.32:160][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.39.54:738][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.39.54:794][524]Cmd: MODE ROTGRID=0
+[2019.05.21-15.39.58:439][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.39.58:552][791]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_SkeletonF4D12B3C4B3D09C76739558072B5AD39.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.39.59:357][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.40.05:673][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.40.08:665][651]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.40.08:699][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.40.08:699][651]PIE: New page: PIE session: LevelOne (21 May 2019 17:40:08)
+[2019.05.21-15.40.08:699][651]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.40.08:748][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048666s)
+[2019.05.21-15.40.08:749][651]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.40.08:749][651]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.05.21-15.40.08:749][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.049578s)
+[2019.05.21-15.40.08:783][651]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.40.08:797][651]LogInit: FAudioDevice initialized.
+[2019.05.21-15.40.08:829][651]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.40.08:842][651]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.40.08
+[2019.05.21-15.40.08:843][651]LogWorld: Bringing up level for play took: 0.014179
+[2019.05.21-15.40.08:855][651]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.40.08:858][651]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.40.08:858][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.40.08:858][651]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.40.08:858][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.40.08:859][651]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.40.08:861][651]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.93
+[2019.05.21-15.40.18:323][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.40.18:377][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.40.18:414][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.40.18:582][511]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.05.21-15.40.21:089][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.40.29:419][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.41.30:298][260]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_SkeletonFC9A3C7744C6AA446FFC20B408C8D178.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.41.31:572][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.41.44:598][392]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Unreal_Test_SkeletonD3CE551C4D23E54D07932FB2E187A0EB.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Unreal_Test_Skeleton.uasset'
+[2019.05.21-15.41.46:024][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.41.46:075][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.41.46:107][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.41.46:107][509]PIE: New page: PIE session: LevelOne (21 May 2019 17:41:46)
+[2019.05.21-15.41.46:108][509]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.41.46:150][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041870s)
+[2019.05.21-15.41.46:150][509]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.41.46:151][509]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2019.05.21-15.41.46:151][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.042721s)
+[2019.05.21-15.41.46:184][509]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.41.46:197][509]LogInit: FAudioDevice initialized.
+[2019.05.21-15.41.46:229][509]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.41.46:256][509]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.41.46
+[2019.05.21-15.41.46:258][509]LogWorld: Bringing up level for play took: 0.027698
+[2019.05.21-15.41.46:270][509]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.41.46:273][509]LogScript: Warning: Accessed None trying to read property TriggerBox
+	BP_OBJ_FindWife_Tag_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.BP_OBJ_FindWife_Tag_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/Tags/MainObjectives/BP_OBJ_FindWife_Tag.BP_OBJ_FindWife_Tag_C:ExecuteUbergraph_BP_OBJ_FindWife_Tag:01F5
+[2019.05.21-15.41.46:273][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.41.46:273][509]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:002B
+[2019.05.21-15.41.46:273][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.41.46:274][509]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.41.46:276][509]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.345
+[2019.05.21-15.41.52:726][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.41.52:784][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.41.52:816][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.41.52:859][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.21-15.41.54:626][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.41.58:287][456]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.41.58:717][456]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNew355E84A74D406731EAFBCEB636CACEBA.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.41.59:079][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.41.59:123][467]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.41.59:175][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.41.59:175][467]PIE: New page: PIE session: LevelOne (21 May 2019 17:41:59)
+[2019.05.21-15.41.59:176][467]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.41.59:225][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048911s)
+[2019.05.21-15.41.59:225][467]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.41.59:226][467]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.05.21-15.41.59:226][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.049820s)
+[2019.05.21-15.41.59:262][467]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.41.59:276][467]LogInit: FAudioDevice initialized.
+[2019.05.21-15.41.59:311][467]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.41.59:326][467]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.41.59
+[2019.05.21-15.41.59:327][467]LogWorld: Bringing up level for play took: 0.015604
+[2019.05.21-15.41.59:339][467]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.41.59:342][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.41.59:343][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.41.59:343][467]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.41.59:345][467]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.586
+[2019.05.21-15.42.05:400][980]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-15.42.11:541][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.42.11:601][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.42.11:637][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.42.11:813][563]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.05.21-15.42.12:332][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.44.17:203][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.44.17:262][102]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.44.17:302][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.44.17:302][102]PIE: New page: PIE session: LevelOne (21 May 2019 17:44:17)
+[2019.05.21-15.44.17:303][102]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.44.17:346][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043121s)
+[2019.05.21-15.44.17:347][102]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.44.17:347][102]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2019.05.21-15.44.17:347][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.044081s)
+[2019.05.21-15.44.17:383][102]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.44.17:397][102]LogInit: FAudioDevice initialized.
+[2019.05.21-15.44.17:426][102]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.44.17:457][102]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.44.17
+[2019.05.21-15.44.17:458][102]LogWorld: Bringing up level for play took: 0.031685
+[2019.05.21-15.44.17:471][102]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.44.17:474][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.44.17:475][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.44.17:475][102]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.44.17:477][102]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.454
+[2019.05.21-15.44.19:755][290]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.21-15.44.19:755][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.21-15.44.19:755][290]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 500.0
+[2019.05.21-15.44.19:978][309]LogCharacterMovement: NewDrSkeng_USE_C_0 is stuck and failed to move! Velocity: X=40.54 Y=-498.35 Z=0.00 Location: X=-1230.52 Y=9605.86 Z=50.79 Normal: X=0.00 Y=0.29 Z=0.96 PenetrationDepth:0.000 Actor:None Component:ModelComponent_303 BoneName:None (0 other events since notify)
+[2019.05.21-15.44.20:853][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.44.20:908][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.44.20:940][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.44.20:985][383]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.05.21-15.44.21:710][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.44.21:776][443]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.44.21:808][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.44.21:808][443]PIE: New page: PIE session: LevelOne (21 May 2019 17:44:21)
+[2019.05.21-15.44.21:809][443]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.44.21:848][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039107s)
+[2019.05.21-15.44.21:848][443]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.44.21:849][443]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.05.21-15.44.21:849][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.039958s)
+[2019.05.21-15.44.21:881][443]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.44.21:894][443]LogInit: FAudioDevice initialized.
+[2019.05.21-15.44.21:923][443]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.44.21:937][443]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.44.21
+[2019.05.21-15.44.21:938][443]LogWorld: Bringing up level for play took: 0.014678
+[2019.05.21-15.44.21:950][443]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.44.21:953][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.44.21:953][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.44.21:953][443]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.44.21:956][443]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.024
+[2019.05.21-15.44.26:582][825]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-15.44.27:894][936]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-15.44.30:288][140]LogBlueprintUserMessages: [Taser_2] taser
+[2019.05.21-15.44.30:756][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.44.30:796][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.44.30:830][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.44.30:873][181]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.05.21-15.44.33:980][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.45.22:523][500]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.45.22:950][500]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNewB038D2B44954CC1F76125ABE72DBA71C.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.45.29:229][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.45.29:275][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.45.29:334][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.45.29:334][ 92]PIE: New page: PIE session: LevelOne (21 May 2019 17:45:29)
+[2019.05.21-15.45.29:334][ 92]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.45.29:375][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040614s)
+[2019.05.21-15.45.29:376][ 92]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.45.29:376][ 92]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2019.05.21-15.45.29:376][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.041507s)
+[2019.05.21-15.45.29:414][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.45.29:428][ 92]LogInit: FAudioDevice initialized.
+[2019.05.21-15.45.29:460][ 92]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.45.29:474][ 92]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.45.29
+[2019.05.21-15.45.29:475][ 92]LogWorld: Bringing up level for play took: 0.014273
+[2019.05.21-15.45.29:487][ 92]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.45.29:490][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.45.29:491][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.45.29:491][ 92]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.45.29:493][ 92]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.442
+[2019.05.21-15.45.37:435][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.45.42:629][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.45.44:736][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.46.03:874][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.46.03:927][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.46.03:965][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.46.04:000][584]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.05.21-15.46.50:599][315]BlueprintLog: New page: Compile TaserNew
+[2019.05.21-15.46.51:037][315]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/TaserNewB8648A6A49C41A394260A3847C0DE331.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/TaserNew.uasset'
+[2019.05.21-15.46.52:550][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.46.53:498][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.46.54:641][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.46.54:641][583]PIE: New page: PIE session: LevelOne (21 May 2019 17:46:54)
+[2019.05.21-15.46.54:641][583]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.46.54:681][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039796s)
+[2019.05.21-15.46.54:682][583]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.46.54:682][583]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2019.05.21-15.46.54:682][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040648s)
+[2019.05.21-15.46.54:722][583]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.46.54:736][583]LogInit: FAudioDevice initialized.
+[2019.05.21-15.46.54:736][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.46.54:767][583]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.46.54:789][583]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.46.54
+[2019.05.21-15.46.54:791][583]LogWorld: Bringing up level for play took: 0.022722
+[2019.05.21-15.46.54:803][583]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.46.54:806][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.46.54:807][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.46.54:807][583]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.46.54:809][583]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.872
+[2019.05.21-15.47.00:329][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.47.00:383][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.47.00:418][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.47.00:534][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.05.21-15.47.02:655][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.47.33:105][361]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.21-15.47.48:199][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE
+[2019.05.21-15.48.20:433][124]LogEditorTransaction: Undo Reset Rotation
+[2019.05.21-15.48.20:442][124]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_19:PersistentLevel.NewDrSkeng_USE_C_0.CharacterMesh0) Component already registered.
+[2019.05.21-15.48.20:445][124]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_19:PersistentLevel.NewDrSkeng_USE_C_0.Arrow) Component already registered.
+[2019.05.21-15.48.20:447][124]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_19:PersistentLevel.NewDrSkeng_USE_C_0.CharMoveComp) Component already registered.
+[2019.05.21-15.48.20:826][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.20:827][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.20:831][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.21:530][148]LogEditorTransaction: Undo Reset Location
+[2019.05.21-15.48.21:544][148]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_19:PersistentLevel.NewDrSkeng_USE_C_0.CharacterMesh0) Component already registered.
+[2019.05.21-15.48.21:548][148]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_19:PersistentLevel.NewDrSkeng_USE_C_0.Arrow) Component already registered.
+[2019.05.21-15.48.21:551][148]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_19:PersistentLevel.NewDrSkeng_USE_C_0.CharMoveComp) Component already registered.
+[2019.05.21-15.48.21:842][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.21:843][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.21:849][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.21:856][148]LogEditorTransaction: Undo Select Surfaces
+[2019.05.21-15.48.22:165][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.22:166][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.22:172][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.21-15.48.24:375][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.48.43:986][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.48.44:931][416]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.21-15.48.45:163][416]LogPlayLevel: [PlayLevel] Compiling NewDrSkeng_USE before play...
+[2019.05.21-15.48.45:662][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.48.46:062][416]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewDrSkeng_USE85AF12A14C3E0DBA460909AB91F4DD34.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.uasset'
+[2019.05.21-15.48.46:112][416]LogPlayLevel: PlayLevel: Blueprint regeneration took 1180 ms (1 blueprints)
+[2019.05.21-15.48.46:112][416]PIE: New page: PIE session: LevelOne (21 May 2019 17:48:46)
+[2019.05.21-15.48.46:113][416]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.48.46:152][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039379s)
+[2019.05.21-15.48.46:153][416]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.48.46:153][416]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2019.05.21-15.48.46:153][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.040222s)
+[2019.05.21-15.48.46:197][416]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.48.46:212][416]LogInit: FAudioDevice initialized.
+[2019.05.21-15.48.46:212][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.48.46:242][416]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.48.46:255][416]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.48.46
+[2019.05.21-15.48.46:257][416]LogWorld: Bringing up level for play took: 0.014052
+[2019.05.21-15.48.46:269][416]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.48.46:273][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.48.46:273][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.48.46:273][416]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.48.46:275][416]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 2.333
+[2019.05.21-15.48.50:770][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.48.50:834][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.48.50:881][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.48.51:007][698]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.05.21-15.48.52:092][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.49.06:418][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.49.06:520][648]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.49.06:557][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.49.06:557][648]PIE: New page: PIE session: LevelOne (21 May 2019 17:49:06)
+[2019.05.21-15.49.06:558][648]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.49.06:600][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042539s)
+[2019.05.21-15.49.06:601][648]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.49.06:601][648]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.05.21-15.49.06:601][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.043460s)
+[2019.05.21-15.49.06:649][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.49.06:662][648]LogInit: FAudioDevice initialized.
+[2019.05.21-15.49.06:693][648]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.49.06:718][648]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.49.06
+[2019.05.21-15.49.06:720][648]LogWorld: Bringing up level for play took: 0.026809
+[2019.05.21-15.49.06:734][648]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.49.06:741][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.49.06:741][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.49.06:742][648]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.49.06:747][648]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.805
+[2019.05.21-15.49.15:054][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.49.15:113][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.49.15:163][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.49.15:291][242]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.05.21-15.49.17:566][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.49.17:651][393]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-15.49.17:686][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-15.49.17:686][393]PIE: New page: PIE session: LevelOne (21 May 2019 17:49:17)
+[2019.05.21-15.49.17:687][393]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.21-15.49.17:729][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042093s)
+[2019.05.21-15.49.17:729][393]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.21-15.49.17:729][393]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2019.05.21-15.49.17:730][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.042973s)
+[2019.05.21-15.49.17:769][393]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.21-15.49.17:784][393]LogInit: FAudioDevice initialized.
+[2019.05.21-15.49.17:813][393]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.21-15.49.17:827][393]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.21-16.49.17
+[2019.05.21-15.49.17:828][393]LogWorld: Bringing up level for play took: 0.014211
+[2019.05.21-15.49.17:841][393]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.21-15.49.17:844][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property TriggerBox". Blueprint:  BP_OBJ_FindWife_Tag Function:  Execute Ubergraph BP OBJ Find Wife Tag Graph:  EventGraph Node:  Enable Objective
+[2019.05.21-15.49.17:844][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.21-15.49.17:845][393]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.21-15.49.17:847][393]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.096
+[2019.05.21-15.49.20:814][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-15.49.30:464][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.49.34:707][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.49.34:774][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.49.34:837][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-15.49.34:898][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-15.49.35:021][478]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.05.21-15.49.39:586][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-15.49.51:643][483]LogUObjectBase: Warning: Object is not registered
+[2019.05.21-15.49.52:832][483]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.189 s
+[2019.05.21-15.49.52:832][483]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.21-15.49.52:832][483]LogOutputDevice: Error: 
+[2019.05.21-15.49.52:832][483]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: Stack: 
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbd42071f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbd3f40c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbd3f5b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbd02511db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbd026060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbcdf0da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbccf9ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbccf5f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbefb08204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbefd4e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbefb6281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbefb38190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbefb2b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbfb5ed007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbfb5e0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbfb5ef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbfb5dc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffc2b4b6d41 USER32.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffc2b4b6713 USER32.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffbfb5f0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ff62ee354e5 UE4Editor.exe!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ff62ee45b3c UE4Editor.exe!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ff62ee45bba UE4Editor.exe!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ff62ee53dac UE4Editor.exe!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ff62ee55aaa UE4Editor.exe!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffc2d674034 KERNEL32.DLL!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: [Callstack] 0x00007ffc2d9d3691 ntdll.dll!UnknownFunction []
+[2019.05.21-15.49.52:833][483]LogOutputDevice: Error: 
+[2019.05.21-15.49.52:834][483]LogStats:                SubmitErrorReport -  0.000 s
