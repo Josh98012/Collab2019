@@ -1,0 +1,1235 @@
+﻿Log file open, 05/28/19 18:34:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.330208
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.275s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.159s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.28-17.34.08:233][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-17.34.08:233][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.28-17.34.08:264][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.28-17.34.08:264][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.28-17.34.08:264][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.28-17.34.08:264][  0]LogInit: Computer: A07-07
+[2019.05.28-17.34.08:264][  0]LogInit: User: b017403g
+[2019.05.28-17.34.08:264][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.28-17.34.08:264][  0]LogInit: High frequency timer resolution =3.410074 MHz
+[2019.05.28-17.34.08:265][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.28-17.34.08:265][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.28-17.34.08:265][  0]LogMemory: Process Physical Memory: 101.64 MB used, 101.64 MB peak
+[2019.05.28-17.34.08:265][  0]LogMemory: Process Virtual Memory: 99.49 MB used, 99.49 MB peak
+[2019.05.28-17.34.08:265][  0]LogMemory: Physical Memory: 4628.30 MB used,  11672.18 MB free, 16300.48 MB total
+[2019.05.28-17.34.08:265][  0]LogMemory: Virtual Memory: 4649.22 MB used,  11672.18 MB free, 134217728.00 MB total
+[2019.05.28-17.34.08:315][  0]LogInit: Using OS detected language (en-US).
+[2019.05.28-17.34.08:315][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.28-17.34.08:317][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.28-17.34.08:762][  0]LogStreaming: Display: Took  0.447s to InitEngineTextLocalization.
+[2019.05.28-17.34.08:762][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.28-17.34.08:822][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.28-17.34.08:822][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.28-17.34.09:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-17.34.09:146][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.28-17.34.09:220][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.05.28-17.34.09:220][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.28-17.34.09:222][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.28-17.34.09:222][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.28-17.34.09:222][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.28-17.34.09:230][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.28-17.34.09:230][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.28-17.34.09:230][  0]LogWindows: EnumDisplayDevices:
+[2019.05.28-17.34.09:231][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.05.28-17.34.09:231][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.05.28-17.34.09:231][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.28-17.34.09:232][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.28-17.34.09:232][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.28-17.34.09:232][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.05.28-17.34.09:232][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.05.28-17.34.09:232][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.05.28-17.34.09:232][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.05.28-17.34.09:280][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.28-17.34.09:298][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.28-17.34.09:386][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/12764/).
+[2019.05.28-17.34.09:386][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/b017403g/AppData/Local/Temp/UnrealShaderWorkingDir/52E805D34F6C14DBC5DF04AD25BA329D/'.
+[2019.05.28-17.34.09:747][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.28-17.34.09:763][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.28-17.34.09:780][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.28-17.34.09:796][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.28-17.34.09:813][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.28-17.34.09:830][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.28-17.34.09:846][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.28-17.34.09:863][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.28-17.34.09:872][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-17.34.09:965][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.28-17.34.10:030][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.28-17.34.10:030][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.28-17.34.10:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.28-17.34.10:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.28-17.34.10:092][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.28-17.34.10:116][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.28-17.34.10:137][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.28-17.34.10:154][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.28-17.34.10:168][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.28-17.34.10:168][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.28-17.34.10:319][  0]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.28-17.34.10:319][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.28-17.34.10:319][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.28-17.34.10:320][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.28-17.34.11:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.28-17.34.11:857][  0]LogDerivedDataCache: Loaded boot cache 0.13s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.28-17.34.11:859][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.28-17.34.11:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.28-17.34.11:860][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.28-17.34.11:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.28-17.34.11:860][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.28-17.34.11:890][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.28-17.34.11:903][  0]LogDerivedDataCache: Using Local data cache path C:/Users/b017403g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.28-17.34.11:903][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.28-17.34.11:903][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.28-17.34.11:932][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.28-17.34.11:934][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.28-17.34.11:935][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.28-17.34.12:038][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2019.05.28-17.34.12:485][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-17.34.12:689][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.28-17.34.12:696][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.28-17.34.12:696][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.28-17.34.12:696][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.28-17.34.12:696][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.28-17.34.12:714][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.28-17.34.13:400][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.158457 seconds
+[2019.05.28-17.34.13:406][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.28-17.34.13:407][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.28-17.34.13:407][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.28-17.34.14:505][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.28-17.34.14:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.28-17.34.14:709][  0]SourceControl: Source control is disabled
+[2019.05.28-17.34.14:709][  0]SourceControl: Source control is disabled
+[2019.05.28-17.34.14:715][  0]SourceControl: Source control is disabled
+[2019.05.28-17.34.14:717][  0]SourceControl: Source control is disabled
+[2019.05.28-17.34.14:933][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.28-17.34.14:999][  0]LogOcInput: OculusInput pre-init called
+[2019.05.28-17.34.15:074][  0]LogEngine: Initializing Engine...
+[2019.05.28-17.34.15:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-17.34.15:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.28-17.34.15:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.28-17.34.15:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.28-17.34.15:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.28-17.34.15:328][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.28-17.34.15:351][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.28-17.34.15:384][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-17.34.15:406][  0]LogInit: FAudioDevice initialized.
+[2019.05.28-17.34.15:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.28-17.34.15:533][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.28-17.34.15:557][  0]LogInit: Texture streaming: Enabled
+[2019.05.28-17.34.15:592][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.28-17.34.15:612][  0]LogInit: Transaction tracking system initialized
+[2019.05.28-17.34.15:655][  0]BlueprintLog: New page: Editor Load
+[2019.05.28-17.34.15:799][  0]LocalizationService: Localization service is disabled
+[2019.05.28-17.34.16:164][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.28-17.34.16:164][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.28-17.34.16:164][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.28-17.34.16:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.28-17.34.16:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.28-17.34.16:165][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.28-17.34.16:165][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.28-17.34.16:221][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.06s
+[2019.05.28-17.34.16:341][  0]SourceControl: Source control is disabled
+[2019.05.28-17.34.16:341][  0]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.28-17.34.16:342][  0]LightingResults: New page: Lighting Build
+[2019.05.28-17.34.16:347][  0]MapCheck: New page: Map Check
+[2019.05.28-17.34.16:347][  0]LightingResults: New page: Lighting Build
+[2019.05.28-17.34.20:345][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.28-17.34.20:395][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-17.34.20:446][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-17.34.20:808][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 361.923ms to complete.
+[2019.05.28-17.34.20:809][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.467
+[2019.05.28-17.34.20:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.34.20:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.34.20:928][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.34.20:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.34.20:946][  0]LogCollectionManager: Loaded 0 collections in 0.003482 seconds
+[2019.05.28-17.34.20:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.28-17.34.20:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/b017403g/Collections/' took 0.01s
+[2019.05.28-17.34.20:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.28-17.34.20:993][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.28-17.34.21:002][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2572 classes and 603 folders.
+[2019.05.28-17.34.21:014][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.28-17.34.21:123][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.28-17.34.21:133][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.05.28-17.34.21:306][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.28-17.34.21:311][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.28-17.34.21:317][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.28-17.34.21:395][  0]LogRenderer: Reallocating scene render targets to support 1164x584 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-17.34.21:591][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-17.34.21:592][  0]LogLoad: (Engine Initialization) Total time: 16.77 seconds
+[2019.05.28-17.34.21:592][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.28-17.34.21:602][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.28-17.34.21:628][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.28-17.34.21:672][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-17.34.21:755][  2]LogAssetRegistry: Asset discovery search completed in 9.7398 seconds
+[2019.05.28-17.34.21:758][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.28-17.34.21:758][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2019.05.28-17.34.22:641][ 87]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-17.34.23:596][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.34.31:744][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:744][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.uasset.
+[2019.05.28-17.34.31:744][122]LoadErrors: Error: /Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak : Can't find file for asset. /Script/ApexDestruction
+[2019.05.28-17.34.31:746][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:746][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/breakVentTest_DM.uasset.
+[2019.05.28-17.34.31:746][122]LoadErrors: Error: /Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/breakVentTest_DM : Can't find file for asset. /Script/ApexDestruction
+[2019.05.28-17.34.31:746][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:746][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/breakVentTest_DM.uasset.
+[2019.05.28-17.34.31:753][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:753][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/breakVentTest_DM.uasset.
+[2019.05.28-17.34.31:755][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:755][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.uasset.
+[2019.05.28-17.34.31:755][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:755][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.uasset.
+[2019.05.28-17.34.31:755][122]LogLinker: Warning: Unable to load breakVentTest_DM with outer Package /Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/breakVentTest_DM because its class does not exist
+[2019.05.28-17.34.31:755][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:756][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.uasset.
+[2019.05.28-17.34.31:756][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:756][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.uasset.
+[2019.05.28-17.34.31:759][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:760][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.uasset.
+[2019.05.28-17.34.31:761][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:761][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:761][122]LoadErrors: Error: /Game/Users/Josh/Weapons/Thwack : Can't find file for asset. /Script/ApexDestruction
+[2019.05.28-17.34.31:761][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:761][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:761][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:761][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:763][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:763][122]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by K2Node_VariableGet_1
+[2019.05.28-17.34.31:763][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:763][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:763][122]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by K2Node_VariableGet_0
+[2019.05.28-17.34.31:763][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:763][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:763][122]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by K2Node_CallFunction_1
+[2019.05.28-17.34.31:763][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:764][122]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by K2Node_VariableGet_2
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:764][122]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by SCS_Node_1
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:764][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:765][122]LogLinker: Warning: Can't find file '/Script/ApexDestruction'
+[2019.05.28-17.34.31:765][122]LogLinker: Warning: Can't find file for asset '/Script/ApexDestruction' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset.
+[2019.05.28-17.34.31:765][122]LogLinker: Warning: Unable to load Destructible_GEN_VARIABLE with outer BlueprintGeneratedClass /Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.ventBreak_C because its class does not exist
+[2019.05.28-17.34.31:765][122]LogBlueprint: Warning: [Compiler ventBreak] Component class is not set for 'Destructible' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'ventBreak'.
+[2019.05.28-17.34.31:769][122]LogBlueprint: Error: [Compiler ventBreak] Can't connect pins  Destructible  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2019.05.28-17.34.31:769][122]LogBlueprint: Warning: [Compiler ventBreak] Could not find a variable named "Destructible" in 'ventBreak_C'.
+Make sure 'ventBreak_C' has been compiled for  Get Destructible
+[2019.05.28-17.34.31:769][122]LogBlueprint: Error: [Compiler ventBreak] Can't connect pins  Target  and  Destructible : Scene Component Object Reference is not compatible with Object Reference.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Error: [Compiler ventBreak] Can't connect pins  Target  and  Destructible : Gameplay Statics Object Reference is not compatible with Object Reference.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Warning: [Compiler ventBreak] Input pin  Damage Amount  specifying non-default value no longer exists on node  Apply Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Error: [Compiler ventBreak] In use pin  Hit Location  no longer exists on node  Apply Damage . Please refresh node or break links to remove pin.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Error: [Compiler ventBreak] In use pin  Impulse Dir  no longer exists on node  Apply Damage . Please refresh node or break links to remove pin.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Warning: [Compiler ventBreak] Input pin  Impulse Strength  specifying non-default value no longer exists on node  Apply Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Error: [Compiler ventBreak] Can't connect pins  Destructible  and  Target : Object Reference is not compatible with Gameplay Statics Object Reference.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Warning: [Compiler ventBreak] Could not find a variable named "Destructible" in 'ventBreak_C'.
+Make sure 'ventBreak_C' has been compiled for  Get Destructible
+[2019.05.28-17.34.31:770][122]LogBlueprint: Error: [Compiler ventBreak] Can't connect pins  Target  and  Destructible : Primitive Component Object Reference is not compatible with Object Reference.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Error: [Compiler ventBreak] Can't connect pins  Destructible  and  Target : Object Reference is not compatible with Primitive Component Object Reference.
+[2019.05.28-17.34.31:770][122]LogBlueprint: Warning: [Compiler ventBreak] Could not find a variable named "Destructible" in 'ventBreak_C'.
+Make sure 'ventBreak_C' has been compiled for  Get Destructible
+[2019.05.28-17.34.31:771][122]LogBlueprint: Error: [Compiler ventBreak] The property associated with  Destructible  could not be found in '/Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.ventBreak_C'
+[2019.05.28-17.34.31:771][122]LogBlueprint: Error: [Compiler ventBreak] The property associated with  Destructible  could not be found in '/Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.ventBreak_C'
+[2019.05.28-17.34.31:771][122]LogBlueprint: Error: [Compiler ventBreak] The property associated with  Destructible  could not be found in '/Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.ventBreak_C'
+[2019.05.28-17.34.31:772][122]LogBlueprint: Warning: [Compiler ventBreak] [0026.95] Compile of ventBreak failed. 11 Fatal Issue(s) 6 Warning(s) [in 7 ms] (/Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/ventBreak.ventBreak)
+[2019.05.28-17.34.33:126][122]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.05.28-17.34.33:126][122]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.05.28-17.34.33:126][122]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.05.28-17.34.33:126][122]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.05.28-17.34.33:126][122]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.05.28-17.34.33:126][122]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.05.28-17.34.34:542][122]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.05.28-17.34.34:542][122]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.05.28-17.34.34:920][122]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.05.28-17.34.34:920][122]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.05.28-17.34.35:757][122]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.05.28-17.34.35:757][122]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X1024)
+[2019.05.28-17.34.35:757][122]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.05.28-17.34.35:757][122]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X512)
+[2019.05.28-17.34.35:757][122]LogTexture: Display: Building textures: MainframeBox1_Albedo (AutoDXT, 2048X2048)
+[2019.05.28-17.34.35:757][122]LogTexture: Display: Building textures: MainframeBox1_LP_01_-_Default_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.28-17.34.36:095][122]LogTexture: Display: Building textures: mainframebox1_lp_Normal_Map_from_Mesh (BC5, 2048X2048)
+[2019.05.28-17.34.36:310][122]LogTexture: Display: Building textures: mainframebox1_lp_Ambient_Occlusion_Map_from_Mesh (AutoDXT, 2048X2048)
+[2019.05.28-17.34.36:311][122]LogTexture: Display: Building textures: MainframeBox1_Emissive (AutoDXT, 2048X2048)
+[2019.05.28-17.34.36:313][122]LogStaticMesh: Building static mesh MainframeDivider...
+[2019.05.28-17.34.36:327][122]LogStaticMesh: Built static mesh [0.01s] /Game/Users/James/Meshes/Computers/MainframeDivider.MainframeDivider
+[2019.05.28-17.34.36:829][122]LogTexture: Display: Building textures: MainframeBase3_LP_01_-_Default_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.28-17.34.36:829][122]LogTexture: Display: Building textures: mainframebase3_lp_Normal_Map_from_Mesh (BC5, 2048X2048)
+[2019.05.28-17.34.36:830][122]LogTexture: Display: Building textures: MainframeBase3_Emissive (AutoDXT, 2048X2048)
+[2019.05.28-17.34.37:397][122]LogTexture: Display: Building textures: mainframebase3_lp_Ambient_Occlusion_Map_from_Mesh (AutoDXT, 2048X2048)
+[2019.05.28-17.34.37:398][122]LogTexture: Display: Building textures: mainframebase2_lp_Normal_Map_from_Mesh (BC5, 2048X2048)
+[2019.05.28-17.34.37:398][122]LogTexture: Display: Building textures: MainframeBase3_Albedo (AutoDXT, 2048X2048)
+[2019.05.28-17.34.37:398][122]LogTexture: Display: Building textures: MainframeBase2_Albedo (AutoDXT, 2048X2048)
+[2019.05.28-17.34.37:401][122]LogStaticMesh: Building static mesh MainframeBox1_LP...
+[2019.05.28-17.34.37:402][122]LogStaticMesh: Built static mesh [0.00s] /Game/Users/James/Meshes/Computers/MainframeBox1_LP.MainframeBox1_LP
+[2019.05.28-17.34.37:850][122]LogTexture: Display: Building textures: mainframebase2_lp_Ambient_Occlusion_Map_from_Mesh (AutoDXT, 2048X2048)
+[2019.05.28-17.34.37:850][122]LogTexture: Display: Building textures: MainframeBase2_Emissive (AutoDXT, 2048X2048)
+[2019.05.28-17.34.37:850][122]LogTexture: Display: Building textures: MainframeBase2_LP_01_-_Default_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.05.28-17.34.38:027][122]LogStaticMesh: Building static mesh MainframeBase3_LP...
+[2019.05.28-17.34.38:058][122]LogStaticMesh: Built static mesh [0.04s] /Game/Users/James/Meshes/Computers/MainframeBase3_LP.MainframeBase3_LP
+[2019.05.28-17.34.38:490][122]LogTexture: Display: Building textures: Wooden_Floor2_roughness (AutoDXT, 2048X2048)
+[2019.05.28-17.34.38:490][122]LogTexture: Display: Building textures: Wooden_Floor_baseColor (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:695][122]LogTexture: Display: Building textures: Wooden_Floor2_metallic (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:695][122]LogTexture: Display: Building textures: Wooden_Floor2_baseColor (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:695][122]LogTexture: Display: Building textures: Wooden_Floor2_normal (BC5, 2048X2048)
+[2019.05.28-17.34.42:695][122]LogTexture: Display: Building textures: Concrete_Gray_roughness (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Concrete_Gray_metallic (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Concrete_Gray_normal (BC5, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Wooden_Floor2_height (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Concrete_Gray_height (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Concrete_Gray_baseColor (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Wooden_Floor_height (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Wooden_Floor_normal (BC5, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Wooden_Floor_roughness (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:696][122]LogTexture: Display: Building textures: Wooden_Floor_metallic (AutoDXT, 2048X2048)
+[2019.05.28-17.34.42:819][122]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.28-17.34.42:825][122]LogMaterial: Warning: Material /Game/Users/James/Materials/Computer/M_MasterComputer.M_MasterComputer needed to have new flag set bUsedWithStaticLighting !
+[2019.05.28-17.34.42:834][122]LogMaterial: Display: Missing cached shader map for material M_MasterComputer, compiling. 
+[2019.05.28-17.34.42:990][122]MapCheck: Warning: M_MasterComputer Material /Game/Users/James/Materials/Computer/M_MasterComputer.M_MasterComputer was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.05.28-17.34.42:997][122]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.28-17.34.42:998][122]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.28-17.34.42:998][122]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.28-17.34.42:998][122]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.28-17.34.43:032][122]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.28-17.34.43:072][122]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.28-17.34.43:073][122]LightingResults: New page: Lighting Build
+[2019.05.28-17.34.43:074][122]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.28-17.34.43:078][122]MapCheck: New page: Map Check
+[2019.05.28-17.34.43:078][122]LightingResults: New page: Lighting Build
+[2019.05.28-17.34.43:375][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-17.34.43:508][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-17.34.44:069][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 560.858ms to complete.
+[2019.05.28-17.34.44:071][122]LogFileHelpers: Loading map 'LevelOne' took 1.001
+[2019.05.28-17.34.44:170][122]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': DestructibleMesh /Game/Users/JAKUB/Blueprints/Actors/BreakableBoys/breakVentTest_DM.breakVentTest_DM
+[2019.05.28-17.34.46:597][257]LogSlate: Window 'Message Log' being destroyed
+[2019.05.28-17.34.46:602][257]LogSlate: Window 'Message Log' being destroyed
+[2019.05.28-17.34.47:560][350]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-17.34.47:591][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-17.34.49:262][350]LogSlate: Window 'Message' being destroyed
+[2019.05.28-17.34.49:280][350]PIE: New page: PIE session: LevelOne (28 May 2019 19:34:49)
+[2019.05.28-17.34.49:281][350]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.28-17.34.49:331][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050382s)
+[2019.05.28-17.34.49:332][350]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.28-17.34.49:332][350]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.05.28-17.34.49:332][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.051430s)
+[2019.05.28-17.34.49:367][350]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-17.34.49:381][350]LogInit: FAudioDevice initialized.
+[2019.05.28-17.34.49:422][350]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.28-17.34.49:442][350]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.28-18.34.49
+[2019.05.28-17.34.49:444][350]LogWorld: Bringing up level for play took: 0.019635
+[2019.05.28-17.34.49:458][350]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.28-17.34.49:471][350]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.05.28-17.34.49:475][350]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.28-17.34.49:475][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.28-17.34.49:475][350]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.28-17.34.49:475][350]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.28-17.34.49:475][350]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.28-17.34.49:478][350]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 2.449
+[2019.05.28-17.35.14:631][346]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.28-17.35.14:631][346]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.28-17.35.14:631][346]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 600.0
+[2019.05.28-17.35.38:618][208]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.38:618][208]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.38:618][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.38:684][216]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.38:684][216]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.38:684][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.38:861][237]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.38:862][237]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.38:862][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.39:437][306]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.39:437][306]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.39:437][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.40:361][417]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.40:361][417]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.40:361][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.40:444][427]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.40:620][448]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.40:620][448]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.40:620][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.40:687][456]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.41:470][550]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.41:470][550]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.41:470][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.41:470][550]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.42:054][620]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.42:054][620]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.42:054][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.42:229][641]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.42:229][641]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.42:229][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.42:272][646]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.42:964][729]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.43:248][763]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.43:248][763]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.43:248][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.43:823][832]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.43:823][832]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.43:824][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.43:824][832]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:089][864]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:089][864]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.44:089][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.44:098][865]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:106][866]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:114][867]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:123][868]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:123][868]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:131][869]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:131][869]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.44:131][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.44:139][870]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:139][870]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.44:139][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.44:147][871]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:147][871]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.44:148][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.44:156][872]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:156][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.44:156][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.44:164][873]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:172][874]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.44:181][875]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:131][109]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:131][109]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVent_Break
+	Thwack_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.Thwack_2
+	Function /Game/Users/Josh/Weapons/Thwack.Thwack_C:ExecuteUbergraph_Thwack:06F4
+[2019.05.28-17.35.46:131][109]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.46:139][110]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:140][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.46:181][115]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:557][160]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:557][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.46:740][182]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:740][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.46:874][198]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.46:874][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:198][237]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:198][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:306][250]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:306][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:307][250]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:307][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:407][262]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:407][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:423][264]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:423][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:424][264]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:424][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:765][305]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:766][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:774][306]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:774][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:849][315]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:849][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:857][316]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:858][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:858][316]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:858][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.47:882][319]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.47:883][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.48:616][407]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.48:616][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.49:441][503]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.49:441][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.50:274][603]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.50:274][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.51:267][722]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.51:267][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.51:600][762]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.51:791][785]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.51:791][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.51:800][786]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.51:800][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.51:808][787]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.51:808][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.51:808][787]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.51:808][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.51:833][790]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.53:476][987]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.53:993][ 49]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:760][141]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:834][150]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:834][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.54:843][151]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:843][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.54:908][159]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:909][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.54:917][160]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:917][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.54:925][161]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:925][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.54:926][161]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.54:926][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.55:450][224]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.55:450][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.55:451][224]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.55:451][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.55:475][227]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.56:143][307]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.56:343][331]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.57:061][417]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.57:227][437]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.57:228][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.57:353][452]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.57:353][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.35.58:311][567]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.35.58:561][597]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.00:095][781]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.00:096][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.00:337][810]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.00:337][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.00:529][833]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.00:529][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:537][ 73]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:537][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:552][ 74]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:552][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:561][ 75]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:561][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:956][120]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:956][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:964][121]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:965][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:973][122]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:973][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:981][123]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:981][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:989][124]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:989][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.02:990][124]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.02:990][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.03:115][139]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.03:115][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.03:131][141]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.03:131][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.03:131][141]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.03:132][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.05:510][426]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.05:685][447]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:001][485]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:001][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.06:010][486]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:010][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.06:078][494]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:078][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.06:087][495]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:087][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.06:088][495]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:088][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.06:706][568]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:940][596]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.06:940][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.07:516][665]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.07:516][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.07:516][665]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.07:516][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.07:910][712]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.07:910][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.07:951][717]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.07:952][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.08:210][748]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.08:210][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.08:335][763]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.08:335][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.09:151][861]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:151][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.09:302][879]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:302][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.09:318][881]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:552][909]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:617][917]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:618][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.09:626][918]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:626][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.09:659][922]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.09:659][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.09:676][924]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.10:345][  4]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.10:345][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.10:370][  7]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.10:370][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.10:470][ 19]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:394][130]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:495][142]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:495][142]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  50.0
+[2019.05.28-17.36.11:495][142]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:495][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.11:528][146]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:561][150]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:578][152]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:578][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.11:645][160]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:745][172]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:745][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.11:753][173]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:753][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.11:853][185]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:853][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.11:878][188]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:878][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.11:895][190]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.11:920][193]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:112][216]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:245][232]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:270][235]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:403][251]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:411][252]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:412][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:436][255]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:561][270]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:561][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:570][271]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:570][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:578][272]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:578][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:586][273]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:587][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:595][274]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:595][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:603][275]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:603][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:611][276]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:611][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:620][277]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:620][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:628][278]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:628][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:636][279]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:636][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:645][280]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:645][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:653][281]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:653][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:653][281]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:654][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:687][285]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:687][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.12:912][312]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.12:912][312]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  0.0
+[2019.05.28-17.36.13:020][325]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:078][332]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:203][347]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:212][348]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:212][348]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:212][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:254][353]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:345][364]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:346][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:404][371]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:404][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:411][372]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:411][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:412][372]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:412][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:629][398]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:629][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:637][399]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:637][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:646][400]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:646][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:828][422]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:828][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:836][423]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:836][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:845][424]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:845][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:853][425]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:853][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:861][426]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:861][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:862][426]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:862][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:928][434]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:928][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:936][435]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:936][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.13:961][438]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.13:962][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.14:062][450]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.14:062][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.14:279][476]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.14:279][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.14:603][515]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.14:604][515]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  -50.0
+[2019.05.28-17.36.14:897][548]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.14:897][548]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  -100.0
+[2019.05.28-17.36.15:063][565]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.15:063][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.15:196][581]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.15:196][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.15:517][612]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.15:666][630]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.15:666][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.15:941][663]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.15:942][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.15:942][663]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.15:942][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.16:200][694]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.16:200][694]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  50.0
+[2019.05.28-17.36.16:208][695]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.16:317][708]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.16:317][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVent_Break". Blueprint:  Thwack Function:  Execute Ubergraph Thwack Graph:  EventGraph Node:  Damage Tooketh
+[2019.05.28-17.36.16:342][711]LogBlueprintUserMessages: [Thwack_2] Thwack_2.Capsule
+[2019.05.28-17.36.17:412][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.36.17:454][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-17.36.17:479][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.36.17:511][837]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.05.28-17.36.18:971][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.36.19:046][  9]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-17.36.19:079][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-17.36.19:079][  9]PIE: New page: PIE session: LevelOne (28 May 2019 19:36:19)
+[2019.05.28-17.36.19:080][  9]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.28-17.36.19:122][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042681s)
+[2019.05.28-17.36.19:123][  9]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.28-17.36.19:123][  9]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2019.05.28-17.36.19:123][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.043534s)
+[2019.05.28-17.36.19:157][  9]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-17.36.19:170][  9]LogInit: FAudioDevice initialized.
+[2019.05.28-17.36.19:206][  9]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.28-17.36.19:222][  9]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.28-18.36.19
+[2019.05.28-17.36.19:223][  9]LogWorld: Bringing up level for play took: 0.016781
+[2019.05.28-17.36.19:237][  9]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.28-17.36.19:240][  9]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.28-17.36.19:241][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.28-17.36.19:241][  9]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.28-17.36.19:241][  9]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.28-17.36.19:241][  9]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.28-17.36.19:243][  9]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.214
+[2019.05.28-17.36.22:654][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.36.22:694][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-17.36.22:726][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.36.22:769][409]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.28-17.36.23:267][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.36.23:505][464]LogSlate: Window 'TheDescent_Collab19 - Unreal Editor' being destroyed
+[2019.05.28-17.36.23:505][464]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.28-17.36.23:714][465]Cmd: QUIT_EDITOR
+[2019.05.28-17.36.24:367][465]LogExit: Preparing to exit.
+[2019.05.28-17.36.24:705][465]LogExit: Editor shut down
+[2019.05.28-17.36.24:706][465]LogExit: Transaction tracking system shut down
+[2019.05.28-17.36.25:565][465]LogExit: Object subsystem successfully closed.
+[2019.05.28-17.36.25:580][465]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.28-17.36.25:585][465]LogD3D11RHI: Shutdown
+[2019.05.28-17.36.25:585][465]LogD3D11RHI: CleanupD3DDevice
+[2019.05.28-17.36.25:588][465]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.28-17.36.25:630][465]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.05.28-17.36.25:630][465]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.05.28-17.36.25:630][465]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.05.28-17.36.25:630][465]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.05.28-17.36.25:630][465]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.05.28-17.36.25:630][465]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.05.28-17.36.25:631][465]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.05.28-17.36.25:631][465]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.05.28-17.36.25:631][465]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.05.28-17.36.25:631][465]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.05.28-17.36.25:632][465]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.05.28-17.36.25:633][465]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.05.28-17.36.25:634][465]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.05.28-17.36.25:634][465]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.05.28-17.36.25:634][465]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.05.28-17.36.25:634][465]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.05.28-17.36.25:634][465]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.05.28-17.36.25:634][465]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.05.28-17.36.26:928][465]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.05.28-17.36.26:929][465]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.05.28-17.36.26:993][465]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.05.28-17.36.26:994][465]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.05.28-17.36.27:000][465]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.05.28-17.36.27:000][465]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.05.28-17.36.27:000][465]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.05.28-17.36.27:000][465]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.05.28-17.36.27:000][465]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.05.28-17.36.27:001][465]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.05.28-17.36.27:002][465]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.28-17.36.27:238][465]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.28-17.36.27:239][465]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.28-17.36.27:246][465]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.28-17.36.27:246][465]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.28-17.36.27:246][465]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.28-17.36.27:246][465]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.28-17.36.27:246][465]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.28-17.36.27:246][465]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.28-17.36.27:247][465]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.28-17.36.27:247][465]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.28-17.36.27:247][465]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.28-17.36.27:247][465]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.28-17.36.27:247][465]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.28-17.36.27:247][465]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.28-17.36.27:249][465]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.28-17.36.27:250][465]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.28-17.36.27:251][465]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.28-17.36.27:251][465]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.28-17.36.27:251][465]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.28-17.36.27:251][465]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.28-17.36.27:251][465]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.28-17.36.27:352][465]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.28-17.36.27:452][465]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.28-17.36.27:454][465]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.28-17.36.27:454][465]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.28-17.36.27:454][465]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.28-17.36.27:454][465]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.28-17.36.27:455][465]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.28-17.36.27:458][465]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.28-17.36.27:458][465]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.28-17.36.27:458][465]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.28-17.36.27:458][465]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.28-17.36.27:458][465]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.28-17.36.27:458][465]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.28-17.36.27:461][465]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.28-17.36.27:468][465]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.28-17.36.27:469][465]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.28-17.36.27:473][465]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.28-17.36.27:474][465]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.28-17.36.27:524][465]LogDerivedDataCache: Shutdown
+[2019.05.28-17.36.27:524][465]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.28-17.36.27:524][465]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.28-17.36.27:525][465]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.28-17.36.27:526][465]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.28-17.36.27:528][465]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.28-17.36.27:528][465]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.28-17.36.27:530][465]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.28-17.36.27:530][465]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.28-17.36.27:545][465]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.28-17.36.27:545][465]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.28-17.36.27:545][465]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.28-17.36.27:545][465]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.28-17.36.27:545][465]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.28-17.36.27:545][465]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.28-17.36.27:546][465]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.28-17.36.27:548][465]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.28-17.36.27:548][465]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.28-17.36.27:587][465]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.28-17.36.27:587][465]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.28-17.36.27:587][465]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA986B175-493A-CF3E-DADD-91BC09D0D749%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=a3eef68e42b53f1066b3c090843c32da%7C%7C96da6f7b-1f7d-4ae3-8fec-5719838ff1c3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.28-17.36.27:612][465]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.28-17.36.27:614][465]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.28-17.36.27:614][465]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.28-17.36.27:614][465]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.28-17.36.27:614][465]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.28-17.36.27:614][465]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.28-17.36.27:614][465]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.28-17.36.27:615][465]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.28-17.36.27:615][465]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.28-17.36.27:616][465]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.28-17.36.27:617][465]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.28-17.36.27:617][465]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.28-17.36.27:617][465]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.28-17.36.27:617][465]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.28-17.36.27:617][465]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.28-17.36.27:631][465]LogExit: Exiting.
+[2019.05.28-17.36.27:645][465]Log file closed, 05/28/19 18:36:27
