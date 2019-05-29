@@ -1,0 +1,934 @@
+﻿Log file open, 05/29/19 15:16:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.332457
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.301s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.130s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.29-14.16.27:961][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-14.16.27:961][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-14.16.27:989][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-14.16.27:989][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-14.16.27:989][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-14.16.27:990][  0]LogInit: Computer: A07-07
+[2019.05.29-14.16.27:990][  0]LogInit: User: b017403g
+[2019.05.29-14.16.27:990][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.29-14.16.27:990][  0]LogInit: High frequency timer resolution =3.410074 MHz
+[2019.05.29-14.16.27:990][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.29-14.16.27:990][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-14.16.27:990][  0]LogMemory: Process Physical Memory: 102.84 MB used, 102.84 MB peak
+[2019.05.29-14.16.27:990][  0]LogMemory: Process Virtual Memory: 99.50 MB used, 99.50 MB peak
+[2019.05.29-14.16.27:990][  0]LogMemory: Physical Memory: 4775.93 MB used,  11524.55 MB free, 16300.48 MB total
+[2019.05.29-14.16.27:990][  0]LogMemory: Virtual Memory: 4649.22 MB used,  11524.55 MB free, 134217728.00 MB total
+[2019.05.29-14.16.28:033][  0]LogInit: Using OS detected language (en-US).
+[2019.05.29-14.16.28:033][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.29-14.16.28:034][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.29-14.16.28:408][  0]LogStreaming: Display: Took  0.375s to InitEngineTextLocalization.
+[2019.05.29-14.16.28:409][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-14.16.28:477][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-14.16.28:477][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-14.16.28:791][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-14.16.28:791][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-14.16.28:878][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.05.29-14.16.28:878][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.29-14.16.28:880][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-14.16.28:880][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-14.16.28:880][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-14.16.28:888][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-14.16.28:888][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-14.16.28:888][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-14.16.28:888][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.05.29-14.16.28:889][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.05.29-14.16.28:889][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.29-14.16.28:889][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.05.29-14.16.28:890][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.29-14.16.28:890][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.05.29-14.16.28:890][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.05.29-14.16.28:890][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.05.29-14.16.28:890][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.05.29-14.16.28:955][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-14.16.28:977][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.29-14.16.29:064][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/3988/).
+[2019.05.29-14.16.29:065][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/b017403g/AppData/Local/Temp/UnrealShaderWorkingDir/9756C6204DCECB6672D79FAED9BF5D88/'.
+[2019.05.29-14.16.29:518][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-14.16.29:540][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-14.16.29:580][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-14.16.29:603][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-14.16.29:621][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-14.16.29:642][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-14.16.29:660][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-14.16.29:679][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-14.16.29:689][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-14.16.29:782][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-14.16.29:861][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-14.16.29:861][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-14.16.29:911][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-14.16.29:911][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-14.16.29:927][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-14.16.29:942][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-14.16.29:957][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-14.16.29:974][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-14.16.29:985][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-14.16.29:985][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-14.16.30:176][  0]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.29-14.16.30:176][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-14.16.30:176][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-14.16.30:176][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-14.16.31:277][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-14.16.31:392][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.29-14.16.31:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.29-14.16.31:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-14.16.31:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-14.16.31:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-14.16.31:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-14.16.31:410][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-14.16.31:423][  0]LogDerivedDataCache: Using Local data cache path C:/Users/b017403g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-14.16.31:423][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-14.16.31:423][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-14.16.31:462][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-14.16.31:464][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-14.16.31:465][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-14.16.31:590][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2019.05.29-14.16.32:105][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-14.16.32:278][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-14.16.32:284][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-14.16.32:284][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-14.16.32:284][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-14.16.32:284][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-14.16.32:302][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.05.29-14.16.33:169][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.208656 seconds
+[2019.05.29-14.16.33:182][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.29-14.16.33:182][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.29-14.16.33:182][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-14.16.34:409][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-14.16.34:423][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-14.16.34:659][  0]SourceControl: Source control is disabled
+[2019.05.29-14.16.34:659][  0]SourceControl: Source control is disabled
+[2019.05.29-14.16.34:661][  0]SourceControl: Source control is disabled
+[2019.05.29-14.16.34:663][  0]SourceControl: Source control is disabled
+[2019.05.29-14.16.34:890][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-14.16.35:029][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-14.16.35:133][  0]LogEngine: Initializing Engine...
+[2019.05.29-14.16.35:134][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-14.16.35:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-14.16.35:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-14.16.35:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-14.16.35:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-14.16.35:462][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-14.16.35:506][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-14.16.35:524][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.16.35:589][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-14.16.35:590][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-14.16.35:734][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.29-14.16.35:764][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-14.16.35:799][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-14.16.35:821][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-14.16.35:860][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-14.16.36:015][  0]LocalizationService: Localization service is disabled
+[2019.05.29-14.16.36:455][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-14.16.36:455][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-14.16.36:455][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-14.16.36:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-14.16.36:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-14.16.36:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-14.16.36:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-14.16.36:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.05s
+[2019.05.29-14.16.36:620][  0]SourceControl: Source control is disabled
+[2019.05.29-14.16.36:620][  0]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-14.16.36:621][  0]LightingResults: New page: Lighting Build
+[2019.05.29-14.16.36:626][  0]MapCheck: New page: Map Check
+[2019.05.29-14.16.36:626][  0]LightingResults: New page: Lighting Build
+[2019.05.29-14.16.41:002][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-14.16.41:027][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-14.16.41:074][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-14.16.41:471][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 396.277ms to complete.
+[2019.05.29-14.16.41:471][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.850
+[2019.05.29-14.16.41:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.16.41:598][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.16.41:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.16.41:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.16.41:624][  0]LogCollectionManager: Loaded 0 collections in 0.003339 seconds
+[2019.05.29-14.16.41:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.05.29-14.16.41:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/b017403g/Collections/' took 0.01s
+[2019.05.29-14.16.41:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.05.29-14.16.41:673][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.29-14.16.41:683][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2572 classes and 603 folders.
+[2019.05.29-14.16.41:694][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-14.16.41:775][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-14.16.41:787][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.05.29-14.16.41:943][  0]LogSlate: Took 0.000699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-14.16.41:953][  0]LogSlate: Took 0.000547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-14.16.41:962][  0]LogSlate: Took 0.000657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-14.16.42:099][  0]LogRenderer: Reallocating scene render targets to support 1164x584 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-14.16.42:390][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.29-14.16.42:390][  0]LogLoad: (Engine Initialization) Total time: 17.92 seconds
+[2019.05.29-14.16.42:390][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-14.16.42:403][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.29-14.16.42:436][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-14.16.42:507][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-14.16.42:758][  4]LogAssetRegistry: Asset discovery search completed in 11.1904 seconds
+[2019.05.29-14.16.42:761][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-14.16.42:761][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.05.29-14.16.43:451][ 72]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-14.17.06:394][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.17.08:622][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.17.08:746][ 86]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Weapons/TaserNew.TaserNew
+[2019.05.29-14.17.09:403][ 86]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.05.29-14.17.10:493][ 86]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-14.17.10:695][ 87]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-14.17.17:222][679]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/Josh/Weapons/Thwack.Thwack
+[2019.05.29-14.17.22:751][197]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.17.22:787][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-14.17.22:787][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.17.22:799][197]PIE: New page: PIE session: FirstPersonExampleMap (29 May 2019 16:17:22)
+[2019.05.29-14.17.22:800][197]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-14.17.22:834][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034086s)
+[2019.05.29-14.17.22:835][197]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-14.17.22:835][197]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2019.05.29-14.17.22:835][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035097s)
+[2019.05.29-14.17.22:893][197]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.17.22:907][197]LogInit: FAudioDevice initialized.
+[2019.05.29-14.17.22:955][197]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-14.17.22:965][197]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-15.17.22
+[2019.05.29-14.17.22:969][197]LogWorld: Bringing up level for play took: 0.010026
+[2019.05.29-14.17.23:000][197]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.05.29-14.17.23:007][197]LogBlueprintUserMessages: [FastAI_V1_2] 100.0
+[2019.05.29-14.17.23:007][197]LogBlueprintUserMessages: [FastAI_V2] 100.0
+[2019.05.29-14.17.23:014][197]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.206
+[2019.05.29-14.17.23:014][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-14.17.23:046][197]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:047][197]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:047][197]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:106][198]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:107][198]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:107][198]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:123][199]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:123][199]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:123][199]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:134][200]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:134][200]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:134][200]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:146][201]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:146][201]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:146][201]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:156][202]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:156][202]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:156][202]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:167][203]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:167][203]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:167][203]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:177][204]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:177][204]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:178][204]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Max_Ammo:003D
+[2019.05.29-14.17.23:187][205]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:188][205]LogScript: Warning: Accessed None trying to read property Equipped Weapon
+	HUD_Menu_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.HUD_Menu_C_0
+	Function /Game/Users/Francis/UI/Ingame_HUD/HUD_Menu.HUD_Menu_C:Get_Ammo_Current:003D
+[2019.05.29-14.17.23:197][206]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:210][207]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:229][208]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:251][209]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:267][210]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:278][211]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:289][212]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:297][213]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	UI_Journal_C /Engine/Transient.UnrealEdEngine_0:DescentGameInstance_C_0.UI_Journal_C_1
+	Function /Game/Users/Jerry/Journal/UI_Journal.UI_Journal_C:Get_HealthPercent_Text_0:00A0
+[2019.05.29-14.17.23:760][266]LogBlueprintUserMessages: [JerrysCharacter1_C_0] 17.0
+[2019.05.29-14.17.23:928][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-14.17.23:929][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.17.23:981][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.17.23:981][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-14.17.24:047][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.17.24:082][287]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.29-14.17.25:118][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.17.29:565][713]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.17.29:651][713]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.05.29-14.17.29:700][713]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-14.17.29:700][713]LightingResults: New page: Lighting Build
+[2019.05.29-14.17.29:701][713]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.05.29-14.17.29:703][713]MapCheck: New page: Map Check
+[2019.05.29-14.17.29:703][713]LightingResults: New page: Lighting Build
+[2019.05.29-14.17.29:992][713]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-14.17.30:125][713]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-14.17.30:760][713]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 634.299ms to complete.
+[2019.05.29-14.17.30:763][713]LogFileHelpers: Loading map 'LevelOne' took 1.063
+[2019.05.29-14.17.40:015][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.17.40:073][769]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.17.40:124][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.17.40:124][769]PIE: New page: PIE session: LevelOne (29 May 2019 16:17:40)
+[2019.05.29-14.17.40:125][769]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.17.40:181][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056022s)
+[2019.05.29-14.17.40:182][769]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.17.40:182][769]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2019.05.29-14.17.40:183][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.057694s)
+[2019.05.29-14.17.40:230][769]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.17.40:245][769]LogInit: FAudioDevice initialized.
+[2019.05.29-14.17.40:275][769]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.17.40:292][769]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.17.40
+[2019.05.29-14.17.40:293][769]LogWorld: Bringing up level for play took: 0.017281
+[2019.05.29-14.17.40:305][769]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.17.40:309][769]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.17.40:309][769]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.17.40:309][769]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.17.40:309][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.17.40:312][769]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.504
+[2019.05.29-14.17.42:083][960]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1837.627441
+[2019.05.29-14.17.44:082][190]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1698.9729
+[2019.05.29-14.17.46:077][429]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1566.570923
+[2019.05.29-14.17.48:077][669]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1744.08374
+[2019.05.29-14.17.50:077][909]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2085.415527
+[2019.05.29-14.17.52:082][149]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1812.103516
+[2019.05.29-14.17.54:083][389]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1561.037598
+[2019.05.29-14.17.56:075][628]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1277.062988
+[2019.05.29-14.17.58:081][868]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 404.404083
+[2019.05.29-14.18.00:078][107]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 88.286728
+[2019.05.29-14.18.02:080][347]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 480.403717
+[2019.05.29-14.18.04:077][586]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 382.646423
+[2019.05.29-14.18.04:818][675]LogBlueprintUserMessages: [DescentGameInstance_C_1] Coins: 2
+[2019.05.29-14.18.47:474][781]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.18.47:475][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.18.54:134][566]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.18.54:134][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.19.04:532][806]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.19.04:532][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.19.11:287][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.19.11:333][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.19.11:387][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.19.11:429][616]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.29-14.19.12:492][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.19.17:441][292]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE
+[2019.05.29-14.19.23:488][571]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-14.19.23:492][571]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-14.19.48:621][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.19.48:662][597]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.19.48:698][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.19.48:698][597]PIE: New page: PIE session: LevelOne (29 May 2019 16:19:48)
+[2019.05.29-14.19.48:699][597]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.19.48:753][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053996s)
+[2019.05.29-14.19.48:753][597]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.19.48:754][597]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.05.29-14.19.48:754][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.054924s)
+[2019.05.29-14.19.48:806][597]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.19.48:823][597]LogInit: FAudioDevice initialized.
+[2019.05.29-14.19.48:857][597]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.19.48:895][597]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.19.48
+[2019.05.29-14.19.48:898][597]LogWorld: Bringing up level for play took: 0.039091
+[2019.05.29-14.19.48:911][597]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.19.48:917][597]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.19.48:917][597]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.19.48:918][597]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.19.48:918][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.19.48:924][597]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 1.116
+[2019.05.29-14.19.50:667][795]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2424.346191
+[2019.05.29-14.19.52:669][ 35]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2609.952393
+[2019.05.29-14.19.53:153][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.19.53:203][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.19.53:264][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.19.53:308][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.29-14.19.56:412][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.20.26:596][153]BlueprintLog: New page: Compile NewDrSkeng_USE
+[2019.05.29-14.20.28:359][153]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewDrSkeng_USEA8CB064445C467746EAF629BBCA88170.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.uasset'
+[2019.05.29-14.20.35:862][846]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_Taser_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_Taser_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP_Taser.CharacterBP_Taser_C:ExecuteUbergraph_CharacterBP_Taser:00A8
+[2019.05.29-14.20.35:881][847]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_Pipe_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_Pipe_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP_Pipe.CharacterBP_Pipe_C:ExecuteUbergraph_CharacterBP_Pipe:00A8
+[2019.05.29-14.20.35:900][848]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsNew_Dr_Skeng_USE
+	CharacterBP_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.CharacterBP_C_0
+	Function /Game/Users/Josh/Animations/CharacterAnimations/CharacterBP.CharacterBP_C:ExecuteUbergraph_CharacterBP:00A8
+[2019.05.29-14.20.52:396][ 84]BlueprintLog: New page: Compile NewDrSkeng_USE
+[2019.05.29-14.20.54:043][ 84]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/NewDrSkeng_USE5A5B80124851F42244DA30A4EC4A73C4.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.uasset'
+[2019.05.29-14.20.55:120][122]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.20.55:159][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.20.55:160][122]PIE: New page: PIE session: LevelOne (29 May 2019 16:20:55)
+[2019.05.29-14.20.55:160][122]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.20.55:207][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047089s)
+[2019.05.29-14.20.55:208][122]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.20.55:208][122]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.05.29-14.20.55:208][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.047956s)
+[2019.05.29-14.20.55:273][122]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.20.55:288][122]LogInit: FAudioDevice initialized.
+[2019.05.29-14.20.55:323][122]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.20.55:350][122]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.20.55
+[2019.05.29-14.20.55:353][122]LogWorld: Bringing up level for play took: 0.028831
+[2019.05.29-14.20.55:366][122]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.20.55:372][122]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.20.55:372][122]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.20.55:373][122]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.20.55:373][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.20.55:378][122]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.431
+[2019.05.29-14.20.57:123][298]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2212.011475
+[2019.05.29-14.20.59:127][534]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2262.797852
+[2019.05.29-14.21.01:126][773]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2512.805908
+[2019.05.29-14.21.03:128][ 13]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1974.00415
+[2019.05.29-14.21.05:125][252]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2022.350708
+[2019.05.29-14.21.07:127][492]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2027.052368
+[2019.05.29-14.21.09:122][731]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2098.255127
+[2019.05.29-14.21.11:122][971]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2306.257568
+[2019.05.29-14.21.13:125][211]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1933.432739
+[2019.05.29-14.21.14:470][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.21.14:514][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.21.14:558][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.21.14:601][373]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.29-14.21.15:612][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.21.15:972][496]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.17:209][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.236 s
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: 
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: Stack: 
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe572471f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe56f80c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe56f9b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe55ee11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe55ef060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe54b3da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe493fec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe493bf337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe6b1e8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe6b42e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe6b24281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe6b218190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe6b20b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe947dd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe947d0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe947df4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe947cc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffeb09e6d41 USER32.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffeb09e6713 USER32.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffe947e0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ff6d33354e5 UE4Editor.exe!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ff6d3345b3c UE4Editor.exe!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ff6d3345bba UE4Editor.exe!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ff6d3353dac UE4Editor.exe!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ff6d3355aaa UE4Editor.exe!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffeb0b74034 KERNEL32.DLL!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: [Callstack] 0x00007ffeb3363691 ntdll.dll!UnknownFunction []
+[2019.05.29-14.21.17:209][496]LogOutputDevice: Error: 
+[2019.05.29-14.21.17:211][496]LogStats:                SubmitErrorReport -  0.000 s
+[2019.05.29-14.21.17:965][496]LogStats:                    SendNewReport -  0.755 s
+[2019.05.29-14.21.17:965][496]LogStats:             FDebug::EnsureFailed -  1.993 s
+[2019.05.29-14.21.17:966][496]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.24:182][948]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.24:183][948]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.24:185][948]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.24:190][948]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.24:195][948]LogUObjectBase: Warning: Object is not registered
+[2019.05.29-14.21.24:985][995]BlueprintLog: New page: Compile Thwack
+[2019.05.29-14.21.25:802][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Weapons/Thwack" FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset" SILENT=true
+[2019.05.29-14.21.26:320][ 24]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/ThwackB31C715E4657C8B7116912B22FFED3FF.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset'
+[2019.05.29-14.22.34:237][277]BlueprintLog: New page: Compile Thwack
+[2019.05.29-14.22.34:598][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Weapons/Thwack" FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset" SILENT=true
+[2019.05.29-14.22.35:049][277]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Thwack8479E19D4EEFB7ED98931B90E63917D5.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset'
+[2019.05.29-14.22.54:071][827]LogEditorTransaction: Undo Delete current selection
+[2019.05.29-14.23.32:739][907]BlueprintLog: New page: Compile Thwack
+[2019.05.29-14.23.33:092][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Users/Josh/Weapons/Thwack" FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset" SILENT=true
+[2019.05.29-14.23.33:589][907]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Thwack6F35DC594646A74FA3A75F8123612081.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/Weapons/Thwack.uasset'
+[2019.05.29-14.23.38:216][173]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/LevelOne99F88DDB43A74FB9ADCCC8846A6E27CF.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap'
+[2019.05.29-14.23.38:291][173]LogFileHelpers: Saving map 'LevelOne' took 1.809
+[2019.05.29-14.23.44:576][836]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.29-14.23.47:062][ 45]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.29-14.23.47:314][ 72]LogEditorViewport: Clicking on Actor (context menu): SphereReflectionCapture (SphereReflectionCapture)
+[2019.05.29-14.23.47:354][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-14.23.48:506][178]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.29-14.23.50:039][296]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.29-14.23.52:351][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.23.52:788][606]Cmd: MODE GRID=1
+[2019.05.29-14.23.53:969][737]Cmd: MODE ROTGRID=1
+[2019.05.29-14.23.58:544][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.23.58:595][230]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.23.58:646][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.23.58:646][230]PIE: New page: PIE session: LevelOne (29 May 2019 16:23:58)
+[2019.05.29-14.23.58:646][230]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.23.58:691][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044939s)
+[2019.05.29-14.23.58:692][230]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.23.58:692][230]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.05.29-14.23.58:692][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.045847s)
+[2019.05.29-14.23.58:738][230]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.23.58:753][230]LogInit: FAudioDevice initialized.
+[2019.05.29-14.23.58:787][230]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.23.58:815][230]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.23.58
+[2019.05.29-14.23.58:817][230]LogWorld: Bringing up level for play took: 0.028004
+[2019.05.29-14.23.58:830][230]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.23.58:837][230]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.23.58:837][230]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.23.58:837][230]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.23.58:837][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.23.58:838][230]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.29-14.23.58:844][230]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 1.035
+[2019.05.29-14.24.00:599][426]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2662.969727
+[2019.05.29-14.24.02:603][666]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2618.516357
+[2019.05.29-14.24.04:612][903]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2611.727539
+[2019.05.29-14.24.06:603][141]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2955.24585
+[2019.05.29-14.24.08:598][380]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3183.032227
+[2019.05.29-14.24.10:599][620]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3272.085205
+[2019.05.29-14.24.12:600][860]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3005.567383
+[2019.05.29-14.24.14:600][100]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3186.908691
+[2019.05.29-14.24.16:602][340]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3218.213379
+[2019.05.29-14.24.18:603][580]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2993.836426
+[2019.05.29-14.24.20:603][819]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2703.123291
+[2019.05.29-14.24.22:596][ 58]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2427.412598
+[2019.05.29-14.24.24:597][298]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2131.954346
+[2019.05.29-14.24.26:598][538]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1839.234131
+[2019.05.29-14.24.28:599][778]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1632.376831
+[2019.05.29-14.24.30:599][ 18]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1500.024536
+[2019.05.29-14.24.32:602][258]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1428.68811
+[2019.05.29-14.24.34:596][497]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1164.775879
+[2019.05.29-14.24.36:604][737]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 968.698853
+[2019.05.29-14.24.38:603][977]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1245.371338
+[2019.05.29-14.24.40:601][216]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1530.355469
+[2019.05.29-14.24.42:604][454]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1277.483276
+[2019.05.29-14.24.44:599][693]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 973.285583
+[2019.05.29-14.24.46:600][933]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 221.110336
+[2019.05.29-14.24.48:601][173]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 193.554214
+[2019.05.29-14.24.49:685][303]LogBlueprintUserMessages: [DescentGameInstance_C_4] Coins: 3
+[2019.05.29-14.24.50:602][413]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 218.360962
+[2019.05.29-14.24.52:604][648]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 186.268524
+[2019.05.29-14.25.40:894][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.25.40:942][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.25.40:995][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.25.41:046][422]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.29-14.25.42:591][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.25.47:089][ 31]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Adam/Animation/Pipe/Double_attack.Double_attack
+[2019.05.29-14.25.47:106][ 31]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.29-14.25.47:335][ 31]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.29-14.25.47:342][ 31]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.29-14.25.48:038][ 31]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.05.29-14.25.48:045][ 31]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.29-14.25.53:626][429]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Double_attack4B1FBCE44F47B9290472878100F32663.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Animation/Pipe/Double_attack.uasset'
+[2019.05.29-14.25.54:945][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.25.54:983][510]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.25.55:020][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.25.55:020][510]PIE: New page: PIE session: LevelOne (29 May 2019 16:25:55)
+[2019.05.29-14.25.55:020][510]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.25.55:069][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048835s)
+[2019.05.29-14.25.55:070][510]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.25.55:070][510]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.05.29-14.25.55:070][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.049782s)
+[2019.05.29-14.25.55:125][510]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.25.55:140][510]LogInit: FAudioDevice initialized.
+[2019.05.29-14.25.55:174][510]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.25.55:213][510]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.25.55
+[2019.05.29-14.25.55:215][510]LogWorld: Bringing up level for play took: 0.039479
+[2019.05.29-14.25.55:227][510]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.25.55:231][510]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.25.55:231][510]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.25.55:231][510]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.25.55:231][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.25.55:231][510]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.29-14.25.55:234][510]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne -0.574
+[2019.05.29-14.25.56:997][607]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2416.256104
+[2019.05.29-14.25.57:447][644]LogSlate: Window 'Double_attack' being destroyed
+[2019.05.29-14.25.57:452][644]LogSlate: Window 'Double_attack' being destroyed
+[2019.05.29-14.25.59:066][771]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2260.791504
+[2019.05.29-14.26.01:063][  8]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2029.191406
+[2019.05.29-14.26.03:064][246]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1868.453857
+[2019.05.29-14.26.05:064][486]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1573.736816
+[2019.05.29-14.26.07:064][726]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1079.518677
+[2019.05.29-14.26.09:060][965]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 884.463135
+[2019.05.29-14.26.11:060][205]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 919.939697
+[2019.05.29-14.26.13:064][445]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 90.263138
+[2019.05.29-14.26.15:064][685]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 89.404854
+[2019.05.29-14.26.17:065][925]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 110.534401
+[2019.05.29-14.26.17:711][  2]LogBlueprintUserMessages: [DescentGameInstance_C_5] Coins: 3
+[2019.05.29-14.26.19:062][164]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 362.509705
+[2019.05.29-14.26.19:983][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.26.20:028][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.26.20:093][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.26.20:141][275]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.29-14.26.21:525][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.26.21:666][392]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Users/Adam/Animation/Pipe/Double_attack.Double_attack
+[2019.05.29-14.26.21:674][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.29-14.26.22:375][392]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.29-14.26.28:704][863]LogSavePackage: Moving '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Double_attack8CB0432A4E3673B868D4B3B68B0CE5EF.tmp' to '../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Adam/Animation/Pipe/Double_attack.uasset'
+[2019.05.29-14.26.29:668][925]LogSlate: Window 'Double_attack' being destroyed
+[2019.05.29-14.27.07:743][379]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-14.27.07:780][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.27.07:780][379]PIE: New page: PIE session: LevelOne (29 May 2019 16:27:07)
+[2019.05.29-14.27.07:781][379]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.27.07:849][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068285s)
+[2019.05.29-14.27.07:850][379]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.27.07:850][379]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2019.05.29-14.27.07:850][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.069142s)
+[2019.05.29-14.27.07:901][379]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.27.07:917][379]LogInit: FAudioDevice initialized.
+[2019.05.29-14.27.07:946][379]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.27.07:963][379]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.27.07
+[2019.05.29-14.27.07:966][379]LogWorld: Bringing up level for play took: 0.019588
+[2019.05.29-14.27.07:978][379]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.27.07:981][379]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.27.07:981][379]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.27.07:981][379]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.27.07:981][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.27.07:981][379]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.05.29-14.27.07:984][379]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.175
+[2019.05.29-14.27.09:746][571]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2642.350098
+[2019.05.29-14.27.11:747][811]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2952.375244
+[2019.05.29-14.27.13:748][ 51]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3257.01123
+[2019.05.29-14.27.15:750][291]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3265.267578
+[2019.05.29-14.27.17:751][531]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2873.39624
+[2019.05.29-14.27.19:751][771]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1031.180054
+[2019.05.29-14.27.21:745][  9]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 171.213379
+[2019.05.29-14.27.23:747][249]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 99.584923
+[2019.05.29-14.27.23:813][257]LogBlueprintUserMessages: [DescentGameInstance_C_6] Coins: 1
+[2019.05.29-14.27.25:747][489]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 156.541763
+[2019.05.29-14.27.27:748][729]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1349.826294
+[2019.05.29-14.28.15:972][505]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.28.15:972][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.28.20:975][104]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.28.20:976][104]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.28.29:817][163]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  80.0
+[2019.05.29-14.28.30:409][234]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  60.0
+[2019.05.29-14.28.31:826][404]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  10.0
+[2019.05.29-14.28.33:860][648]LogBlueprintUserMessages: [SlowAI2] SlowAI Health:  -40.0
+[2019.05.29-14.29.12:732][300]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  50.0
+[2019.05.29-14.29.14:915][562]LogBlueprintUserMessages: [SlowAI_2] SlowAI Health:  0.0
+[2019.05.29-14.29.19:364][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.29.19:408][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.29.19:461][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.29.19:515][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.29-14.29.19:799][119]Cmd: SELECT NONE
+[2019.05.29-14.29.20:489][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-14.29.21:647][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-14.29.21:647][250]PIE: New page: PIE session: LevelOne (29 May 2019 16:29:21)
+[2019.05.29-14.29.21:648][250]LogPlayLevel: Creating play world package: /Game/Users/Niall/Levels/UEDPIE_0_LevelOne
+[2019.05.29-14.29.21:703][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054782s)
+[2019.05.29-14.29.21:703][250]LogAIModule: Creating AISystem for world LevelOne
+[2019.05.29-14.29.21:704][250]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.05.29-14.29.21:704][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Niall/Levels/LevelOne.LevelOne to /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne (0.055793s)
+[2019.05.29-14.29.21:759][250]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-14.29.21:776][250]LogInit: FAudioDevice initialized.
+[2019.05.29-14.29.21:776][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-14.29.21:809][250]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.29.21:839][250]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.05.29-15.29.21
+[2019.05.29-14.29.21:843][250]LogWorld: Bringing up level for play took: 0.032404
+[2019.05.29-14.29.21:857][250]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.29.21:864][250]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.05.29-14.29.21:864][250]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.05.29-14.29.21:865][250]LogScript: Warning: Accessed None trying to read property CurrentTag
+	CurrentObejctive_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.CurrentObejctive_2
+	Function /Game/Users/Dawid/TestBlueprints/ObjectiveSystem/CurrentObejctive.CurrentObejctive_C:ExecuteUbergraph_CurrentObejctive:0303
+[2019.05.29-14.29.21:865][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTag". Blueprint:  CurrentObejctive Function:  Execute Ubergraph Current Obejctive Graph:  EventGraph Node:  SetActorLocation
+[2019.05.29-14.29.21:872][250]PIE: Play in editor start time for /Game/Users/Niall/Levels/UEDPIE_0_LevelOne 0.06
+[2019.05.29-14.29.23:637][440]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4886.915527
+[2019.05.29-14.29.25:635][679]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5569.202148
+[2019.05.29-14.29.27:635][919]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5722.583496
+[2019.05.29-14.29.29:636][158]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5985.257813
+[2019.05.29-14.29.31:635][397]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5297.157715
+[2019.05.29-14.29.33:636][637]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5324.786621
+[2019.05.29-14.29.35:635][876]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6367.73877
+[2019.05.29-14.29.37:636][116]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6847.024414
+[2019.05.29-14.29.39:634][355]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7213.375977
+[2019.05.29-14.29.41:634][593]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7122.550293
+[2019.05.29-14.29.43:630][832]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6962.324219
+[2019.05.29-14.29.45:642][ 58]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6765.244629
+[2019.05.29-14.29.46:849][158]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.29.46:849][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.29.47:633][231]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6961.92334
+[2019.05.29-14.29.49:589][428]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor
+	NewDrSkeng_USE_C /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne:PersistentLevel.NewDrSkeng_USE_C_0
+	Function /Game/Users/JAKUB/Blueprints/PawnsandCharacter/NewDrSkeng_USE.NewDrSkeng_USE_C:Uncrouch Check:022B
+[2019.05.29-14.29.49:589][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor". Blueprint:  NewDrSkeng_USE Function:  Uncrouch Check Graph:  Uncrouch Check Node:  Branch
+[2019.05.29-14.29.49:631][433]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7184.178223
+[2019.05.29-14.29.51:632][673]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7282.331543
+[2019.05.29-14.29.53:633][913]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6997.380859
+[2019.05.29-14.29.55:634][153]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6904.873535
+[2019.05.29-14.29.57:635][393]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6998.965332
+[2019.05.29-14.29.59:635][633]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7104.493652
+[2019.05.29-14.30.01:635][873]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7220.946289
+[2019.05.29-14.30.03:636][113]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7347.82666
+[2019.05.29-14.30.05:636][353]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7491.681152
+[2019.05.29-14.30.07:636][593]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7350.57666
+[2019.05.29-14.30.09:639][833]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7222.07666
+[2019.05.29-14.30.11:639][ 73]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7036.681152
+[2019.05.29-14.30.13:632][312]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6954.210449
+[2019.05.29-14.30.15:633][548]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6933.989258
+[2019.05.29-14.30.17:633][788]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6994.733887
+[2019.05.29-14.30.19:635][ 28]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7244.331543
+[2019.05.29-14.30.21:634][267]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7515.419434
+[2019.05.29-14.30.23:635][507]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7795.444824
+[2019.05.29-14.30.25:635][747]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7996.63916
+[2019.05.29-14.30.27:635][987]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8203.910156
+[2019.05.29-14.30.29:635][227]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8308.345703
+[2019.05.29-14.30.31:637][467]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8059.106445
+[2019.05.29-14.30.33:637][707]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7801.593262
+[2019.05.29-14.30.35:638][947]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7504.689453
+[2019.05.29-14.30.37:638][187]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7564.97998
+[2019.05.29-14.30.39:633][426]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7330.333984
+[2019.05.29-14.30.41:637][666]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7298.865723
+[2019.05.29-14.30.43:637][906]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7547.847168
+[2019.05.29-14.30.45:637][146]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 7846.547363
+[2019.05.29-14.30.47:638][386]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8099.777344
+[2019.05.29-14.30.49:638][626]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8404.22168
+[2019.05.29-14.30.51:639][866]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8413.15918
+[2019.05.29-14.30.53:640][106]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 8144.616699
+[2019.05.29-14.30.53:756][120]LogNet: Browse: /Game/Users/Josh/Levels/TestLevel
+[2019.05.29-14.30.53:756][120]LogLoad: LoadMap: /Game/Users/Josh/Levels/TestLevel
+[2019.05.29-14.30.58:203][120]LogAIModule: Creating AISystem for world TestLevel
+[2019.05.29-14.30.58:203][120]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.05.29-14.30.58:212][120]LogWorld: Bringing World /Game/Users/Josh/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.05.29-15.30.58
+[2019.05.29-14.30.58:213][120]LogWorld: Bringing up level for play took: 0.008300
+[2019.05.29-14.30.58:215][120]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.29-14.30.58:222][120]LogLoad: Took 4.466472 seconds to LoadMap(/Game/Users/Josh/Levels/TestLevel)
+[2019.05.29-14.31.01:564][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.31.01:608][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-14.31.01:677][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-14.31.01:722][461]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.29-14.31.05:865][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-14.31.10:454][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-14.31.13:521][597]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-14.31.13:526][597]LogSlate: Window 'Message Log' being destroyed
