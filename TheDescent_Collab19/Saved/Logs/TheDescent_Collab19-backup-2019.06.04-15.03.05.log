@@ -1,0 +1,1629 @@
+﻿Log file open, 06/03/19 18:50:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDescent_Collab19
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.319935
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.283s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Epic/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.164s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.03-17.50.32:515][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-17.50.32:515][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.03-17.50.32:545][  0]LogHAL: Display: Platform has ~ 16 GB [17092296704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.03-17.50.32:545][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.03-17.50.32:545][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.03-17.50.32:546][  0]LogInit: Computer: A07-07
+[2019.06.03-17.50.32:546][  0]LogInit: User: b017403g
+[2019.06.03-17.50.32:546][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.03-17.50.32:546][  0]LogInit: High frequency timer resolution =3.410074 MHz
+[2019.06.03-17.50.32:546][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.03-17.50.32:546][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.03-17.50.32:546][  0]LogMemory: Process Physical Memory: 101.57 MB used, 101.57 MB peak
+[2019.06.03-17.50.32:546][  0]LogMemory: Process Virtual Memory: 85.43 MB used, 85.43 MB peak
+[2019.06.03-17.50.32:546][  0]LogMemory: Physical Memory: 5824.56 MB used,  10475.93 MB free, 16300.48 MB total
+[2019.06.03-17.50.32:547][  0]LogMemory: Virtual Memory: 4635.29 MB used,  10475.93 MB free, 134217728.00 MB total
+[2019.06.03-17.50.32:596][  0]LogInit: Using OS detected language (en-US).
+[2019.06.03-17.50.32:596][  0]LogInit: Using OS detected locale (en-GB).
+[2019.06.03-17.50.32:597][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.03-17.50.32:988][  0]LogStreaming: Display: Took  0.392s to InitEngineTextLocalization.
+[2019.06.03-17.50.32:988][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.03-17.50.33:054][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.03-17.50.33:054][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.03-17.50.33:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.03-17.50.33:412][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.03-17.50.33:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.06.03-17.50.33:544][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.03-17.50.33:548][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.03-17.50.33:548][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.03-17.50.33:548][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.03-17.50.33:564][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.03-17.50.33:564][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.03-17.50.33:564][  0]LogWindows: EnumDisplayDevices:
+[2019.06.03-17.50.33:564][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.06.03-17.50.33:564][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2019.06.03-17.50.33:565][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.06.03-17.50.33:565][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.06.03-17.50.33:565][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.03-17.50.33:565][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.06.03-17.50.33:565][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.06.03-17.50.33:565][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.06.03-17.50.33:565][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.06.03-17.50.33:615][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.03-17.50.33:634][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.03-17.50.33:723][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Intermediate/Shaders/WorkingDirectory/4660/).
+[2019.06.03-17.50.33:724][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/b017403g/AppData/Local/Temp/UnrealShaderWorkingDir/8B631C81403C13F893D5D3A2EE8AB799/'.
+[2019.06.03-17.50.34:152][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.03-17.50.34:169][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.03-17.50.34:185][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.03-17.50.34:202][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.03-17.50.34:220][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.03-17.50.34:236][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.03-17.50.34:253][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.03-17.50.34:271][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.03-17.50.34:279][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.03-17.50.34:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-17.50.34:372][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.03-17.50.34:457][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.03-17.50.34:457][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.03-17.50.34:490][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.03-17.50.34:490][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.03-17.50.34:505][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.03-17.50.34:521][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.03-17.50.34:535][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.03-17.50.34:552][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.03-17.50.34:563][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.03-17.50.34:563][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.03-17.50.34:698][  0]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.03-17.50.34:699][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.03-17.50.34:699][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.03-17.50.34:699][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.03-17.50.35:812][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.03-17.50.35:906][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.03-17.50.35:907][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.03-17.50.35:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.03-17.50.35:907][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.03-17.50.35:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.03-17.50.35:907][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.03-17.50.35:931][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.03-17.50.35:944][  0]LogDerivedDataCache: Using Local data cache path C:/Users/b017403g/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.03-17.50.35:944][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.03-17.50.35:944][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.03-17.50.35:974][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.03-17.50.35:975][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.03-17.50.35:976][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.03-17.50.36:064][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2019.06.03-17.50.36:538][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-17.50.36:727][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.03-17.50.36:733][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.03-17.50.36:733][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.03-17.50.36:733][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.03-17.50.36:733][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.03-17.50.36:765][  0]LogNetVersion: TheDescent_Collab19 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1358678604)
+[2019.06.03-17.50.37:616][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.199591 seconds
+[2019.06.03-17.50.37:623][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.03-17.50.37:623][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.03-17.50.37:623][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.03-17.50.38:853][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.03-17.50.38:867][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.03-17.50.39:100][  0]SourceControl: Source control is disabled
+[2019.06.03-17.50.39:100][  0]SourceControl: Source control is disabled
+[2019.06.03-17.50.39:102][  0]SourceControl: Source control is disabled
+[2019.06.03-17.50.39:103][  0]SourceControl: Source control is disabled
+[2019.06.03-17.50.39:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.03-17.50.39:474][  0]LogOcInput: OculusInput pre-init called
+[2019.06.03-17.50.39:579][  0]LogEngine: Initializing Engine...
+[2019.06.03-17.50.39:582][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.03-17.50.39:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.03-17.50.39:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.03-17.50.39:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.03-17.50.39:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.03-17.50.39:919][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.03-17.50.39:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.03-17.50.39:967][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-17.50.40:008][  0]LogInit: FAudioDevice initialized.
+[2019.06.03-17.50.40:009][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.03-17.50.40:125][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/b017403g/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.03-17.50.40:165][  0]LogInit: Texture streaming: Enabled
+[2019.06.03-17.50.40:196][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.03-17.50.40:218][  0]LogInit: Transaction tracking system initialized
+[2019.06.03-17.50.40:258][  0]BlueprintLog: New page: Editor Load
+[2019.06.03-17.50.40:426][  0]LocalizationService: Localization service is disabled
+[2019.06.03-17.50.40:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.03-17.50.40:839][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.03-17.50.40:839][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.03-17.50.40:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.03-17.50.40:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.03-17.50.40:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.03-17.50.40:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.03-17.50.41:021][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/' took 0.07s
+[2019.06.03-17.50.41:021][  0]SourceControl: Source control is disabled
+[2019.06.03-17.50.41:021][  0]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.03-17.50.41:022][  0]LightingResults: New page: Lighting Build
+[2019.06.03-17.50.41:027][  0]MapCheck: New page: Map Check
+[2019.06.03-17.50.41:027][  0]LightingResults: New page: Lighting Build
+[2019.06.03-17.50.45:616][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-17.50.45:660][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.03-17.50.45:710][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.03-17.50.46:137][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 427.624ms to complete.
+[2019.06.03-17.50.46:137][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.116
+[2019.06.03-17.50.46:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.50.46:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.50.46:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.50.46:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.50.46:303][  0]LogCollectionManager: Loaded 0 collections in 0.003578 seconds
+[2019.06.03-17.50.46:374][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Saved/Collections/' took 0.01s
+[2019.06.03-17.50.46:374][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Developers/b017403g/Collections/' took 0.01s
+[2019.06.03-17.50.46:374][  0]LogFileCache: Scanning file cache for directory 'C:/Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Collections/' took 0.01s
+[2019.06.03-17.50.46:374][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.03-17.50.46:388][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2572 classes and 603 folders.
+[2019.06.03-17.50.46:403][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.03-17.50.46:521][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.03-17.50.46:535][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.03-17.50.46:680][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.03-17.50.46:684][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.03-17.50.46:688][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.03-17.50.46:773][  0]LogRenderer: Reallocating scene render targets to support 1164x584 Format 10 NumSamples 1 (Frame:1).
+[2019.06.03-17.50.47:003][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.03-17.50.47:003][  0]LogLoad: (Engine Initialization) Total time: 18.32 seconds
+[2019.06.03-17.50.47:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.03-17.50.47:014][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-17.50.47:047][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.03-17.50.47:111][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.03-17.50.47:343][  4]LogAssetRegistry: Asset discovery search completed in 11.3018 seconds
+[2019.06.03-17.50.47:345][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.03-17.50.47:345][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.06.03-17.50.57:324][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-17.50.58:999][385]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.03-17.50.59:214][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.50.59:215][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:215][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective
+[2019.06.03-17.50.59:215][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.50.59:216][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:216][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective
+[2019.06.03-17.50.59:549][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.50.59:550][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:585][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.50.59:586][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:586][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightDishBrass_M
+[2019.06.03-17.50.59:586][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishSteel'
+[2019.06.03-17.50.59:587][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishSteel' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:587][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightDishSteel
+[2019.06.03-17.50.59:587][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageBrass_M'
+[2019.06.03-17.50.59:588][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:588][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFCageBrass_M
+[2019.06.03-17.50.59:588][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.50.59:589][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:589][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFCageSteel_M
+[2019.06.03-17.50.59:589][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentBrass_M'
+[2019.06.03-17.50.59:589][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:590][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescentBrass_M
+[2019.06.03-17.50.59:590][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.50.59:590][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:590][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescentSteel_M
+[2019.06.03-17.50.59:591][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.50.59:591][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:591][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightCageBrass_M
+[2019.06.03-17.50.59:592][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.50.59:592][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:592][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightCageSteel_M
+[2019.06.03-17.50.59:593][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishBrass_M'
+[2019.06.03-17.50.59:593][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:593][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightDishBrass_M
+[2019.06.03-17.50.59:594][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.50.59:594][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.50.59:594][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightDishSteel_M
+[2019.06.03-17.51.00:234][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:235][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:236][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.51.00:236][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:280][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.00:281][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:281][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightDish_LP
+[2019.06.03-17.51.00:281][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.00:282][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:282][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishSteel'
+[2019.06.03-17.51.00:283][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishSteel' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:283][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageBrass_M'
+[2019.06.03-17.51.00:284][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:284][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.00:285][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:285][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.51.00:286][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:286][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescent1_LP
+[2019.06.03-17.51.00:286][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentBrass_M'
+[2019.06.03-17.51.00:287][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:287][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.00:288][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:288][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescentCage_LP
+[2019.06.03-17.51.00:288][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.51.00:289][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:289][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.00:290][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:290][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightCage_LP
+[2019.06.03-17.51.00:290][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.51.00:291][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:291][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.51.00:292][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:292][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.51.00:293][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:293][385]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightDish_LP
+[2019.06.03-17.51.00:293][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishBrass_M'
+[2019.06.03-17.51.00:294][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:294][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.51.00:295][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:313][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.00:313][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:314][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.51.00:314][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:315][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.00:315][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:316][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.00:316][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:317][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.51.00:317][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:318][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:318][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:319][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:319][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:320][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:320][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:321][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.51.00:321][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:322][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:322][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:323][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.51.00:323][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.51.00:351][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:352][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading NULL.
+[2019.06.03-17.51.00:352][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.51.00:352][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading NULL.
+[2019.06.03-17.51.00:353][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.51.00:354][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading NULL.
+[2019.06.03-17.51.00:354][385]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.51.00:355][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading NULL.
+[2019.06.03-17.51.01:155][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:155][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP10_39
+[2019.06.03-17.51.01:157][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:158][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:159][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP10_39
+[2019.06.03-17.51.01:160][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:162][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:162][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP11
+[2019.06.03-17.51.01:163][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:164][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:165][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP11
+[2019.06.03-17.51.01:166][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:167][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:167][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP12_2
+[2019.06.03-17.51.01:169][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:170][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:170][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP12_2
+[2019.06.03-17.51.01:171][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:173][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:173][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP13_5
+[2019.06.03-17.51.01:175][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:176][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:176][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP13_5
+[2019.06.03-17.51.01:177][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:179][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:179][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP2
+[2019.06.03-17.51.01:180][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:182][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:182][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP2
+[2019.06.03-17.51.01:183][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:185][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:185][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP3_31
+[2019.06.03-17.51.01:187][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:188][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:189][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP3_31
+[2019.06.03-17.51.01:190][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:191][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:192][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP4_17
+[2019.06.03-17.51.01:193][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:194][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishSteel'
+[2019.06.03-17.51.01:194][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishSteel.CeilingLightDishSteel Referenced by CeilingLightDish_LP4_17
+[2019.06.03-17.51.01:194][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishSteel' while loading NULL.
+[2019.06.03-17.51.01:195][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:195][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP5
+[2019.06.03-17.51.01:196][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:196][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:196][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP5
+[2019.06.03-17.51.01:197][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:198][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:198][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP6
+[2019.06.03-17.51.01:198][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:199][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:199][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP6
+[2019.06.03-17.51.01:200][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:201][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:201][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP7_30
+[2019.06.03-17.51.01:201][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:202][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:202][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP7_30
+[2019.06.03-17.51.01:203][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:204][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:204][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP8_33
+[2019.06.03-17.51.01:204][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:205][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:205][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP8_33
+[2019.06.03-17.51.01:206][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:207][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:207][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP9_36
+[2019.06.03-17.51.01:207][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:208][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:208][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP9_36
+[2019.06.03-17.51.01:209][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:210][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.51.01:210][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP_9
+[2019.06.03-17.51.01:210][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:211][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.51.01:211][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP_9
+[2019.06.03-17.51.01:212][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:212][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.51.01:213][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP2_20
+[2019.06.03-17.51.01:213][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.51.01:214][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentBrass_M'
+[2019.06.03-17.51.01:214][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentBrass_M.CeilingLightFluorescentBrass_M Referenced by CeilingLightFluorescent1_LP2_20
+[2019.06.03-17.51.01:215][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentBrass_M' while loading NULL.
+[2019.06.03-17.51.01:215][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.51.01:216][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP3_27
+[2019.06.03-17.51.01:216][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.51.01:217][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.51.01:217][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP4_3
+[2019.06.03-17.51.01:218][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.51.01:218][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.51.01:218][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentSteel_M.CeilingLightFluorescentSteel_M Referenced by CeilingLightFluorescent1_LP4_3
+[2019.06.03-17.51.01:219][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading NULL.
+[2019.06.03-17.51.01:220][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:220][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescent1_LP5
+[2019.06.03-17.51.01:220][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:221][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:221][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescent1_LP5
+[2019.06.03-17.51.01:222][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:223][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:223][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescent1_LP6_7
+[2019.06.03-17.51.01:223][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:224][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:224][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescent1_LP6_7
+[2019.06.03-17.51.01:225][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:226][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.51.01:226][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP_2
+[2019.06.03-17.51.01:227][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.51.01:229][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.51.01:229][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentSteel_M.CeilingLightFluorescentSteel_M Referenced by CeilingLightFluorescent1_LP_2
+[2019.06.03-17.51.01:230][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading NULL.
+[2019.06.03-17.51.01:232][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:232][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP2
+[2019.06.03-17.51.01:233][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:235][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:236][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP2
+[2019.06.03-17.51.01:236][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:237][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:237][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP3
+[2019.06.03-17.51.01:238][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:239][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:239][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP3
+[2019.06.03-17.51.01:240][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:240][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:240][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP4
+[2019.06.03-17.51.01:241][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:242][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:242][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP4
+[2019.06.03-17.51.01:242][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:243][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:243][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP5
+[2019.06.03-17.51.01:244][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:245][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:245][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP5
+[2019.06.03-17.51.01:246][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:248][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:249][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP6
+[2019.06.03-17.51.01:250][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:252][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:252][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP6
+[2019.06.03-17.51.01:253][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:254][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:255][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP7_34
+[2019.06.03-17.51.01:255][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:256][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:257][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP7_34
+[2019.06.03-17.51.01:258][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:260][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:260][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP8_11
+[2019.06.03-17.51.01:262][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:263][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageBrass_M'
+[2019.06.03-17.51.01:264][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageBrass_M.CeilingLightFCageBrass_M Referenced by CeilingLightFluorescentCage_LP8_11
+[2019.06.03-17.51.01:265][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageBrass_M' while loading NULL.
+[2019.06.03-17.51.01:266][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:267][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP9
+[2019.06.03-17.51.01:269][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:270][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:272][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP9
+[2019.06.03-17.51.01:273][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:276][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.51.01:278][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP_10
+[2019.06.03-17.51.01:279][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.51.01:281][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.51.01:282][385]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP_10
+[2019.06.03-17.51.01:283][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:313][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.01:313][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP2_42
+[2019.06.03-17.51.01:314][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.51.01:314][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.51.01:314][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageBrass_M.WallLightCageBrass_M Referenced by WallLightCage_LP2_42
+[2019.06.03-17.51.01:315][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading NULL.
+[2019.06.03-17.51.01:316][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.01:316][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP3_45
+[2019.06.03-17.51.01:317][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.51.01:317][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.51.01:317][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageSteel_M.WallLightCageSteel_M Referenced by WallLightCage_LP3_45
+[2019.06.03-17.51.01:318][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:319][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.01:319][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP4_48
+[2019.06.03-17.51.01:319][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.51.01:320][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.51.01:320][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageBrass_M.WallLightCageBrass_M Referenced by WallLightCage_LP4_48
+[2019.06.03-17.51.01:320][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading NULL.
+[2019.06.03-17.51.01:321][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.01:321][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP5
+[2019.06.03-17.51.01:322][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.51.01:322][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.51.01:323][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageBrass_M.WallLightCageBrass_M Referenced by WallLightCage_LP5
+[2019.06.03-17.51.01:323][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading NULL.
+[2019.06.03-17.51.01:324][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.51.01:324][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP_14
+[2019.06.03-17.51.01:325][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.51.01:326][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.51.01:326][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageSteel_M.WallLightCageSteel_M Referenced by WallLightCage_LP_14
+[2019.06.03-17.51.01:327][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading NULL.
+[2019.06.03-17.51.01:328][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.51.01:328][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightDish_LP.WallLightDish_LP Referenced by WallLightDish_LP3
+[2019.06.03-17.51.01:329][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:330][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.51.01:330][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightDishSteel_M.WallLightDishSteel_M Referenced by WallLightDish_LP3
+[2019.06.03-17.51.01:330][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading NULL.
+[2019.06.03-17.51.01:331][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.51.01:331][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightDish_LP.WallLightDish_LP Referenced by WallLightDish_LP4
+[2019.06.03-17.51.01:332][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:332][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.51.01:332][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightDishSteel_M.WallLightDishSteel_M Referenced by WallLightDish_LP4
+[2019.06.03-17.51.01:333][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading NULL.
+[2019.06.03-17.51.01:334][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.51.01:334][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightDish_LP.WallLightDish_LP Referenced by WallLightDish_LP_6
+[2019.06.03-17.51.01:334][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading NULL.
+[2019.06.03-17.51.01:335][385]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishBrass_M'
+[2019.06.03-17.51.01:335][385]LoadErrors: Failed to load /Game/Users/Reece/WallLightDishBrass_M.WallLightDishBrass_M Referenced by WallLightDish_LP_6
+[2019.06.03-17.51.01:336][385]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishBrass_M' while loading NULL.
+[2019.06.03-17.51.01:678][385]LogAIModule: Creating AISystem for world LevelOne
+[2019.06.03-17.51.01:724][385]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Niall/Levels/LevelOne.LevelOne
+[2019.06.03-17.51.01:756][385]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.03-17.51.01:757][385]LightingResults: New page: Lighting Build
+[2019.06.03-17.51.01:757][385]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.06.03-17.51.01:759][385]MapCheck: New page: Map Check
+[2019.06.03-17.51.01:759][385]LightingResults: New page: Lighting Build
+[2019.06.03-17.51.02:025][385]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.03-17.51.02:157][385]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.03-17.51.02:905][385]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 748.628ms to complete.
+[2019.06.03-17.51.02:910][385]LogFileHelpers: Loading map 'LevelOne' took 1.155
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PlayerTrigger': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PlayerTrigger': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RandomBox': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh1': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.51.03:028][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RandomBox': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.51.03:029][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextRender': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.51.03:029][385]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextRender': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.51.13:780][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-17.51.20:505][853]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.06.03-17.51.20:519][853]LogAssetEditorManager: Opening Asset editor for World /Game/Users/Josh/MenuLevel/MainMenuLevel.MainMenuLevel
+[2019.06.03-17.51.20:552][853]Cmd: MAP LOAD FILE="../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Josh/MenuLevel/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.03-17.51.20:552][853]LightingResults: New page: Lighting Build
+[2019.06.03-17.51.20:553][853]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2019.06.03-17.51.20:560][853]MapCheck: New page: Map Check
+[2019.06.03-17.51.20:560][853]LightingResults: New page: Lighting Build
+[2019.06.03-17.51.20:660][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.03-17.51.20:767][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.03-17.51.21:639][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 871.539ms to complete.
+[2019.06.03-17.51.21:642][853]LogFileHelpers: Loading map 'MainMenuLevel' took 1.090
+[2019.06.03-17.51.30:364][863]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-17.51.30:398][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-17.51.30:410][863]PIE: New page: PIE session: MainMenuLevel (3 Jun 2019 19:51:30)
+[2019.06.03-17.51.30:411][863]LogPlayLevel: Creating play world package: /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel
+[2019.06.03-17.51.30:414][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003681s)
+[2019.06.03-17.51.30:415][863]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.06.03-17.51.30:415][863]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2019.06.03-17.51.30:415][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/MenuLevel/MainMenuLevel.MainMenuLevel to /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004411s)
+[2019.06.03-17.51.30:450][863]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-17.51.30:465][863]LogInit: FAudioDevice initialized.
+[2019.06.03-17.51.30:506][863]LogLoad: Game class is 'MenuGameMode_C'
+[2019.06.03-17.51.30:513][863]LogWorld: Bringing World /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.06.03-18.51.30
+[2019.06.03-17.51.30:514][863]LogWorld: Bringing up level for play took: 0.004169
+[2019.06.03-17.51.30:549][863]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2019.06.03-17.51.30:554][863]PIE: Play in editor start time for /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel 0.626
+[2019.06.03-17.51.36:257][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-17.51.38:690][671]Cmd: SELECT NONE
+[2019.06.03-17.51.40:405][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.51.40:441][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-17.51.40:493][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.51.40:513][877]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.03-17.51.46:636][606]LogEditorViewport: Clicking on Actor (LMB): ComputerMarker_C (ComputerMarker)
+[2019.06.03-17.51.46:923][618]LogRenderer: Reallocating scene render targets to support 1296x660 Format 10 NumSamples 1 (Frame:1748).
+[2019.06.03-17.51.47:011][619]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:1750).
+[2019.06.03-17.51.47:011][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-17.51.50:414][991]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-17.51.50:457][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-17.51.50:457][991]PIE: New page: PIE session: MainMenuLevel (3 Jun 2019 19:51:50)
+[2019.06.03-17.51.50:458][991]LogPlayLevel: Creating play world package: /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel
+[2019.06.03-17.51.50:461][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003463s)
+[2019.06.03-17.51.50:462][991]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.06.03-17.51.50:462][991]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2019.06.03-17.51.50:462][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Users/Josh/MenuLevel/MainMenuLevel.MainMenuLevel to /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004184s)
+[2019.06.03-17.51.50:500][991]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-17.51.50:515][991]LogInit: FAudioDevice initialized.
+[2019.06.03-17.51.50:515][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-17.51.50:549][991]LogLoad: Game class is 'MenuGameMode_C'
+[2019.06.03-17.51.50:553][991]LogWorld: Bringing World /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.06.03-18.51.50
+[2019.06.03-17.51.50:554][991]LogWorld: Bringing up level for play took: 0.003371
+[2019.06.03-17.51.50:569][991]PIE: Play in editor start time for /Game/Users/Josh/MenuLevel/UEDPIE_0_MainMenuLevel 0.641
+[2019.06.03-17.52.04:797][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-17.52.22:905][334]LogNet: Browse: /Game/Users/Niall/Levels/LevelOne
+[2019.06.03-17.52.22:905][334]LogLoad: LoadMap: /Game/Users/Niall/Levels/LevelOne
+[2019.06.03-17.52.22:957][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.22:958][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:958][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective
+[2019.06.03-17.52.22:958][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.52.22:959][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:959][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective
+[2019.06.03-17.52.22:965][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.22:965][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:975][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.22:976][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:976][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightDishBrass_M
+[2019.06.03-17.52.22:976][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishSteel'
+[2019.06.03-17.52.22:977][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishSteel' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:977][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightDishSteel
+[2019.06.03-17.52.22:977][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageBrass_M'
+[2019.06.03-17.52.22:978][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:978][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFCageBrass_M
+[2019.06.03-17.52.22:978][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.22:979][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:979][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFCageSteel_M
+[2019.06.03-17.52.22:979][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentBrass_M'
+[2019.06.03-17.52.22:980][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:980][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescentBrass_M
+[2019.06.03-17.52.22:980][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.52.22:981][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:981][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescentSteel_M
+[2019.06.03-17.52.22:982][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.52.22:982][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:982][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightCageBrass_M
+[2019.06.03-17.52.22:983][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.52.22:984][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:984][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightCageSteel_M
+[2019.06.03-17.52.22:984][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishBrass_M'
+[2019.06.03-17.52.22:984][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:985][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightDishBrass_M
+[2019.06.03-17.52.22:985][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.52.22:985][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.22:985][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightDishSteel_M
+[2019.06.03-17.52.23:013][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:013][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:014][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.52.23:014][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:027][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:028][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:028][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightDish_LP
+[2019.06.03-17.52.23:028][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:029][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:029][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishSteel'
+[2019.06.03-17.52.23:030][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishSteel' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:030][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageBrass_M'
+[2019.06.03-17.52.23:030][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:031][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:031][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:032][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.52.23:032][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:032][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescent1_LP
+[2019.06.03-17.52.23:033][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentBrass_M'
+[2019.06.03-17.52.23:033][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:034][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:034][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:034][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/CeilingLightFluorescentCage_LP
+[2019.06.03-17.52.23:035][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.52.23:035][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:035][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:036][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:036][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightCage_LP
+[2019.06.03-17.52.23:036][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.52.23:037][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:037][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.52.23:038][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:038][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.52.23:039][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:039][334]LoadErrors: Error: /Game/Users/Niall/Levels/LevelOne : Can't find file for asset. /Game/Users/Reece/WallLightDish_LP
+[2019.06.03-17.52.23:039][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishBrass_M'
+[2019.06.03-17.52.23:040][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishBrass_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:040][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.52.23:040][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:060][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:060][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:061][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.52.23:061][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:062][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:062][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:063][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:063][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:064][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.52.23:064][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:065][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:065][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:066][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:066][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:067][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:067][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:068][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.52.23:068][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:069][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:070][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:070][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.52.23:070][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading ../../../../../../Users/b017403g/Desktop/Collab2019.git/trunk/TheDescent_Collab19/Content/Users/Niall/Levels/LevelOne.umap.
+[2019.06.03-17.52.23:098][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:099][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading NULL.
+[2019.06.03-17.52.23:099][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective'
+[2019.06.03-17.52.23:100][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/ComputerObjective' while loading NULL.
+[2019.06.03-17.52.23:100][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.52.23:101][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading NULL.
+[2019.06.03-17.52.23:101][334]LogLinker: Warning: Can't find file '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective'
+[2019.06.03-17.52.23:102][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Jerry/ObjectiveSystemNew/FindWifeObjective' while loading NULL.
+[2019.06.03-17.52.23:476][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:476][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP10_39
+[2019.06.03-17.52.23:477][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:478][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:478][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP10_39
+[2019.06.03-17.52.23:478][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:479][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:479][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP11
+[2019.06.03-17.52.23:479][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:480][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:480][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP11
+[2019.06.03-17.52.23:480][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:481][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:481][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP12_2
+[2019.06.03-17.52.23:481][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:482][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:482][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP12_2
+[2019.06.03-17.52.23:482][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:483][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:483][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP13_5
+[2019.06.03-17.52.23:483][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:484][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:484][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP13_5
+[2019.06.03-17.52.23:484][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:485][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:485][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP2
+[2019.06.03-17.52.23:485][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:486][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:486][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP2
+[2019.06.03-17.52.23:486][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:487][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:487][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP3_31
+[2019.06.03-17.52.23:487][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:488][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:488][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP3_31
+[2019.06.03-17.52.23:488][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:489][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:489][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP4_17
+[2019.06.03-17.52.23:489][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:490][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishSteel'
+[2019.06.03-17.52.23:490][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishSteel.CeilingLightDishSteel Referenced by CeilingLightDish_LP4_17
+[2019.06.03-17.52.23:490][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishSteel' while loading NULL.
+[2019.06.03-17.52.23:491][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:491][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP5
+[2019.06.03-17.52.23:491][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:492][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:492][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP5
+[2019.06.03-17.52.23:492][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:493][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:493][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP6
+[2019.06.03-17.52.23:493][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:494][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:494][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP6
+[2019.06.03-17.52.23:494][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:495][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:495][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP7_30
+[2019.06.03-17.52.23:495][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:496][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:496][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP7_30
+[2019.06.03-17.52.23:496][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:497][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:497][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP8_33
+[2019.06.03-17.52.23:498][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:498][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:498][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP8_33
+[2019.06.03-17.52.23:499][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:499][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:499][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP9_36
+[2019.06.03-17.52.23:500][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:500][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:500][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP9_36
+[2019.06.03-17.52.23:501][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:501][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDish_LP'
+[2019.06.03-17.52.23:501][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDish_LP.CeilingLightDish_LP Referenced by CeilingLightDish_LP_9
+[2019.06.03-17.52.23:502][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:502][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightDishBrass_M'
+[2019.06.03-17.52.23:502][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightDishBrass_M.CeilingLightDishBrass_M Referenced by CeilingLightDish_LP_9
+[2019.06.03-17.52.23:503][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.23:503][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.52.23:503][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP2_20
+[2019.06.03-17.52.23:504][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.52.23:504][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentBrass_M'
+[2019.06.03-17.52.23:505][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentBrass_M.CeilingLightFluorescentBrass_M Referenced by CeilingLightFluorescent1_LP2_20
+[2019.06.03-17.52.23:505][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentBrass_M' while loading NULL.
+[2019.06.03-17.52.23:506][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.52.23:506][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP3_27
+[2019.06.03-17.52.23:506][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.52.23:507][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.52.23:507][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP4_3
+[2019.06.03-17.52.23:507][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.52.23:508][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.52.23:508][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentSteel_M.CeilingLightFluorescentSteel_M Referenced by CeilingLightFluorescent1_LP4_3
+[2019.06.03-17.52.23:508][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading NULL.
+[2019.06.03-17.52.23:509][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:509][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescent1_LP5
+[2019.06.03-17.52.23:509][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:510][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:510][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescent1_LP5
+[2019.06.03-17.52.23:511][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:511][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:511][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescent1_LP6_7
+[2019.06.03-17.52.23:512][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:512][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:513][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescent1_LP6_7
+[2019.06.03-17.52.23:513][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:514][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescent1_LP'
+[2019.06.03-17.52.23:514][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescent1_LP.CeilingLightFluorescent1_LP Referenced by CeilingLightFluorescent1_LP_2
+[2019.06.03-17.52.23:514][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescent1_LP' while loading NULL.
+[2019.06.03-17.52.23:515][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentSteel_M'
+[2019.06.03-17.52.23:515][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentSteel_M.CeilingLightFluorescentSteel_M Referenced by CeilingLightFluorescent1_LP_2
+[2019.06.03-17.52.23:515][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentSteel_M' while loading NULL.
+[2019.06.03-17.52.23:516][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:516][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP2
+[2019.06.03-17.52.23:516][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:517][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:517][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP2
+[2019.06.03-17.52.23:517][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:518][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:518][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP3
+[2019.06.03-17.52.23:519][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:519][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:519][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP3
+[2019.06.03-17.52.23:520][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:520][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:520][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP4
+[2019.06.03-17.52.23:521][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:521][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:522][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP4
+[2019.06.03-17.52.23:522][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:523][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:523][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP5
+[2019.06.03-17.52.23:523][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:524][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:524][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP5
+[2019.06.03-17.52.23:524][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:525][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:525][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP6
+[2019.06.03-17.52.23:525][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:526][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:526][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP6
+[2019.06.03-17.52.23:526][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:527][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:527][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP7_34
+[2019.06.03-17.52.23:528][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:528][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:528][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP7_34
+[2019.06.03-17.52.23:529][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:529][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:529][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP8_11
+[2019.06.03-17.52.23:530][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:531][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageBrass_M'
+[2019.06.03-17.52.23:531][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageBrass_M.CeilingLightFCageBrass_M Referenced by CeilingLightFluorescentCage_LP8_11
+[2019.06.03-17.52.23:531][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageBrass_M' while loading NULL.
+[2019.06.03-17.52.23:532][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:532][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP9
+[2019.06.03-17.52.23:532][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:533][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:533][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP9
+[2019.06.03-17.52.23:533][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:534][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFluorescentCage_LP'
+[2019.06.03-17.52.23:534][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFluorescentCage_LP.CeilingLightFluorescentCage_LP Referenced by CeilingLightFluorescentCage_LP_10
+[2019.06.03-17.52.23:534][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFluorescentCage_LP' while loading NULL.
+[2019.06.03-17.52.23:535][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/CeilingLightFCageSteel_M'
+[2019.06.03-17.52.23:535][334]LoadErrors: Failed to load /Game/Users/Reece/CeilingLightFCageSteel_M.CeilingLightFCageSteel_M Referenced by CeilingLightFluorescentCage_LP_10
+[2019.06.03-17.52.23:536][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/CeilingLightFCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:553][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:553][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP2_42
+[2019.06.03-17.52.23:554][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.52.23:554][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.52.23:554][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageBrass_M.WallLightCageBrass_M Referenced by WallLightCage_LP2_42
+[2019.06.03-17.52.23:555][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading NULL.
+[2019.06.03-17.52.23:556][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:556][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP3_45
+[2019.06.03-17.52.23:556][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.52.23:557][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.52.23:557][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageSteel_M.WallLightCageSteel_M Referenced by WallLightCage_LP3_45
+[2019.06.03-17.52.23:557][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:558][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:558][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP4_48
+[2019.06.03-17.52.23:558][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.52.23:559][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.52.23:559][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageBrass_M.WallLightCageBrass_M Referenced by WallLightCage_LP4_48
+[2019.06.03-17.52.23:560][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading NULL.
+[2019.06.03-17.52.23:560][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:560][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP5
+[2019.06.03-17.52.23:561][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.52.23:561][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageBrass_M'
+[2019.06.03-17.52.23:561][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageBrass_M.WallLightCageBrass_M Referenced by WallLightCage_LP5
+[2019.06.03-17.52.23:562][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageBrass_M' while loading NULL.
+[2019.06.03-17.52.23:562][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCage_LP'
+[2019.06.03-17.52.23:563][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCage_LP.WallLightCage_LP Referenced by WallLightCage_LP_14
+[2019.06.03-17.52.23:563][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCage_LP' while loading NULL.
+[2019.06.03-17.52.23:564][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightCageSteel_M'
+[2019.06.03-17.52.23:564][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightCageSteel_M.WallLightCageSteel_M Referenced by WallLightCage_LP_14
+[2019.06.03-17.52.23:564][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightCageSteel_M' while loading NULL.
+[2019.06.03-17.52.23:565][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.52.23:565][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightDish_LP.WallLightDish_LP Referenced by WallLightDish_LP3
+[2019.06.03-17.52.23:565][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:566][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.52.23:566][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightDishSteel_M.WallLightDishSteel_M Referenced by WallLightDish_LP3
+[2019.06.03-17.52.23:566][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading NULL.
+[2019.06.03-17.52.23:567][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.52.23:567][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightDish_LP.WallLightDish_LP Referenced by WallLightDish_LP4
+[2019.06.03-17.52.23:568][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:568][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishSteel_M'
+[2019.06.03-17.52.23:568][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightDishSteel_M.WallLightDishSteel_M Referenced by WallLightDish_LP4
+[2019.06.03-17.52.23:569][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishSteel_M' while loading NULL.
+[2019.06.03-17.52.23:569][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDish_LP'
+[2019.06.03-17.52.23:569][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightDish_LP.WallLightDish_LP Referenced by WallLightDish_LP_6
+[2019.06.03-17.52.23:570][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDish_LP' while loading NULL.
+[2019.06.03-17.52.23:570][334]LogLinker: Warning: Can't find file '/Game/Users/Reece/WallLightDishBrass_M'
+[2019.06.03-17.52.23:571][334]LoadErrors: Failed to load /Game/Users/Reece/WallLightDishBrass_M.WallLightDishBrass_M Referenced by WallLightDish_LP_6
+[2019.06.03-17.52.23:571][334]LogLinker: Warning: Can't find file for asset '/Game/Users/Reece/WallLightDishBrass_M' while loading NULL.
+[2019.06.03-17.52.27:168][334]LogAIModule: Creating AISystem for world LevelOne
+[2019.06.03-17.52.27:169][334]LogLoad: Game class is 'descentLevelGamemode_C'
+[2019.06.03-17.52.27:210][334]LogWorld: Bringing World /Game/Users/Niall/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.06.03-18.52.27
+[2019.06.03-17.52.27:213][334]LogWorld: Bringing up level for play took: 0.044236
+[2019.06.03-17.52.27:214][334]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.06.03-17.52.27:218][334]LogBlueprintUserMessages: [RagdollTest2] Hello
+[2019.06.03-17.52.27:218][334]LogBlueprintUserMessages: [RagdollTest_2] Hello
+[2019.06.03-17.52.27:219][334]LogBlueprintUserMessages: [startElevator_2] START GAME
+[2019.06.03-17.52.27:222][334]LogLoad: Took 4.316924 seconds to LoadMap(/Game/Users/Niall/Levels/LevelOne)
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PlayerTrigger': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PlayerTrigger': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RandomBox': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh1': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RandomBox': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextRender': ComputerObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.ComputerObjective_2
+[2019.06.03-17.52.27:245][335]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextRender': FindWifeObjective_C /Game/Users/Niall/Levels/LevelOne.LevelOne:PersistentLevel.FindWifeObjective_2
+[2019.06.03-17.52.27:846][381]LogBlueprintUserMessages: [triggerscreeneffect_2] 5698.800293
+[2019.06.03-17.52.27:846][381]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5698.800293
+[2019.06.03-17.52.28:847][478]LogBlueprintUserMessages: [triggerscreeneffect_2] 5744.644043
+[2019.06.03-17.52.28:847][478]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5744.644043
+[2019.06.03-17.52.29:847][595]LogBlueprintUserMessages: [triggerscreeneffect_2] 5791.773926
+[2019.06.03-17.52.29:847][595]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5791.773926
+[2019.06.03-17.52.30:852][712]LogBlueprintUserMessages: [triggerscreeneffect_2] 5855.208008
+[2019.06.03-17.52.30:852][712]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5855.208008
+[2019.06.03-17.52.31:848][812]LogBlueprintUserMessages: [triggerscreeneffect_2] 5929.007813
+[2019.06.03-17.52.31:848][812]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5929.007813
+[2019.06.03-17.52.32:847][907]LogBlueprintUserMessages: [triggerscreeneffect_2] 6008.91748
+[2019.06.03-17.52.32:847][907]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6008.91748
+[2019.06.03-17.52.33:843][ 25]LogBlueprintUserMessages: [triggerscreeneffect_2] 6083.859375
+[2019.06.03-17.52.33:843][ 25]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6083.859375
+[2019.06.03-17.52.34:846][145]LogBlueprintUserMessages: [triggerscreeneffect_2] 6160.070313
+[2019.06.03-17.52.34:846][145]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6160.070313
+[2019.06.03-17.52.35:845][264]LogBlueprintUserMessages: [triggerscreeneffect_2] 6236.58252
+[2019.06.03-17.52.35:845][264]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6236.58252
+[2019.06.03-17.52.36:849][381]LogBlueprintUserMessages: [triggerscreeneffect_2] 6314.075195
+[2019.06.03-17.52.36:849][381]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6314.075195
+[2019.06.03-17.52.37:851][492]LogBlueprintUserMessages: [triggerscreeneffect_2] 6392.183594
+[2019.06.03-17.52.37:851][492]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6392.183594
+[2019.06.03-17.52.38:841][605]LogBlueprintUserMessages: [triggerscreeneffect_2] 6470.029297
+[2019.06.03-17.52.38:841][605]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6470.029297
+[2019.06.03-17.52.39:842][718]LogBlueprintUserMessages: [triggerscreeneffect_2] 6549.30127
+[2019.06.03-17.52.39:842][718]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6549.30127
+[2019.06.03-17.52.40:853][829]LogBlueprintUserMessages: [triggerscreeneffect_2] 6629.856934
+[2019.06.03-17.52.40:853][829]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6629.856934
+[2019.06.03-17.52.41:848][934]LogBlueprintUserMessages: [triggerscreeneffect_2] 6715.334473
+[2019.06.03-17.52.41:848][934]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6715.334473
+[2019.06.03-17.52.42:847][ 33]LogBlueprintUserMessages: [triggerscreeneffect_2] 6803.523438
+[2019.06.03-17.52.42:847][ 33]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6803.523438
+[2019.06.03-17.52.43:844][124]LogBlueprintUserMessages: [triggerscreeneffect_2] 6894.840332
+[2019.06.03-17.52.43:844][124]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6894.840332
+[2019.06.03-17.52.44:846][207]LogBlueprintUserMessages: [triggerscreeneffect_2] 6743.857422
+[2019.06.03-17.52.44:846][207]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6743.857422
+[2019.06.03-17.52.45:843][301]LogBlueprintUserMessages: [triggerscreeneffect_2] 6600.067871
+[2019.06.03-17.52.45:843][301]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6600.067871
+[2019.06.03-17.52.46:848][364]LogBlueprintUserMessages: [triggerscreeneffect_2] 6412.010742
+[2019.06.03-17.52.46:848][364]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6412.010742
+[2019.06.03-17.52.47:846][427]LogBlueprintUserMessages: [triggerscreeneffect_2] 6164.149414
+[2019.06.03-17.52.47:846][427]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 6164.149414
+[2019.06.03-17.52.48:856][490]LogBlueprintUserMessages: [triggerscreeneffect_2] 5868.949707
+[2019.06.03-17.52.48:857][490]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5868.949707
+[2019.06.03-17.52.49:842][547]LogBlueprintUserMessages: [triggerscreeneffect_2] 5580.492676
+[2019.06.03-17.52.49:842][547]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5580.492676
+[2019.06.03-17.52.50:862][611]LogBlueprintUserMessages: [triggerscreeneffect_2] 5336.437988
+[2019.06.03-17.52.50:862][611]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5336.437988
+[2019.06.03-17.52.51:846][668]LogBlueprintUserMessages: [triggerscreeneffect_2] 5028.317871
+[2019.06.03-17.52.51:846][668]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 5028.317871
+[2019.06.03-17.52.52:847][728]LogBlueprintUserMessages: [triggerscreeneffect_2] 4708.785645
+[2019.06.03-17.52.52:847][728]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4708.785645
+[2019.06.03-17.52.53:856][789]LogBlueprintUserMessages: [triggerscreeneffect_2] 4389.70166
+[2019.06.03-17.52.53:856][789]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4389.70166
+[2019.06.03-17.52.54:849][851]LogBlueprintUserMessages: [triggerscreeneffect_2] 4088.718018
+[2019.06.03-17.52.54:849][851]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4088.718018
+[2019.06.03-17.52.55:852][914]LogBlueprintUserMessages: [triggerscreeneffect_2] 4093.321533
+[2019.06.03-17.52.55:852][914]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4093.321533
+[2019.06.03-17.52.56:842][977]LogBlueprintUserMessages: [triggerscreeneffect_2] 4186.407715
+[2019.06.03-17.52.56:842][977]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4186.407715
+[2019.06.03-17.52.57:847][ 41]LogBlueprintUserMessages: [triggerscreeneffect_2] 4249.158691
+[2019.06.03-17.52.57:847][ 41]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4249.158691
+[2019.06.03-17.52.58:856][105]LogBlueprintUserMessages: [triggerscreeneffect_2] 4276.177246
+[2019.06.03-17.52.58:857][105]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4276.177246
+[2019.06.03-17.52.59:402][140]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.0
+[2019.06.03-17.52.59:406][140]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.01618
+[2019.06.03-17.52.59:419][141]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.033196
+[2019.06.03-17.52.59:434][142]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.047821
+[2019.06.03-17.52.59:450][143]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.064031
+[2019.06.03-17.52.59:466][144]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.079587
+[2019.06.03-17.52.59:481][145]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.09494
+[2019.06.03-17.52.59:497][146]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.111216
+[2019.06.03-17.52.59:513][147]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.126448
+[2019.06.03-17.52.59:530][148]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.143502
+[2019.06.03-17.52.59:544][149]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.158111
+[2019.06.03-17.52.59:559][150]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.173287
+[2019.06.03-17.52.59:575][151]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.189289
+[2019.06.03-17.52.59:592][152]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.205413
+[2019.06.03-17.52.59:607][153]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.220378
+[2019.06.03-17.52.59:623][154]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.236503
+[2019.06.03-17.52.59:638][155]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.251825
+[2019.06.03-17.52.59:653][156]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.267129
+[2019.06.03-17.52.59:670][157]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.283509
+[2019.06.03-17.52.59:686][158]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.299631
+[2019.06.03-17.52.59:701][159]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.315004
+[2019.06.03-17.52.59:716][160]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.330266
+[2019.06.03-17.52.59:733][161]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.346516
+[2019.06.03-17.52.59:748][162]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.36168
+[2019.06.03-17.52.59:764][163]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.378012
+[2019.06.03-17.52.59:780][164]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.394314
+[2019.06.03-17.52.59:798][165]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.411648
+[2019.06.03-17.52.59:812][166]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.425242
+[2019.06.03-17.52.59:827][167]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.441545
+[2019.06.03-17.52.59:844][168]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.456902
+[2019.06.03-17.52.59:846][168]LogBlueprintUserMessages: [triggerscreeneffect_2] 4279.581055
+[2019.06.03-17.52.59:846][168]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4279.581055
+[2019.06.03-17.52.59:860][169]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.47323
+[2019.06.03-17.52.59:874][170]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.487923
+[2019.06.03-17.52.59:888][171]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.502826
+[2019.06.03-17.52.59:905][172]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.519078
+[2019.06.03-17.52.59:922][173]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.535929
+[2019.06.03-17.52.59:937][174]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.550863
+[2019.06.03-17.52.59:952][175]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.566306
+[2019.06.03-17.52.59:968][176]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.582607
+[2019.06.03-17.52.59:985][177]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.597883
+[2019.06.03-17.53.00:001][178]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.614239
+[2019.06.03-17.53.00:016][179]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.62948
+[2019.06.03-17.53.00:032][180]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.645725
+[2019.06.03-17.53.00:047][181]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.661202
+[2019.06.03-17.53.00:064][182]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.678277
+[2019.06.03-17.53.00:079][183]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.693004
+[2019.06.03-17.53.00:095][184]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.709229
+[2019.06.03-17.53.00:111][185]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.724429
+[2019.06.03-17.53.00:127][186]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.740784
+[2019.06.03-17.53.00:142][187]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.755984
+[2019.06.03-17.53.00:158][188]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.771986
+[2019.06.03-17.53.00:173][189]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.786608
+[2019.06.03-17.53.00:188][190]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.801991
+[2019.06.03-17.53.00:205][191]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.818172
+[2019.06.03-17.53.00:220][192]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.833533
+[2019.06.03-17.53.00:236][193]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.849711
+[2019.06.03-17.53.00:251][194]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.864911
+[2019.06.03-17.53.00:266][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-17.53.00:267][195]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.881127
+[2019.06.03-17.53.00:299][196]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.913117
+[2019.06.03-17.53.00:307][197]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.921451
+[2019.06.03-17.53.00:317][198]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.930918
+[2019.06.03-17.53.00:331][199]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.944956
+[2019.06.03-17.53.00:347][200]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.960229
+[2019.06.03-17.53.00:362][201]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.976488
+[2019.06.03-17.53.00:378][202]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 0.991805
+[2019.06.03-17.53.00:395][203]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.009175
+[2019.06.03-17.53.00:409][204]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.023445
+[2019.06.03-17.53.00:427][205]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.040239
+[2019.06.03-17.53.00:441][206]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.054653
+[2019.06.03-17.53.00:457][207]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.070711
+[2019.06.03-17.53.00:472][208]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.085835
+[2019.06.03-17.53.00:488][209]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.101291
+[2019.06.03-17.53.00:504][210]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.11772
+[2019.06.03-17.53.00:519][211]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.133059
+[2019.06.03-17.53.00:536][212]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.149593
+[2019.06.03-17.53.00:552][213]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.164873
+[2019.06.03-17.53.00:567][214]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.181302
+[2019.06.03-17.53.00:583][215]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.196541
+[2019.06.03-17.53.00:600][216]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.213595
+[2019.06.03-17.53.00:614][217]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.228078
+[2019.06.03-17.53.00:631][218]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.244362
+[2019.06.03-17.53.00:646][219]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.259716
+[2019.06.03-17.53.00:662][220]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.275815
+[2019.06.03-17.53.00:677][221]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.290997
+[2019.06.03-17.53.00:694][222]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.307289
+[2019.06.03-17.53.00:709][223]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.32237
+[2019.06.03-17.53.00:725][224]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.338373
+[2019.06.03-17.53.00:740][225]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.352911
+[2019.06.03-17.53.00:754][226]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.368306
+[2019.06.03-17.53.00:771][227]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.385165
+[2019.06.03-17.53.00:786][228]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.399896
+[2019.06.03-17.53.00:802][229]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.416254
+[2019.06.03-17.53.00:819][230]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.432299
+[2019.06.03-17.53.00:834][231]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.448048
+[2019.06.03-17.53.00:850][232]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.463341
+[2019.06.03-17.53.00:854][232]LogBlueprintUserMessages: [triggerscreeneffect_2] 4260.207031
+[2019.06.03-17.53.00:854][232]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4260.207031
+[2019.06.03-17.53.00:866][233]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.47984
+[2019.06.03-17.53.00:882][234]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.495072
+[2019.06.03-17.53.00:898][235]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.511286
+[2019.06.03-17.53.00:913][236]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.526553
+[2019.06.03-17.53.00:929][237]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.542858
+[2019.06.03-17.53.00:945][238]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.558155
+[2019.06.03-17.53.00:959][239]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.573346
+[2019.06.03-17.53.00:976][240]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.589563
+[2019.06.03-17.53.00:993][241]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.606305
+[2019.06.03-17.53.01:007][242]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.620208
+[2019.06.03-17.53.01:023][243]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.635689
+[2019.06.03-17.53.01:038][244]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.651979
+[2019.06.03-17.53.01:055][245]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.668835
+[2019.06.03-17.53.01:070][246]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.683785
+[2019.06.03-17.53.01:086][247]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.700186
+[2019.06.03-17.53.01:103][248]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.716713
+[2019.06.03-17.53.01:119][249]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.732263
+[2019.06.03-17.53.01:134][250]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.748241
+[2019.06.03-17.53.01:150][251]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.763526
+[2019.06.03-17.53.01:166][252]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.779671
+[2019.06.03-17.53.01:182][253]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.794852
+[2019.06.03-17.53.01:198][254]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.811336
+[2019.06.03-17.53.01:213][255]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.826604
+[2019.06.03-17.53.01:229][256]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.842744
+[2019.06.03-17.53.01:244][257]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.857914
+[2019.06.03-17.53.01:261][258]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.875218
+[2019.06.03-17.53.01:275][259]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.889319
+[2019.06.03-17.53.01:291][260]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.904563
+[2019.06.03-17.53.01:307][261]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.920623
+[2019.06.03-17.53.01:323][262]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.936411
+[2019.06.03-17.53.01:338][263]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.951834
+[2019.06.03-17.53.01:353][264]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.967223
+[2019.06.03-17.53.01:370][265]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.983505
+[2019.06.03-17.53.01:385][266]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 1.998711
+[2019.06.03-17.53.01:402][267]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 2.0
+[2019.06.03-17.53.01:846][295]LogBlueprintUserMessages: [triggerscreeneffect_2] 4243.355957
+[2019.06.03-17.53.01:846][295]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4243.355957
+[2019.06.03-17.53.03:039][330]LogBlueprintUserMessages: [triggerscreeneffect_2] 4226.160156
+[2019.06.03-17.53.03:039][330]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4226.160156
+[2019.06.03-17.53.04:051][333]LogBlueprintUserMessages: [triggerscreeneffect_2] 4157.611816
+[2019.06.03-17.53.04:051][333]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4157.611816
+[2019.06.03-17.53.05:063][336]LogBlueprintUserMessages: [triggerscreeneffect_2] 4060.532471
+[2019.06.03-17.53.05:063][336]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 4060.532471
+[2019.06.03-17.53.06:064][339]LogBlueprintUserMessages: [triggerscreeneffect_2] 3964.847168
+[2019.06.03-17.53.06:064][339]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3964.847168
+[2019.06.03-17.53.07:066][342]LogBlueprintUserMessages: [triggerscreeneffect_2] 3869.087891
+[2019.06.03-17.53.07:066][342]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3869.087891
+[2019.06.03-17.53.08:076][345]LogBlueprintUserMessages: [triggerscreeneffect_2] 3773.128906
+[2019.06.03-17.53.08:076][345]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3773.128906
+[2019.06.03-17.53.09:083][348]LogBlueprintUserMessages: [triggerscreeneffect_2] 3693.169189
+[2019.06.03-17.53.09:083][348]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3693.169189
+[2019.06.03-17.53.10:080][351]LogBlueprintUserMessages: [triggerscreeneffect_2] 3622.528564
+[2019.06.03-17.53.10:080][351]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3622.528564
+[2019.06.03-17.53.11:080][354]LogBlueprintUserMessages: [triggerscreeneffect_2] 3553.068115
+[2019.06.03-17.53.11:080][354]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3553.068115
+[2019.06.03-17.53.12:075][357]LogBlueprintUserMessages: [triggerscreeneffect_2] 3485.093018
+[2019.06.03-17.53.12:075][357]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3485.093018
+[2019.06.03-17.53.13:090][360]LogBlueprintUserMessages: [triggerscreeneffect_2] 3418.050537
+[2019.06.03-17.53.13:090][360]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3418.050537
+[2019.06.03-17.53.13:841][385]LogBlueprintUserMessages: [triggerscreeneffect_2] 3368.49585
+[2019.06.03-17.53.13:841][385]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3368.49585
+[2019.06.03-17.53.14:842][450]LogBlueprintUserMessages: [triggerscreeneffect_2] 3305.088135
+[2019.06.03-17.53.14:842][450]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3305.088135
+[2019.06.03-17.53.15:070][465]Cmd: LevelEditor.ToggleImmersive
+[2019.06.03-17.53.15:307][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-17.53.15:853][515]LogBlueprintUserMessages: [triggerscreeneffect_2] 3242.944824
+[2019.06.03-17.53.15:853][515]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3242.944824
+[2019.06.03-17.53.16:842][605]LogBlueprintUserMessages: [triggerscreeneffect_2] 3184.025879
+[2019.06.03-17.53.16:842][605]LogBlueprintUserMessages: [NewDrSkeng_USE_C_0] 3184.025879
+[2019.06.03-17.53.17:503][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.53.17:581][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-17.53.17:640][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-17.53.17:662][670]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.06.03-17.53.17:844][691]Cmd: SELECT NONE
+[2019.06.03-17.53.18:625][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-17.53.18:896][791]LogSlate: Window 'TheDescent_Collab19 - Unreal Editor' being destroyed
+[2019.06.03-17.53.18:897][791]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-17.53.19:147][792]Cmd: QUIT_EDITOR
+[2019.06.03-17.53.19:406][792]LogExit: Preparing to exit.
+[2019.06.03-17.53.20:029][792]LogExit: Editor shut down
+[2019.06.03-17.53.20:029][792]LogExit: Transaction tracking system shut down
+[2019.06.03-17.53.20:994][792]LogExit: Object subsystem successfully closed.
+[2019.06.03-17.53.21:013][792]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.03-17.53.21:018][792]LogD3D11RHI: Shutdown
+[2019.06.03-17.53.21:018][792]LogD3D11RHI: CleanupD3DDevice
+[2019.06.03-17.53.21:021][792]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.03-17.53.21:062][792]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.06.03-17.53.21:062][792]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.06.03-17.53.21:062][792]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.06.03-17.53.21:062][792]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.06.03-17.53.21:062][792]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.06.03-17.53.21:063][792]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.06.03-17.53.21:063][792]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.06.03-17.53.21:063][792]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.06.03-17.53.21:063][792]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.06.03-17.53.21:063][792]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.06.03-17.53.21:064][792]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.06.03-17.53.21:065][792]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.06.03-17.53.21:569][792]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.06.03-17.53.21:570][792]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.06.03-17.53.21:636][792]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.06.03-17.53.21:637][792]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.06.03-17.53.21:642][792]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.06.03-17.53.21:643][792]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.06.03-17.53.21:644][792]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.03-17.53.21:734][792]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.03-17.53.21:735][792]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.03-17.53.21:735][792]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.03-17.53.21:735][792]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.06.03-17.53.21:735][792]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.06.03-17.53.21:735][792]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.06.03-17.53.21:735][792]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.03-17.53.21:737][792]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.03-17.53.21:738][792]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.03-17.53.21:739][792]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.03-17.53.21:840][792]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.03-17.53.21:941][792]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.03-17.53.21:942][792]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.03-17.53.21:942][792]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.03-17.53.21:942][792]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.03-17.53.21:942][792]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.03-17.53.21:943][792]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.03-17.53.21:944][792]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.03-17.53.21:944][792]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.03-17.53.21:944][792]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.03-17.53.21:944][792]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.03-17.53.21:944][792]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.03-17.53.21:944][792]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.06.03-17.53.21:946][792]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.06.03-17.53.21:953][792]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.06.03-17.53.21:954][792]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.06.03-17.53.21:956][792]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.06.03-17.53.21:957][792]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.06.03-17.53.21:957][792]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.06.03-17.53.21:981][792]LogDerivedDataCache: Shutdown
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.06.03-17.53.21:981][792]LogXGEController: Cleaning working directory: C:/Users/b017403g/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.06.03-17.53.21:981][792]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.06.03-17.53.21:982][792]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.06.03-17.53.21:983][792]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.06.03-17.53.21:983][792]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.06.03-17.53.21:984][792]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.06.03-17.53.21:984][792]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.06.03-17.53.21:995][792]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.06.03-17.53.21:996][792]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.06.03-17.53.21:996][792]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.06.03-17.53.21:996][792]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.06.03-17.53.21:996][792]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.06.03-17.53.21:996][792]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.06.03-17.53.21:997][792]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.06.03-17.53.21:997][792]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.06.03-17.53.22:008][792]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.06.03-17.53.22:008][792]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.03-17.53.22:008][792]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE50E1DE9-4F73-4564-D6AF-82AF2F348B6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=a3eef68e42b53f1066b3c090843c32da%7C%7C96da6f7b-1f7d-4ae3-8fec-5719838ff1c3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.03-17.53.22:015][792]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.06.03-17.53.22:017][792]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.03-17.53.22:017][792]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.03-17.53.22:018][792]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.03-17.53.22:018][792]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.03-17.53.22:018][792]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.03-17.53.22:018][792]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.03-17.53.22:018][792]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.03-17.53.22:018][792]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.03-17.53.22:019][792]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.03-17.53.22:028][792]LogExit: Exiting.
+[2019.06.03-17.53.22:032][792]Log file closed, 06/03/19 18:53:22
